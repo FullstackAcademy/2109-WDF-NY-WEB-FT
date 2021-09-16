@@ -1,0 +1,17 @@
+body {
+  /* background-color: blue; */
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  background-color: #ccc;
+  border-radius: 3px;
+  padding: 1em;
+}
+
+p:nth-child(2n) {
+  background-color: chartreuse;
+}
