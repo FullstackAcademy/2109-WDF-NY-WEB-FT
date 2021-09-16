@@ -1,4 +1,4 @@
-# 📚 **git2109-WDF-NY-WEB-FT Library**
+# 📚 **2109-WDF-NY-WEB-FT Library**
 
 This will be your main place for Fullstack-related materials!
 
