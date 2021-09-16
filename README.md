@@ -175,6 +175,7 @@ ___
 
 </details>
 
+<!--
 **<details><summary>🏃 Fitness Tracker Series</summary>**
 
 | Workshop | Link | Solution |
