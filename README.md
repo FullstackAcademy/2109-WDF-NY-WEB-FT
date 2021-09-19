@@ -247,7 +247,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-1-1] )
 [am-rev-1-1]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-1-1-ticket] )
-[am-rev-1-1-ticket]: #paste-google-form-link-here
+[am-rev-1-1-ticket]: https://forms.gle/P8pQQi1ZqognD5wy6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-1-demo] )
 [am-rev-1-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-1-1-sol] )
@@ -318,7 +318,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-1-2] )
 [am-rev-1-2]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-1-2-ticket] )
-[am-rev-1-2-ticket]: #paste-google-form-link-here
+[am-rev-1-2-ticket]: https://forms.gle/CG23syVAWfUoc3US9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-2-demo] )
 [am-rev-1-2-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-1-2-sol] )
@@ -401,7 +401,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-1-3] )
 [am-rev-1-3]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-1-3-ticket] )
-[am-rev-1-3-ticket]: #paste-google-form-link-here
+[am-rev-1-3-ticket]: https://forms.gle/JaneK3AQ6VFNxLd88
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-3-demo] )
 [am-rev-1-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-1-3-sol] )
@@ -444,7 +444,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-1-4] )
 [am-rev-1-4]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-1-4-ticket] )
-[am-rev-1-4-ticket]: #paste-google-form-link-here
+[am-rev-1-4-ticket]: https://forms.gle/HTiRRrksRfAu2Fr58
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-4-demo] )
 [am-rev-1-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-1-4-sol] )
@@ -508,7 +508,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-1-5] )
 [am-rev-1-5]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-1-5-ticket] )
-[am-rev-1-5-ticket]: #paste-google-form-link-here
+[am-rev-1-5-ticket]: https://forms.gle/fyYTqWFquz5WSbCA9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-5-demo] )
 [am-rev-1-5-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-1-5-sol] )
@@ -582,7 +582,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-2-1] )
 [am-rev-2-1]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-1-ticket] )
-[am-rev-2-1-ticket]: #paste-google-form-link-here
+[am-rev-2-1-ticket]: https://forms.gle/QUR5cbxG3uuhgV31A
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-1-demo] )
 [am-rev-2-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-1-sol] )
@@ -638,7 +638,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-2-2] )
 [am-rev-2-2]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-2-ticket] )
-[am-rev-2-2-ticket]: #paste-google-form-link-here
+[am-rev-2-2-ticket]: https://forms.gle/gSzG94VW9cL9opc89
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-2-demo] )
 [am-rev-2-2-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-2-sol] )
@@ -706,7 +706,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-2-3] )
 [am-rev-2-3]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-3-ticket] )
-[am-rev-2-3-ticket]: #paste-google-form-link-here
+[am-rev-2-3-ticket]: https://forms.gle/eCL4rDTLAnZGfFBM8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-3-demo] )
 [am-rev-2-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-3-sol] )
@@ -775,7 +775,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-2-4] )
 [am-rev-2-4]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-4-ticket] )
-[am-rev-2-4-ticket]: #paste-google-form-link-here
+[am-rev-2-4-ticket]: https://forms.gle/srJq8ydNeAfCVZEh6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-4-demo] )
 [am-rev-2-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-4-sol] )
@@ -827,7 +827,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-2-5] )
 [am-rev-2-5]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-5-ticket] )
-[am-rev-2-5-ticket]: #paste-google-form-link-here
+[am-rev-2-5-ticket]: https://forms.gle/9TFZ6Hp8SomEaoo68
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-5-demo] )
 [am-rev-2-5-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-5-sol] )
@@ -874,7 +874,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-3-1] )
 [am-rev-3-1]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-3-1-ticket] )
-[am-rev-3-1-ticket]: #paste-google-form-link-here
+[am-rev-3-1-ticket]: https://forms.gle/scRR4q466F6VAnak9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-1-demo] )
 [am-rev-3-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-1-sol] )
@@ -952,7 +952,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-3-3] )
 [am-rev-3-3]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-3-3-ticket] )
-[am-rev-3-3-ticket]: #paste-google-form-link-here
+[am-rev-3-3-ticket]: https://forms.gle/cLPKCdhbzVKtTrbT9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-3-demo] )
 [am-rev-3-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-3-sol] )
@@ -1011,7 +1011,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-3-4] )
 [am-rev-3-4]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-3-4-ticket] )
-[am-rev-3-4-ticket]: #paste-google-form-link-here
+[am-rev-3-4-ticket]: https://forms.gle/GrgJhgML1itZ9sEeA
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-4-demo] )
 [am-rev-3-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-4-sol] )
@@ -1065,7 +1065,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-3-5] )
 [am-rev-3-5]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-3-5-ticket] )
-[am-rev-3-5-ticket]: #paste-google-form-link-here
+[am-rev-3-5-ticket]: https://forms.gle/WWb31AMgnPGwsSev5
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-5-demo] )
 [am-rev-3-5-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-5-sol] )
@@ -1131,7 +1131,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-4-1] )
 [am-rev-4-1]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-4-1-ticket] )
-[am-rev-4-1-ticket]: #paste-google-form-link-here
+[am-rev-4-1-ticket]: https://forms.gle/qEvNxTssJTXUDDr3A
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-1-demo] )
 [am-rev-4-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-4-1-sol] )
@@ -1188,7 +1188,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-4-2] )
 [am-rev-4-2]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-4-2-ticket] )
-[am-rev-4-2-ticket]: #paste-google-form-link-here
+[am-rev-4-2-ticket]: https://forms.gle/MykudAKGdpmX9pxFA
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-2-demo] )
 [am-rev-4-2-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-4-2-sol] )
@@ -1244,7 +1244,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-4-3] )
 [am-rev-4-3]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-4-3-ticket] )
-[am-rev-4-3-ticket]: #paste-google-form-link-here
+[am-rev-4-3-ticket]: https://forms.gle/8Q69UWRD1L5jc2hZ8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-3-demo] )
 [am-rev-4-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-4-3-sol] )
@@ -1300,7 +1300,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-4-4] )
 [am-rev-4-4]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-4-4-ticket] )
-[am-rev-4-4-ticket]: #paste-google-form-link-here
+[am-rev-4-4-ticket]: https://forms.gle/VFviarmVVCtXGMjM9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-4-demo] )
 [am-rev-4-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-4-4-sol] )
@@ -1427,7 +1427,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-6-4] )
 [am-rev-6-4]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-6-4-ticket] )
-[am-rev-6-4-ticket]: #paste-google-form-link-here
+[am-rev-6-4-ticket]: https://forms.gle/1qHWCdDjfM5msrQ68
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-4-demo] )
 [am-rev-6-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-6-4-sol] )
@@ -1484,7 +1484,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-6-1] )
 [am-rev-6-1]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-6-1-ticket] )
-[am-rev-6-1-ticket]: #paste-google-form-link-here
+[am-rev-6-1-ticket]: https://forms.gle/KDcgKxmUTUih3vJZ9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-1-demo] )
 [am-rev-6-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-6-1-sol] )
@@ -1548,7 +1548,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-6-2] )
 [am-rev-6-2]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-6-2-ticket] )
-[am-rev-6-2-ticket]: #paste-google-form-link-here
+[am-rev-6-2-ticket]: https://forms.gle/u1C4s93bLhZhjw9h7
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-2-demo] )
 [am-rev-6-2-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-6-2-sol] )
@@ -1607,7 +1607,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-6-3] )
 [am-rev-6-3]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-6-3-ticket] )
-[am-rev-6-3-ticket]: #paste-google-form-link-here
+[am-rev-6-3-ticket]: https://forms.gle/s1b7hXEBuG2ZvztaA
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-3-demo] )
 [am-rev-6-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-6-3-sol] )
