@@ -251,7 +251,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-1-demo] )
 [am-rev-1-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-1-1-sol] )
-[am-rev-1-1-sol]: #paste-gist-here
+[am-rev-1-1-sol]: 01-junior-phase/exit-ticket-solutions/01-git-pairing.md
 
 - **You should be able to:**
   - Practice effective pair programming
@@ -322,7 +322,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-2-demo] )
 [am-rev-1-2-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-1-2-sol] )
-[am-rev-1-2-sol]: #paste-gist-here
+[am-rev-1-2-sol]: 01-junior-phase/exit-ticket-solutions/02-html-css-flexbox.md
 
 - **You should be able to:**
   - Create a basic HTML document using common elements (`div`, `p`, `h1`, `ul`, `button`, etc)
@@ -405,7 +405,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-3-demo] )
 [am-rev-1-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-1-3-sol] )
-[am-rev-1-3-sol]: #paste-gist-here
+[am-rev-1-3-sol]: 01-junior-phase/exit-ticket-solutions/03-debugging-dom.md
 
 - **You should be able to:**
   - Describe simple steps to prevent bugs
@@ -448,7 +448,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-4-demo] )
 [am-rev-1-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-1-4-sol] )
-[am-rev-1-4-sol]: #paste-gist-here
+[am-rev-1-4-sol]: 01-junior-phase/exit-ticket-solutions/04-dom-events.md
 
 - **You should be able to:**
   - Hone in on the previous day's objectives
@@ -512,7 +512,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-5-demo] )
 [am-rev-1-5-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-1-5-sol] )
-[am-rev-1-5-sol]: #paste-gist-here
+[am-rev-1-5-sol]: 01-junior-phase/exit-ticket-solutions/05-node.md
 
 - **You should be able to:**
   - Explain the purpose of Node
@@ -586,7 +586,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-1-demo] )
 [am-rev-2-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-1-sol] )
-[am-rev-2-1-sol]: #paste-gist-here
+[am-rev-2-1-sol]: 01-junior-phase/exit-ticket-solutions/06-express-async-await.md
 
 - **You should be able to:**
   - Describe the role of a client, a server, and HTTP
@@ -642,7 +642,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-2-demo] )
 [am-rev-2-2-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-2-sol] )
-[am-rev-2-2-sol]: #paste-gist-here
+[am-rev-2-2-sol]: 01-junior-phase/exit-ticket-solutions/07-sql-postgresql-schema.md
 
 - **You should be able to:**
   - Explain what a database is, and why you would use one
@@ -710,7 +710,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-3-demo] )
 [am-rev-2-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-3-sol] )
-[am-rev-2-3-sol]: #paste-gist-here
+[am-rev-2-3-sol]: 01-junior-phase/exit-ticket-solutions/08-pg-express-routing-rest.md
 
 - **You should be able to:**
   - Describe the role of `pg` in our stack
@@ -779,7 +779,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-4-demo] )
 [am-rev-2-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-4-sol] )
-[am-rev-2-4-sol]: #paste-gist-here
+[am-rev-2-4-sol]: 01-junior-phase/exit-ticket-solutions/09-orms.md
 
 - **You should be able to:**
   - Define an ORM, and explain its pros/cons
@@ -831,7 +831,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-5-demo] )
 [am-rev-2-5-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-5-sol] )
-[am-rev-2-5-sol]: #paste-gist-here
+[am-rev-2-5-sol]: 01-junior-phase/exit-ticket-solutions/10-eager-loading-custom-error.md
 
 - **You should be able to:**
   - Write custom error handlers in Express
@@ -878,7 +878,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-1-demo] )
 [am-rev-3-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-1-sol] )
-[am-rev-3-1-sol]: #paste-gist-here
+[am-rev-3-1-sol]: 01-junior-phase/exit-ticket-solutions/11-spa-ajax-webpack.md
 
 - **You should be able to:**
   - Define a single page application (SPA)
@@ -956,7 +956,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-3-demo] )
 [am-rev-3-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-3-sol] )
-[am-rev-3-3-sol]: #paste-gist-here
+[am-rev-3-3-sol]: 01-junior-phase/exit-ticket-solutions/13-react-intro.md
 
 - **You should be able to:**
   - Write a class or functional component in React
@@ -1015,7 +1015,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-4-demo] )
 [am-rev-3-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-4-sol] )
-[am-rev-3-4-sol]: #paste-gist-here
+[am-rev-3-4-sol]: 01-junior-phase/exit-ticket-solutions/14-react-component-lifecycle.md
 
 - **You should be able to:**
   - Hook into React lifecycle events (i.e. `componentDidMount`)
@@ -1069,7 +1069,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-5-demo] )
 [am-rev-3-5-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-3-5-sol] )
-[am-rev-3-5-sol]: #paste-gist-here
+[am-rev-3-5-sol]: 01-junior-phase/exit-ticket-solutions/15-fullstack-data-flow.md
 
 - **You should be able to:**
   - Describe how data flows between the client and server in a fullstack application
@@ -1135,7 +1135,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-1-demo] )
 [am-rev-4-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-4-1-sol] )
-[am-rev-4-1-sol]: #paste-gist-here
+[am-rev-4-1-sol]: 01-junior-phase/exit-ticket-solutions/16-redux.md
 
 - **You should be able to:**
   - Create a Redux store (with a proper reducer)
@@ -1192,7 +1192,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-2-demo] )
 [am-rev-4-2-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-4-2-sol] )
-[am-rev-4-2-sol]: #paste-gist-here
+[am-rev-4-2-sol]: 01-junior-phase/exit-ticket-solutions/17-thunks-combine-reducers-connect.md
 
 - **You should be able to:**
   - `connect` a React component to the Redux store, mapping necessary state/dispatch to props
@@ -1248,7 +1248,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-3-demo] )
 [am-rev-4-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-4-3-sol] )
-[am-rev-4-3-sol]: #paste-gist-here
+[am-rev-4-3-sol]: 01-junior-phase/exit-ticket-solutions/18-react-router.md
 
 - **You should be able to:**
   - Use the URL bar to manage state and control navigation within a SPA using the `react-router-dom` library
@@ -1304,7 +1304,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-4-demo] )
 [am-rev-4-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-4-4-sol] )
-[am-rev-4-4-sol]: #paste-gist-here
+[am-rev-4-4-sol]: 01-junior-phase/exit-ticket-solutions/19-react-forms.md
 
 - **You should be able to:**
   - Explain the difference between a controlled and uncontrolled form
@@ -1431,7 +1431,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-4-demo] )
 [am-rev-6-4-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-6-4-sol] )
-[am-rev-6-4-sol]: #paste-gist-here
+[am-rev-6-4-sol]: 01-junior-phase/exit-ticket-solutions/26-authentication.md
 
 - **You should be able to:**
   - Explain the motivation for token-based authentication
@@ -1488,7 +1488,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-1-demo] )
 [am-rev-6-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-6-1-sol] )
-[am-rev-6-1-sol]: #paste-gist-here
+[am-rev-6-1-sol]: 01-junior-phase/exit-ticket-solutions/27-data-structures.md
 
 - **You should be able to:**
   - Describe how both a stack and a queue work (how are they different, what similarities do they have, etc)
@@ -1552,7 +1552,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-2-demo] )
 [am-rev-6-2-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-6-2-sol] )
-[am-rev-6-2-sol]: #paste-gist-here
+[am-rev-6-2-sol]: 01-junior-phase/exit-ticket-solutions/28-sorting-algo-analysis.md
 
 - **You should be able to:**
   - Articulate the difference between an algorithm and a heuristic
@@ -1611,7 +1611,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-3-demo] )
 [am-rev-6-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-6-3-sol] )
-[am-rev-6-3-sol]: #paste-gist-here
+[am-rev-6-3-sol]: 01-junior-phase/exit-ticket-solutions/29-hashtables.md
 
 
 #### Day 5: Final Day of Junior Phase!
