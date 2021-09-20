@@ -11,6 +11,16 @@
 ## Expectations of Instructors / Fellows
 - Provide resources on time
 
+## Questions
+
+**During Lecture:**
+- Raise hand for most immediate answer
+- Only questions prefixed with "Q:" will be answered from chat (but we may miss some)
+
+**Outside of Lecture:**
+- Use [#2109-future-code-help-and-feedback](https://fullstackacademy.slack.com/archives/C02EV2877NZ) to ask
+- May be answered by another student, fellow or instructor
+
 ## Help Tickets
 - Tell us what's going on in the help ticket description ("SOS!" is not enough)
   - Also include your table number! 
