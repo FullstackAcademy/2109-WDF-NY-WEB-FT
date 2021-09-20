@@ -224,9 +224,9 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to Junior Phase | - | - | - | - | - |
 | Zoom Protocols | - | [🖼️][zoom-slides] | - | - | - |
-| Intro to Pair Programming | - | [🖼️][pair-programming-slides] | - | - | - |
-| Git: Getting Confident | - | [🖼️][git-slides] | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Intro to Pair Programming | [📺][pair-programming-lec] | [🖼️][pair-programming-slides] | - | - | - |
+| Git: Getting Confident | [📺][git-lec] | [🖼️][git-slides] | - | - | - |
+| Morning Review | - | [🎟][am-rev-1-1-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [🖼️][intro-jr-phase-slides] )
 [intro-jr-phase-slides]: #link-to-slide-deck-here
@@ -235,11 +235,11 @@ ___
 [zoom-slides]: https://docs.google.com/presentation/d/1UTdfDmUkNakkOEB40YFUPGikJIhtD_DKYm3nY32iqm8/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][pair-programming-lec] )
-[pair-programming-lec]: #paste-YouTube-link-here
+[pair-programming-lec]: https://youtu.be/3BU8d27sZa4
 [pair-programming-slides]: https://docs.google.com/presentation/d/1H_Oxl0ewwlD5HO_HGvEz0SXS47j9TboSLHi73xDLgrs/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][git-lec] )
-[git-lec]: #paste-YouTube-link-here
+[git-lec]: https://youtu.be/EqH8DlDt_BY
 [git-slides]: https://docs.google.com/presentation/d/1GLe6zqtfQkw0bxmxCSON9WVC746kPaSaJCzYRqUdIYQ/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][git-demo] )
 [git-demo]: #link-demo-here
