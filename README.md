@@ -295,25 +295,25 @@ ___
 [html-lec]: #paste-YouTube-link-here
 [html-slides]: https://docs.google.com/presentation/d/1Nx7cEU0bMGIBSQPqC5BYS622owsmnoMlmY6yzfN21I0/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][html-demo] )
-[html-demo]: #link-demo-here
+[html-demo]: 01-junior-phase/02-html-css-flexbox/html-demo
 
 [//]: # ( Paste in table above >> [📺][css-lec] )
 [css-lec]: #paste-YouTube-link-here
 [css-slides]: https://docs.google.com/presentation/d/1rDKlYTjosIqNGcEQ3jXNzHSYFnq41ZeuyYB4nxIEEWk/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][css-demo] )
-[css-demo]: #link-demo-here
+[css-demo]: 01-junior-phase/02-html-css-flexbox/css-demo
 
 [//]: # ( Paste in table above >> [📺][flexbox-lec] )
 [flexbox-lec]: #paste-YouTube-link-here
 [flexbox-slides]: https://docs.google.com/presentation/d/1K0WQvp8wSHEyIZQci_eDh8EhwKafD-m6mymsA7G80l0/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][flexbox-demo] )
-[flexbox-demo]: #link-demo-here
+[flexbox-demo]: 01-junior-phase/02-html-css-flexbox/flexbox-demo
 
 [//]: # ( Paste in table above >> [👾][landing-page-sol] </br> [👾 Extra Credit][landing-page-sol-extra] )
-[landing-page-sol]: ####
+[landing-page-sol]: 01-junior-phase/02-html-css-flexbox/Landing-Page-Launchpad-Solution
 [landing-page-sol-extra]: ####
 [//]: # ( Paste in table above >> [📺][landing-page-rev] )
-[landing-page-rev]: ####
+[landing-page-rev]: https://www.youtube.com/watch?v=TvTiebmefWY&ab_channel=FullstackAcademy
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-2] )
 [am-rev-1-2]: #paste-YouTube-link-here
