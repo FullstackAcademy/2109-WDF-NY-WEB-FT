@@ -226,7 +226,7 @@ ___
 | Zoom Protocols | - | [🖼️][zoom-slides] | - | - | - |
 | Intro to Pair Programming | [📺][pair-programming-lec] | [🖼️][pair-programming-slides] | - | - | - |
 | Git: Getting Confident | [📺][git-lec] | [🖼️][git-slides] | - | - | - |
-| Morning Review | - | [🎟][am-rev-1-1-ticket] | - | - | - |
+| Morning Review | - | [🎟][am-rev-1-1-ticket] | - | [👾][am-rev-1-1-sol] | - |
 
 [//]: # ( Paste in table above >> [🖼️][intro-jr-phase-slides] )
 [intro-jr-phase-slides]: #link-to-slide-deck-here
