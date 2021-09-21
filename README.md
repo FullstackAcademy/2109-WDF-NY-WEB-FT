@@ -285,10 +285,10 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| HTML | - | [🖼️][html-slides] | - | - | - |
-| CSS | - | [🖼️][css-slides] | - | - | - |
-| Flexbox | - | [🖼️][flexbox-slides] | - | - | - |
-| Landing Page Liftoff | - | - | - | - | - |
+| HTML | [📺][html-lec] | [🖼️][html-slides] | [🧑‍💻][html-demo] | - | - |
+| CSS | [📺][css-lec] | [🖼️][css-slides] | [🧑‍💻][css-demo] | - | - |
+| Flexbox | [📺][flexbox-lec] | [🖼️][flexbox-slides] | [🧑‍💻][flexbox-demo] | - | - |
+| Landing Page Liftoff | - | - | - | [👾][landing-page-sol] | [📺][landing-page-rev] |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][html-lec] )

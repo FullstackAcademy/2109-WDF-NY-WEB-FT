@@ -1,0 +1,44 @@
+<!--
+  DEMO
+  1. Type html:5
+  2. Add h1 title and start live server
+  3. Add three divs with classes and refresh page
+  /////// START OF CSS WORK ////////
+  4. Add link tag to head with stylesheet reference
+  5. Add div selector
+  6. Add three class selectors and show that elements are getting some styles from div and from classes
+  8. What happens if we add a span tag inside of the div tag?
+  9. Add selector for being a span and yellow
+  10. Add div around other three divs
+  11. Show combinator tag >.class: add two paragraph elements, one inside div and one below h1. First add p rule, then ask what would happen if you add div > p rule
+  12. Ask about difference between div > p and div p
+  13. Show combinator tag, .class: add thicker border to red and yellow classes
+  11. Add * selector to add box-sizing
+
+
+  Other things I could show:
+      - * selector
+      - specificity (id over class)
+      - block vs inline element
+
+ -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>CSS Demo</h1>
+    <p>This is a CSS demo.</p>
+    <div>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse non fugiat, iste eaque rerum officiis dolorum neque ullam debitis labore a aliquid eligendi, veniam amet hic? Pariatur voluptate perspiciatis ut?</p>
+      <div class="red">Red</div>
+      <div class="blue">Blue<span class="yellow">Yellow</span></div>
+      <div class="yellow">Yellow</div>
+    </div>
+  </body>
+</html>

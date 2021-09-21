@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: verdana;
+}
+
+div {
+  border: solid 1px black;
+  padding: 1rem;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.red, .yellow {
+  border-width: 5px;
+}
+
+span.yellow {
+  padding: 0.5 rem;
+}
+
+div > p {
+  background-color: purple;
+}
