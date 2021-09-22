@@ -226,7 +226,7 @@ ___
 | Zoom Protocols | - | [🖼️][zoom-slides] | - | - | - |
 | Intro to Pair Programming | [📺][pair-programming-lec] | [🖼️][pair-programming-slides] | - | - | - |
 | Git: Getting Confident | [📺][git-lec] | [🖼️][git-slides] | - | - | - |
-| Morning Review | - | [🎟][am-rev-1-1-ticket] | - | [👾][am-rev-1-1-sol] | - |
+| Morning Review | [📺][am-rev-1-1] | [🎟][am-rev-1-1-ticket] | - | [👾][am-rev-1-1-sol] | - |
 
 [//]: # ( Paste in table above >> [🖼️][intro-jr-phase-slides] )
 [intro-jr-phase-slides]: #link-to-slide-deck-here
@@ -245,7 +245,7 @@ ___
 [git-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-1] )
-[am-rev-1-1]: #paste-YouTube-link-here
+[am-rev-1-1]: https://youtu.be/kDfGpRl6b50
 [//]: # ( Paste in table above >> [🎟][am-rev-1-1-ticket] )
 [am-rev-1-1-ticket]: https://forms.gle/P8pQQi1ZqognD5wy6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-1-demo] )
@@ -316,7 +316,7 @@ ___
 [landing-page-rev]: https://www.youtube.com/watch?v=TvTiebmefWY&ab_channel=FullstackAcademy
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-2] )
-[am-rev-1-2]: https://youtu.be/kDfGpRl6b50
+[am-rev-1-2]: #link-review-here
 [//]: # ( Paste in table above >> [🎟][am-rev-1-2-ticket] )
 [am-rev-1-2-ticket]: https://forms.gle/CG23syVAWfUoc3US9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-2-demo] )
