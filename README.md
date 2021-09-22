@@ -289,7 +289,7 @@ ___
 | CSS | [📺][css-lec] | [🖼️][css-slides] | [🧑‍💻][css-demo] | - | - |
 | Flexbox | [📺][flexbox-lec] | [🖼️][flexbox-slides] | [🧑‍💻][flexbox-demo] | - | - |
 | Landing Page Liftoff | - | - | - | [👾][landing-page-sol] | [📺][landing-page-rev] |
-| Morning Review | - | [🎟][am-rev-1-2-ticket] | - | [👾][am-rev-1-2-sol] | - |
+| Morning Review | [📺][am-rev-1-2] | [🎟][am-rev-1-2-ticket] | - | [👾][am-rev-1-2-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][html-lec] )
 [html-lec]: https://youtu.be/MYhWwb9iURI
@@ -316,7 +316,7 @@ ___
 [landing-page-rev]: https://www.youtube.com/watch?v=TvTiebmefWY&ab_channel=FullstackAcademy
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-2] )
-[am-rev-1-2]: #link-review-here
+[am-rev-1-2]: https://youtu.be/UM8n81ggB1g
 [//]: # ( Paste in table above >> [🎟][am-rev-1-2-ticket] )
 [am-rev-1-2-ticket]: https://forms.gle/CG23syVAWfUoc3US9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-2-demo] )
