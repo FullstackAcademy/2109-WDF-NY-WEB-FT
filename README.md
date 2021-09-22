@@ -371,7 +371,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Practical Debugging: Prevention| [📺][prevention-lec] | [🖼️][prevention-slides] | - | - | - |
 | Practical Debugging: Detection, Diagnosis & Treatment | [📺][ddt-lec] | [🖼️][ddt-slides] | - | - | - |
-| Intro to the DOM | - | [🖼️][dom-intro-slides] | - | [👾][dom-sol] | - |
+| Intro to the DOM | [📺][dom-intro-lec] | [🖼️][dom-intro-slides] | - | [👾][dom-sol] | - |
 | Morning Review | - | [🎟][am-rev-1-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][prevention-lec] )
@@ -383,7 +383,7 @@ ___
 [ddt-slides]: https://docs.google.com/presentation/d/1ubjsEvmFcS9fZAOi3kQ3QRknoGWIsUYRyP472VbQJSc/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][dom-intro-lec] )
-[dom-intro-lec]: #paste-YouTube-link-here
+[dom-intro-lec]: https://youtu.be/nREik7gTqbI
 [dom-intro-slides]: https://docs.google.com/presentation/d/1aVwRxJmGNpJlBc7yJc9DHAIqWMnwAIS5TAEWBBMZC1A/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][dom-intro-demo] )
 [dom-intro-demo]: #link-demo-here
