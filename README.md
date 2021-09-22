@@ -369,18 +369,18 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Practical Debugging: Prevention| - | [🖼️][prevention-slides] | - | - | - |
-| Practical Debugging: Detection, Diagnosis & Treatment | - | [🖼️][ddt-slides] | - | - | - |
+| Practical Debugging: Prevention| [📺][prevention-lec] | [🖼️][prevention-slides] | - | - | - |
+| Practical Debugging: Detection, Diagnosis & Treatment | [📺][ddt-lec] | [🖼️][ddt-slides] | - | - | - |
 | Intro to the DOM | - | [🖼️][dom-intro-slides] | - | - | - |
 | Whack-a-mole | - | - | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][prevention-lec] )
-[prevention-lec]: #paste-YouTube-link-here
+[prevention-lec]: https://youtu.be/Z1AolPk-cvk
 [prevention-slides]: https://docs.google.com/presentation/d/1heeFT5nf6AHDzMrnRO9PQR38yT9OlVwIFkdO9k0E3Ts/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][ddt-lec] )
-[ddt-lec]: #paste-YouTube-link-here
+[ddt-lec]: https://youtu.be/C96Zh-1UuqE
 [ddt-slides]: https://docs.google.com/presentation/d/1ubjsEvmFcS9fZAOi3kQ3QRknoGWIsUYRyP472VbQJSc/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][dom-intro-lec] )
