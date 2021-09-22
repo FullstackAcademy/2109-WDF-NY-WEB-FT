@@ -372,29 +372,24 @@ ___
 | Practical Debugging: Prevention| - | [🖼️][prevention-slides] | - | - | - |
 | Practical Debugging: Detection, Diagnosis & Treatment | - | [🖼️][ddt-slides] | - | - | - |
 | Intro to the DOM | - | [🖼️][dom-intro-slides] | - | - | - |
-| Event Listeners & Handlers (Whack-a-mole) | - | [🖼️][dom-events-slides] | - | - | - |
+| Whack-a-mole | - | - | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][prevention-lec] )
 [prevention-lec]: #paste-YouTube-link-here
-[prevention-slides]: https://docs.google.com/presentation/d/16eQJNl0JTHr9TYi8vRXKffA2br8QMywM0-7pn8oJNGY/edit?usp=sharing
+[prevention-slides]: https://docs.google.com/presentation/d/1heeFT5nf6AHDzMrnRO9PQR38yT9OlVwIFkdO9k0E3Ts/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][ddt-lec] )
 [ddt-lec]: #paste-YouTube-link-here
-[ddt-slides]: https://docs.google.com/presentation/d/1ACMEsqVvP1BzMGN234Jx4YoP5ZuODLXxtY59R09wzKM/edit?usp=sharing
+[ddt-slides]: https://docs.google.com/presentation/d/1ubjsEvmFcS9fZAOi3kQ3QRknoGWIsUYRyP472VbQJSc/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][dom-intro-lec] )
 [dom-intro-lec]: #paste-YouTube-link-here
-[dom-intro-slides]: https://docs.google.com/presentation/d/1MtF7vUwnY08ZA5ofDpjcjlcv49GAal70k0F7my3D6YQ/edit?usp=sharing
+[dom-intro-slides]: https://docs.google.com/presentation/d/1aVwRxJmGNpJlBc7yJc9DHAIqWMnwAIS5TAEWBBMZC1A/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][dom-intro-demo] )
 [dom-intro-demo]: #link-demo-here
 
-[//]: # ( Paste in table above >> [📺][dom-events-lec] )
-[dom-events-lec]: #paste-YouTube-link-here
-[dom-events-slides]: https://docs.google.com/presentation/d/1Unq4gPwi1N5Dn-8yX5MlWRr4RH_FOosaiU2uEXyogNg/edit?usp=sharing
-[//]: # ( Paste in table above >> [👨‍💻][dom-events-demo] )
-[dom-events-demo]: #link-demo-here
-[//]: # ( Paste in table above >> [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] )
+[//]: # ( Paste in table above >> [📺][whack-a-mole-sol] )
 [whack-a-mole-sol]: ###
 [whack-a-mole-sol-timer]: ###
 
@@ -433,8 +428,16 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
+| Event Listeners & Handlers | - | [🖼️][dom-events-slides] |  | - | - | - |
 | Pixelate | - | - | - | - | - | - |
 | Morning Review | - | - | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][dom-events-lec] )
+[dom-events-lec]: #paste-YouTube-link-here
+[dom-events-slides]: https://docs.google.com/presentation/d/1Unq4gPwi1N5Dn-8yX5MlWRr4RH_FOosaiU2uEXyogNg/edit?usp=sharing
+[//]: # ( Paste in table above >> [👨‍💻][dom-events-demo] )
+[dom-events-demo]: #link-demo-here
+[//]: # ( Paste in table above >> [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] )
 
 [//]: # ( Paste in table above >> [👾][pixelate-sol] )
 [pixelate-sol]: ###
