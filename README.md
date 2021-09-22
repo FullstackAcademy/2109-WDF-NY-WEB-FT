@@ -371,9 +371,8 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Practical Debugging: Prevention| [📺][prevention-lec] | [🖼️][prevention-slides] | - | - | - |
 | Practical Debugging: Detection, Diagnosis & Treatment | [📺][ddt-lec] | [🖼️][ddt-slides] | - | - | - |
-| Intro to the DOM | - | [🖼️][dom-intro-slides] | - | - | - |
-| Whack-a-mole | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Intro to the DOM | - | [🖼️][dom-intro-slides] | - | [👾][dom-sol] | - |
+| Morning Review | - | [🎟][am-rev-1-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][prevention-lec] )
 [prevention-lec]: https://youtu.be/Z1AolPk-cvk
@@ -389,9 +388,8 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][dom-intro-demo] )
 [dom-intro-demo]: #link-demo-here
 
-[//]: # ( Paste in table above >> [📺][whack-a-mole-sol] )
-[whack-a-mole-sol]: ###
-[whack-a-mole-sol-timer]: ###
+[//]: # ( Paste in table above >> [👾][dom-sol] )
+[dom-sol]: 01-junior-phase/03-dom/Checkpoint.DOM.Solution-master
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-3] )
 [am-rev-1-3]: #paste-YouTube-link-here
@@ -429,6 +427,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Event Listeners & Handlers | - | [🖼️][dom-events-slides] |  | - | - | - |
+| Whack-a-mole | - | - | - | - | - |
 | Pixelate | - | - | - | - | - | - |
 | Morning Review | - | - | - | - | - |
 
@@ -438,6 +437,10 @@ ___
 [//]: # ( Paste in table above >> [👨‍💻][dom-events-demo] )
 [dom-events-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] )
+
+[//]: # ( Paste in table above >> [📺][whack-a-mole-sol] )
+[whack-a-mole-sol]: ###
+[whack-a-mole-sol-timer]: ###
 
 [//]: # ( Paste in table above >> [👾][pixelate-sol] )
 [pixelate-sol]: ###
