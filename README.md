@@ -292,19 +292,19 @@ ___
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][html-lec] )
-[html-lec]: #paste-YouTube-link-here
+[html-lec]: https://youtu.be/MYhWwb9iURI
 [html-slides]: https://docs.google.com/presentation/d/1Nx7cEU0bMGIBSQPqC5BYS622owsmnoMlmY6yzfN21I0/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][html-demo] )
 [html-demo]: 01-junior-phase/02-html-css-flexbox/html-demo
 
 [//]: # ( Paste in table above >> [📺][css-lec] )
-[css-lec]: #paste-YouTube-link-here
+[css-lec]: https://youtu.be/33Sr39xXJtw
 [css-slides]: https://docs.google.com/presentation/d/1rDKlYTjosIqNGcEQ3jXNzHSYFnq41ZeuyYB4nxIEEWk/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][css-demo] )
 [css-demo]: 01-junior-phase/02-html-css-flexbox/css-demo
 
 [//]: # ( Paste in table above >> [📺][flexbox-lec] )
-[flexbox-lec]: #paste-YouTube-link-here
+[flexbox-lec]: https://youtu.be/G5xFqE22sDw
 [flexbox-slides]: https://docs.google.com/presentation/d/1K0WQvp8wSHEyIZQci_eDh8EhwKafD-m6mymsA7G80l0/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][flexbox-demo] )
 [flexbox-demo]: 01-junior-phase/02-html-css-flexbox/flexbox-demo
@@ -316,7 +316,7 @@ ___
 [landing-page-rev]: https://www.youtube.com/watch?v=TvTiebmefWY&ab_channel=FullstackAcademy
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-2] )
-[am-rev-1-2]: #paste-YouTube-link-here
+[am-rev-1-2]: https://youtu.be/kDfGpRl6b50
 [//]: # ( Paste in table above >> [🎟][am-rev-1-2-ticket] )
 [am-rev-1-2-ticket]: https://forms.gle/CG23syVAWfUoc3US9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-2-demo] )
