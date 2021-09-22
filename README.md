@@ -289,7 +289,7 @@ ___
 | CSS | [📺][css-lec] | [🖼️][css-slides] | [🧑‍💻][css-demo] | - | - |
 | Flexbox | [📺][flexbox-lec] | [🖼️][flexbox-slides] | [🧑‍💻][flexbox-demo] | - | - |
 | Landing Page Liftoff | - | - | - | [👾][landing-page-sol] | [📺][landing-page-rev] |
-| Morning Review | - | - | - | - | - |
+| Morning Review | - | [🎟][am-rev-1-2-ticket] | - | [👾][am-rev-1-2-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][html-lec] )
 [html-lec]: https://youtu.be/MYhWwb9iURI
