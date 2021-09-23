@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Press Start 2P', cursive;
+}
+
+html {
+  background-color: #222;
+  color: white;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+td {
+  height: 50px;
+  width: 50px;
+  background-color: lightgray;
+  transition: background-color 0.5s ease;
+}
+
+.red {background-color: red;}
+.orange {background-color: orange;}
+.yellow {background-color: yellow;}
+.green {background-color: green;}
+.blue {background-color: blue;}
+.indigo {background-color: indigo;}
+.violet {background-color: violet;}
+.black {background-color: black;}
+.white {background-color: white;}
+.brown {background-color: brown;}

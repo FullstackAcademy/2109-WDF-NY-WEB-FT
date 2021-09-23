@@ -372,7 +372,7 @@ ___
 | Practical Debugging: Prevention| [📺][prevention-lec] | [🖼️][prevention-slides] | - | - | - |
 | Practical Debugging: Detection, Diagnosis & Treatment | [📺][ddt-lec] | [🖼️][ddt-slides] | - | - | - |
 | Intro to the DOM | [📺][dom-intro-lec] | [🖼️][dom-intro-slides] | - | [👾][dom-sol] | - |
-| Morning Review | - | [🎟][am-rev-1-3-ticket] | [👾][am-rev-1-3-sol] | - | - |
+| Morning Review | - | [🎟][am-rev-1-3-ticket] | - | [👾][am-rev-1-3-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][prevention-lec] )
 [prevention-lec]: https://youtu.be/Z1AolPk-cvk
@@ -426,26 +426,26 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Event Listeners & Handlers | - | [🖼️][dom-events-slides] |  | - | - | - |
-| Whack-a-mole | - | - | - | - | - |
-| Pixelate | - | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Event Listeners & Handlers | [📺][dom-events-lec] | [🖼️][dom-events-slides] | [👨‍💻][dom-events-demo] | - | - | - |
+| Whack-a-mole | - | - | - | [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] | - |
+| Pixelate | - | - | - | [👾][pixelate-sol] | [📺][pixelate-rev] |
+| Morning Review | - | [🎟][am-rev-1-4-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][dom-events-lec] )
 [dom-events-lec]: #paste-YouTube-link-here
 [dom-events-slides]: https://docs.google.com/presentation/d/1Unq4gPwi1N5Dn-8yX5MlWRr4RH_FOosaiU2uEXyogNg/edit?usp=sharing
 [//]: # ( Paste in table above >> [👨‍💻][dom-events-demo] )
-[dom-events-demo]: #link-demo-here
+[dom-events-demo]:01-junior-phase/04-pixelate/event-listener-demo
 [//]: # ( Paste in table above >> [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] )
 
 [//]: # ( Paste in table above >> [📺][whack-a-mole-sol] )
-[whack-a-mole-sol]: ###
-[whack-a-mole-sol-timer]: ###
+[whack-a-mole-sol]: 01-junior-phase/04-pixelate/Lab.Whack-a-mole-solution
+[whack-a-mole-sol-timer]: 01-junior-phase/04-pixelate/Lab.Whack-a-mole-solution-with-timer
 
 [//]: # ( Paste in table above >> [👾][pixelate-sol] )
-[pixelate-sol]: ###
+[pixelate-sol]: 01-junior-phase/04-pixelate/PairExercise.Pixelate.Solution
 [//]: # ( Paste in table above >> [📺][pixelate-rev] )
-[pixelate-rev]: ###
+[pixelate-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-4] )
 [am-rev-1-4]: #paste-YouTube-link-here
