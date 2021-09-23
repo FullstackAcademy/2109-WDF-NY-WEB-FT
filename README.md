@@ -372,7 +372,7 @@ ___
 | Practical Debugging: Prevention| [📺][prevention-lec] | [🖼️][prevention-slides] | - | - | - |
 | Practical Debugging: Detection, Diagnosis & Treatment | [📺][ddt-lec] | [🖼️][ddt-slides] | - | - | - |
 | Intro to the DOM | [📺][dom-intro-lec] | [🖼️][dom-intro-slides] | - | [👾][dom-sol] | - |
-| Morning Review | - | [🎟][am-rev-1-3-ticket] | - | - | - |
+| Morning Review | - | [🎟][am-rev-1-3-ticket] | [👾][am-rev-1-3-sol] | - | - |
 
 [//]: # ( Paste in table above >> [📺][prevention-lec] )
 [prevention-lec]: https://youtu.be/Z1AolPk-cvk
