@@ -430,7 +430,7 @@ ___
 | Whack-a-mole | - | - | - | [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] | - |
 | Pixelate | - | - | - | [👾][pixelate-sol] | [📺][pixelate-rev] |
 | Office Hours | [📺][office-hours-lec] | - | [👾][office-hours-demo] | - | - |
-| Morning Review | - | [🎟][am-rev-1-4-ticket] | - | [👾][am-rev-1-4-sol] | - |
+| Morning Review | [📺][am-rev-1-4] | [🎟][am-rev-1-4-ticket] | - | [👾][am-rev-1-4-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][dom-events-lec] )
 [dom-events-lec]: #paste-YouTube-link-here
@@ -454,7 +454,7 @@ ___
 [office-hours-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/office-hours/week-1/solution
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-4] )
-[am-rev-1-4]: #paste-YouTube-link-here
+[am-rev-1-4]: https://youtu.be/WYSWXMO5qIo
 [//]: # ( Paste in table above >> [🎟][am-rev-1-4-ticket] )
 [am-rev-1-4-ticket]: https://forms.gle/HTiRRrksRfAu2Fr58
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-4-demo] )
@@ -493,19 +493,19 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Node: Modules | - | [🖼️][node-slides] | - | - | - |
-| Intro to Node: Asyncronicity & Callbacks | - | [🖼️][node-async-slides] | - | - | - |
+| Intro to Node: Modules | [📺][node-modules-lec] | [🖼️][node-slides] | - | - | - |
+| Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec] | [🖼️][node-async-slides] | - | - | - |
 | How to Give and Receive Feedback | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Morning Review | - | [🎟][am-rev-1-5-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][node-modules-lec] )
-[node-modules-lec]: #paste-YouTube-link-here
+[node-modules-lec]: https://youtu.be/9JO5ktOesl0
 [node-slides]: https://docs.google.com/presentation/d/15Nwz0S0zWY42WtmhiU3evJF-OKm6kJJHcToA7g-zhPs/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][node-modules-demo] )
 [node-modules-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][node-async-lec] )
-[node-async-lec]: #paste-YouTube-link-here
+[node-async-lec]: https://www.youtube.com/watch?v=fh3f6UB6mv8&feature=youtu.be
 [node-async-slides]: https://docs.google.com/presentation/d/1ayc7OaoS0F18seaijfoa6SdNtmZEJMZ3wN3JdCdwomk/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][node-async-demo] )
 [node-async-demo]: #link-demo-here
