@@ -493,8 +493,8 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Node: Modules | [📺][node-modules-lec] | [🖼️][node-slides] | - | - | - |
-| Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec] | [🖼️][node-async-slides] | - | - | - |
+| Intro to Node: Modules | [📺][node-modules-lec] | [🖼️][node-slides] | - | [👾][node-basics-sol] | - |
+| Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec] | [🖼️][node-async-slides] | - | [👾][node-shell-sol] | - |
 | How to Give and Receive Feedback | - | - | - | - | - |
 | Morning Review | - | [🎟][am-rev-1-5-ticket] | - | - | - |
 
@@ -509,8 +509,11 @@ ___
 [node-async-slides]: https://docs.google.com/presentation/d/1ayc7OaoS0F18seaijfoa6SdNtmZEJMZ3wN3JdCdwomk/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][node-async-demo] )
 [node-async-demo]: #link-demo-here
+
+[//]: # ( Paste in table above >> [👾][node-basics-sol] )
+[node-basics-sol]: 01-junior-phase/05-node/Solution.NodeBasics-main
 [//]: # ( Paste in table above >> [👾][node-shell-sol] )
-[node-shell-sol]: ###
+[node-shell-sol]: 01-junior-phase/05-node/Solution.NodeShell-main
 
 [//]: # ( Paste in table above >> [📺][give-recieve-feedback-lec] )
 [give-recieve-feedback-lec]: #paste-YouTube-link-here
