@@ -209,7 +209,7 @@ ___
 
 ### **Week 1: Collaboration & Git, HTML & CSS, Debugging, DOM & Events, Node**
 
-<!-- <details><summary>Click to view</summary> -->
+<details><summary>Click to view</summary>
 
 #### Day 1: Collaboration, Git
 
@@ -540,14 +540,14 @@ ___
 [event-loop]: https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en
 
 </details>
-<!--
+
 </details>
 
 ___
 
 ### **Week 2: Express, Async/Await, Databases (PostgreSQL), ORMs (Sequelize)**
 
-<details><summary>Click to view</summary>
+<!-- <details><summary>Click to view</summary> -->
 
 #### Day 1: Express, Handling Asynchronous Operations (`async`/`await`)
 
@@ -854,7 +854,7 @@ ___
   - Write class and instance methods on Sequelize models
 
 </details>
-
+<!--
 ___
 
 ### **Week 3: Single-Page Applications, Pillars, React**
