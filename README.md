@@ -429,6 +429,7 @@ ___
 | Event Listeners & Handlers | [📺][dom-events-lec] | [🖼️][dom-events-slides] | [👨‍💻][dom-events-demo] | - | - | - |
 | Whack-a-mole | - | - | - | [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] | - |
 | Pixelate | - | - | - | [👾][pixelate-sol] | [📺][pixelate-rev] |
+| Office Hours | [📺][office-hours-lec] | - | [👾][office-hours-demo] | - | - |
 | Morning Review | - | [🎟][am-rev-1-4-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][dom-events-lec] )
@@ -446,6 +447,11 @@ ___
 [pixelate-sol]: 01-junior-phase/04-pixelate/PairExercise.Pixelate.Solution
 [//]: # ( Paste in table above >> [📺][pixelate-rev] )
 [pixelate-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-
+
+[//]: # ( Paste in table above >> [📺][office-hours-lec] )
+[office-hours-lec]: https://youtu.be/WdrWK5c-m30
+[//]: # ( Paste in table above >> [👾][office-hours-demo] )
+[office-hours-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/office-hours/week-1/solution
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-4] )
 [am-rev-1-4]: #paste-YouTube-link-here
@@ -494,13 +500,13 @@ ___
 
 [//]: # ( Paste in table above >> [📺][node-modules-lec] )
 [node-modules-lec]: #paste-YouTube-link-here
-[node-slides]: https://docs.google.com/presentation/d/1k69_CpSosFbImFStCnpjh4tdNlbtLSq6WB3MZA8fhZo/edit?usp=sharing
+[node-slides]: https://docs.google.com/presentation/d/15Nwz0S0zWY42WtmhiU3evJF-OKm6kJJHcToA7g-zhPs/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][node-modules-demo] )
 [node-modules-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][node-async-lec] )
 [node-async-lec]: #paste-YouTube-link-here
-[node-async-slides]: https://docs.google.com/presentation/d/1rJxfZ8Dcv4uDS2LXZSJ0EvAjUyKAXY_6KDjCAvFvrOA/edit?usp=sharing
+[node-async-slides]: https://docs.google.com/presentation/d/1ayc7OaoS0F18seaijfoa6SdNtmZEJMZ3wN3JdCdwomk/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][node-async-demo] )
 [node-async-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][node-shell-sol] )
