@@ -430,7 +430,7 @@ ___
 | Whack-a-mole | - | - | - | [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] | - |
 | Pixelate | - | - | - | [👾][pixelate-sol] | [📺][pixelate-rev] |
 | Office Hours | [📺][office-hours-lec] | - | [👾][office-hours-demo] | - | - |
-| Morning Review | - | [🎟][am-rev-1-4-ticket] | - | - | - |
+| Morning Review | - | [🎟][am-rev-1-4-ticket] | - | [👾][am-rev-1-4-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][dom-events-lec] )
 [dom-events-lec]: #paste-YouTube-link-here
