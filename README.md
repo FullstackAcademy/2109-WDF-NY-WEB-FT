@@ -496,7 +496,7 @@ ___
 | Intro to Node: Modules | [📺][node-modules-lec] | [🖼️][node-slides] | - | [👾][node-basics-sol] | - |
 | Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec] | [🖼️][node-async-slides] | - | [👾][node-shell-sol] | - |
 | How to Give and Receive Feedback | - | - | - | - | - |
-| Morning Review | - | [🎟][am-rev-1-5-ticket] | - | [👾][am-rev-1-5-sol] | - |
+| Morning Review | [📺][am-rev-1-5] | [🎟][am-rev-1-5-ticket] | - | [👾][am-rev-1-5-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][node-modules-lec] )
 [node-modules-lec]: https://youtu.be/9JO5ktOesl0
@@ -521,7 +521,7 @@ ___
 [give-recieve-feedback-slides]: ###
 
 [//]: # ( Paste in table above >> [📺][am-rev-1-5] )
-[am-rev-1-5]: #paste-YouTube-link-here
+[am-rev-1-5]: https://youtu.be/oKVaywJHwLY
 [//]: # ( Paste in table above >> [🎟][am-rev-1-5-ticket] )
 [am-rev-1-5-ticket]: https://forms.gle/fyYTqWFquz5WSbCA9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-1-5-demo] )
@@ -565,19 +565,19 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| HTTP and Express 101 | - | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
-| Express 201 (Wizard News Pt 1) | - | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | [👾][express-wizard-1-sol] | [📺][express-wizard-1-rev] |
-| `async`/`await` | - | [🖼️][async-await-slides] | [🧑‍💻][async-await-demo] | [👾][async-await-sol] | - |
+| HTTP and Express 101 | [📺][express-101-lec] | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
+| Express 201 (Wizard News Pt 1) | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | [👾][express-wizard-1-sol] | [📺][express-wizard-1-rev] |
+| `async`/`await` | [📺][async-await-lec] | [🖼️][async-await-slides] | [🧑‍💻][async-await-demo] | [👾][async-await-sol] | - |
 | Morning Review | - | [🎟][am-rev-2-1-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][express-101-lec] )
-[express-101-lec]: #paste-YouTube-link-here
+[express-101-lec]: https://youtu.be/PshnTdSbKcA
 [express-101-slides]: https://docs.google.com/presentation/d/17LTfUVqbK1bz9fMaejOvxebxit_2IomBnAxe7kqYK-E/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][express-101-demo] )
 [express-101-demo]: 01-junior-phase/06-express-and-async/express-101-demo
 
 [//]: # ( Paste in table above >> [📺][express-201-lec] )
-[express-201-lec]: #paste-YouTube-link-here
+[express-201-lec]: https://youtu.be/maIyR4sBdXk
 [express-201-slides]: https://docs.google.com/presentation/d/1cS548bLr3YMkA9tdwviIzwVU-qO29uOuw_DSJoD4O1o/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][express-201-demo] )
 [express-201-demo]: 01-junior-phase/06-express-and-async/express-201-demo
@@ -587,7 +587,7 @@ ___
 [express-wizard-1-rev]: https://www.youtube.com/watch?v=w07G_eMRFZ4&ab_channel=FullstackAcademy
 
 [//]: # ( Paste in table above >> [📺][async-await-lec] )
-[async-await-lec]: #paste-YouTube-link-here
+[async-await-lec]: https://youtu.be/48WuIqbk3Nk
 [async-await-slides]: https://docs.google.com/presentation/d/1lyOQtOBzNPx5gyc7hupZHdt-qn8XmhIN-xYRQhFal98/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][async-await-demo] )
 [async-await-demo]: 01-junior-phase/06-express-and-async/asynchronous-demo
