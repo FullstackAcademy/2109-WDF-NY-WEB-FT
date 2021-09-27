@@ -496,7 +496,7 @@ ___
 | Intro to Node: Modules | [📺][node-modules-lec] | [🖼️][node-slides] | - | [👾][node-basics-sol] | - |
 | Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec] | [🖼️][node-async-slides] | - | [👾][node-shell-sol] | - |
 | How to Give and Receive Feedback | - | - | - | - | - |
-| Morning Review | - | [🎟][am-rev-1-5-ticket] | - | - | - |
+| Morning Review | - | [🎟][am-rev-1-5-ticket] | - | [👾][am-rev-1-5-sol | - |
 
 [//]: # ( Paste in table above >> [📺][node-modules-lec] )
 [node-modules-lec]: https://youtu.be/9JO5ktOesl0
