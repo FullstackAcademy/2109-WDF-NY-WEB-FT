@@ -565,39 +565,39 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| HTTP and Express 101 | - | [🖼️][express-101-slides] | - | - | - |
-| Express 201 (Wizard News Pt 1) | - | [🖼️][express-201-slides] | - | - | - |
-| `async`/`await` | - | [🖼️][async-await-slides] | - | - | - |
-| Morning Review | - | - | - | - | - |
+| HTTP and Express 101 | - | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
+| Express 201 (Wizard News Pt 1) | - | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | [👾][express-wizard-1-sol] | [📺][express-wizard-1-rev] |
+| `async`/`await` | - | [🖼️][async-await-slides] | [🧑‍💻][async-await-demo] | [👾][async-await-sol] | - |
+| Morning Review | - | [🎟][am-rev-2-1-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][express-101-lec] )
 [express-101-lec]: #paste-YouTube-link-here
 [express-101-slides]: https://docs.google.com/presentation/d/17LTfUVqbK1bz9fMaejOvxebxit_2IomBnAxe7kqYK-E/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][express-101-demo] )
-[express-101-demo]: #link-demo-here
+[express-101-demo]: 01-junior-phase/06-express-and-async/express-101-demo
 
 [//]: # ( Paste in table above >> [📺][express-201-lec] )
 [express-201-lec]: #paste-YouTube-link-here
 [express-201-slides]: https://docs.google.com/presentation/d/1cS548bLr3YMkA9tdwviIzwVU-qO29uOuw_DSJoD4O1o/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][express-201-demo] )
-[express-201-demo]: #link-demo-here
+[express-201-demo]: 01-junior-phase/06-express-and-async/express-201-demo
 [//]: # ( Paste in table above >> [👾][express-wizard-1-sol] )
-[express-wizard-1-sol]: ###
+[express-wizard-1-sol]: 01-junior-phase/06-express-and-async/Solution.Wizard-news-Part1
 [//]: # ( Paste in table above >> [📺][express-wizard-1-rev] )
-[express-wizard-1-rev]: ###
+[express-wizard-1-rev]: https://www.youtube.com/watch?v=w07G_eMRFZ4&ab_channel=FullstackAcademy
 
 [//]: # ( Paste in table above >> [📺][async-await-lec] )
 [async-await-lec]: #paste-YouTube-link-here
 [async-await-slides]: https://docs.google.com/presentation/d/1lyOQtOBzNPx5gyc7hupZHdt-qn8XmhIN-xYRQhFal98/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][async-await-demo] )
-[async-await-demo]: ###
+[async-await-demo]: 01-junior-phase/06-express-and-async/asynchronous-demo
 [//]: # ( Paste in table above >> [👾][async-await-sol] )
-[async-await-sol]: ###
+[async-await-sol]: 01-junior-phase/06-express-and-async/Solution.Lab.AsyncAwait-master
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-1] )
 [am-rev-2-1]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-1-ticket] )
-[am-rev-2-1-ticket]: https://forms.gle/QUR5cbxG3uuhgV31A
+[am-rev-2-1-ticket]: https://forms.gle/kTDn26KUumP9ka1Z8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-1-demo] )
 [am-rev-2-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-1-sol] )
