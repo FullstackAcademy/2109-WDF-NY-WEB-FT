@@ -638,17 +638,21 @@ ___
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
 [db-lec]: #paste-YouTube-link-here
-[db-slides]: https://docs.google.com/presentation/d/13VsDAKOCCJulTYtWSbg0gyDX4sqMRWaNVphE0okLmPM/edit?usp=sharing
+[db-slides]: https://docs.google.com/presentation/d/1_lofGkCsKUjx7oJ7x3UNvgcfcl6S_T0DsrdHfzgoNpw/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][sql-lec] )
 [sql-lec]: #paste-YouTube-link-here
-[sql-slides]: https://docs.google.com/presentation/d/1Wu-rfuuJ73MZfKX--mTdVXoYmOMFcd19ay-fvQuWAA4/edit?usp=sharing
+[sql-slides]: https://docs.google.com/presentation/d/1aN10QfCA64zBROsPwDd3ZQkzyt_qdL9ny2eX8D7s1c0/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][sql-demo] )
 [sql-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][schema-lec] )
 [schema-lec]: #paste-YouTube-link-here
-[schema-slides]: https://docs.google.com/presentation/d/1P1z0qn5l5H2NCPp6xg7xDle_0NeDc8Go9eU1IJ_Hbnk/edit?usp=sharing
+[schema-slides]: https://docs.google.com/presentation/d/1As2mGl4QtmhkLy5G6WIsTyfvbu6h3cuTdJKwUB_SOZ8/edit?usp=sharing
+
+[//]: # ( Paste in table above >> [👾][schema-sol] )
+[schema-sol]: 01-junior-phase/07-dbs/twitter-example.pdf
+
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-2] )
 [am-rev-2-2]: #paste-YouTube-link-here
@@ -656,7 +660,7 @@ ___
 [am-rev-2-2-ticket]: https://forms.gle/gSzG94VW9cL9opc89
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-2-demo] )
 [am-rev-2-2-demo]: #link-demo-here
-[//]: # ( Paste in table above >> [👾][am-rev-2-2-sol] )
+[//]: # ( Paste in table above >> [][am-rev-2-2-sol] )
 [am-rev-2-2-sol]: 01-junior-phase/exit-ticket-solutions/07-sql-postgresql-schema.md
 
 - **You should be able to:**
