@@ -631,9 +631,9 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Databases & PostgreSQL | - | [🖼️][db-slides] | - | - | - |
-| Intro to SQL | [📺][db-lec] | [🖼️][sql-slides] | - | - | - |
-| Schema Design | [📺][sql-lec] | [🖼️][schema-slides] | - | - | - |
+| Intro to Databases & PostgreSQL | [📺][db-lec] | [🖼️][db-slides] | - | - | - |
+| Intro to SQL | [📺][sql-lec] | [🖼️][sql-slides] | - | - | - |
+| Schema Design | - | [🖼️][schema-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
