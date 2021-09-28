@@ -568,7 +568,7 @@ ___
 | HTTP and Express 101 | [📺][express-101-lec] | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
 | Express 201 (Wizard News Pt 1) | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | [👾][express-wizard-1-sol] | [📺][express-wizard-1-rev] |
 | `async`/`await` | [📺][async-await-lec] | [🖼️][async-await-slides] | [🧑‍💻][async-await-demo] | [👾][async-await-sol] | - |
-| Morning Review | [📺][am-rev-2-1] | [🎟][am-rev-2-1-ticket] | - | [👾][am-rev-2-1-sol] | - |
+| Morning Review | [📺][am-rev-2-1] | [🎟][am-rev-2-1-ticket] | [🧑‍💻][am-rev-2-1-demo] | [👾][am-rev-2-1-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][express-101-lec] )
 [express-101-lec]: https://youtu.be/PshnTdSbKcA
@@ -599,7 +599,7 @@ ___
 [//]: # ( Paste in table above >> [🎟][am-rev-2-1-ticket] )
 [am-rev-2-1-ticket]: https://forms.gle/kTDn26KUumP9ka1Z8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-1-demo] )
-[am-rev-2-1-demo]: #link-demo-here
+[am-rev-2-1-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/promises
 [//]: # ( Paste in table above >> [👾][am-rev-2-1-sol] )
 [am-rev-2-1-sol]: 01-junior-phase/exit-ticket-solutions/06-express-async-await.md
 
@@ -633,7 +633,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to Databases & PostgreSQL | [📺][db-lec] | [🖼️][db-slides] | - | - | - |
 | Intro to SQL | [📺][sql-lec] | [🖼️][sql-slides] | - | - | - |
-| Schema Design | - | [🖼️][schema-slides] | - | - | - |
+| Schema Design | - | [🖼️][schema-slides] | - | [👾][schema-sol] | - |
 | Morning Review | - | [🎟][am-rev-2-2-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
