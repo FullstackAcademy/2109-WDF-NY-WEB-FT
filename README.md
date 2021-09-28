@@ -568,7 +568,7 @@ ___
 | HTTP and Express 101 | [📺][express-101-lec] | [🖼️][express-101-slides] | [🧑‍💻][express-101-demo] | - | - |
 | Express 201 (Wizard News Pt 1) | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] | [👾][express-wizard-1-sol] | [📺][express-wizard-1-rev] |
 | `async`/`await` | [📺][async-await-lec] | [🖼️][async-await-slides] | [🧑‍💻][async-await-demo] | [👾][async-await-sol] | - |
-| Morning Review | - | [🎟][am-rev-2-1-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-2-1] | [🎟][am-rev-2-1-ticket] | - | [👾][am-rev-2-1-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][express-101-lec] )
 [express-101-lec]: https://youtu.be/PshnTdSbKcA
@@ -595,7 +595,7 @@ ___
 [async-await-sol]: 01-junior-phase/06-express-and-async/Solution.Lab.AsyncAwait-master
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-1] )
-[am-rev-2-1]: #paste-YouTube-link-here
+[am-rev-2-1]: https://youtu.be/U0u4uKnfRBo
 [//]: # ( Paste in table above >> [🎟][am-rev-2-1-ticket] )
 [am-rev-2-1-ticket]: https://forms.gle/kTDn26KUumP9ka1Z8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-1-demo] )
@@ -632,16 +632,16 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to Databases & PostgreSQL | - | [🖼️][db-slides] | - | - | - |
-| Intro to SQL | - | [🖼️][sql-slides] | - | - | - |
-| Schema Design | - | [🖼️][schema-slides] | - | - | - |
+| Intro to SQL | [📺][db-lec] | [🖼️][sql-slides] | - | - | - |
+| Schema Design | [📺][sql-lec] | [🖼️][schema-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
-[db-lec]: #paste-YouTube-link-here
+[db-lec]: https://youtu.be/LYl27t43Ayc
 [db-slides]: https://docs.google.com/presentation/d/1_lofGkCsKUjx7oJ7x3UNvgcfcl6S_T0DsrdHfzgoNpw/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][sql-lec] )
-[sql-lec]: #paste-YouTube-link-here
+[sql-lec]: https://youtu.be/rr31aMR7eio
 [sql-slides]: https://docs.google.com/presentation/d/1aN10QfCA64zBROsPwDd3ZQkzyt_qdL9ny2eX8D7s1c0/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][sql-demo] )
 [sql-demo]: #link-demo-here
