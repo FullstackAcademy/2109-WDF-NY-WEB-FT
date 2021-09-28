@@ -633,7 +633,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to Databases & PostgreSQL | [📺][db-lec] | [🖼️][db-slides] | - | - | - |
 | Intro to SQL | [📺][sql-lec] | [🖼️][sql-slides] | - | - | - |
-| Schema Design | - | [🖼️][schema-slides] | - | [👾][schema-sol] | - |
+| Schema Design | [📺][schema-lec] | [🖼️][schema-slides] | - | [👾][schema-sol] | - |
 | Morning Review | - | [🎟][am-rev-2-2-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
@@ -647,7 +647,7 @@ ___
 [sql-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][schema-lec] )
-[schema-lec]: #paste-YouTube-link-here
+[schema-lec]: https://youtu.be/JcdB3VZUx7Y
 [schema-slides]: https://docs.google.com/presentation/d/1As2mGl4QtmhkLy5G6WIsTyfvbu6h3cuTdJKwUB_SOZ8/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [👾][schema-sol] )
