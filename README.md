@@ -634,7 +634,7 @@ ___
 | Intro to Databases & PostgreSQL | [📺][db-lec] | [🖼️][db-slides] | - | - | - |
 | Intro to SQL | [📺][sql-lec] | [🖼️][sql-slides] | - | - | - |
 | Schema Design | - | [🖼️][schema-slides] | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Morning Review | - | [🎟][am-rev-2-2-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
 [db-lec]: https://youtu.be/LYl27t43Ayc
