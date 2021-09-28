@@ -433,7 +433,7 @@ ___
 | Morning Review | [📺][am-rev-1-4] | [🎟][am-rev-1-4-ticket] | - | [👾][am-rev-1-4-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][dom-events-lec] )
-[dom-events-lec]: #paste-YouTube-link-here
+[dom-events-lec]: https://www.youtube.com/watch?v=9kFsz37bI3w&feature=youtu.be
 [dom-events-slides]: https://docs.google.com/presentation/d/1Unq4gPwi1N5Dn-8yX5MlWRr4RH_FOosaiU2uEXyogNg/edit?usp=sharing
 [//]: # ( Paste in table above >> [👨‍💻][dom-events-demo] )
 [dom-events-demo]:01-junior-phase/04-pixelate/event-listener-demo
