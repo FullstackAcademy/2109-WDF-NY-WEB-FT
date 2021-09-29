@@ -634,7 +634,7 @@ ___
 | Intro to Databases & PostgreSQL | [📺][db-lec] | [🖼️][db-slides] | - | - | - |
 | Intro to SQL | [📺][sql-lec] | [🖼️][sql-slides] | - | - | - |
 | Schema Design | [📺][schema-lec] | [🖼️][schema-slides] | - | [👾][schema-sol] | - |
-| Morning Review | - | [🎟][am-rev-2-2-ticket] | [👾][am-rev-2-2-sol] | - | - |
+| Morning Review | [📺][am-rev-2-2] | [🎟][am-rev-2-2-ticket] | [👾][am-rev-2-2-sol] | - | - |
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
 [db-lec]: https://youtu.be/LYl27t43Ayc
@@ -655,7 +655,7 @@ ___
 
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-2] )
-[am-rev-2-2]: #paste-YouTube-link-here
+[am-rev-2-2]: https://youtu.be/tPrNH35byp8
 [//]: # ( Paste in table above >> [🎟][am-rev-2-2-ticket] )
 [am-rev-2-2-ticket]: https://forms.gle/gSzG94VW9cL9opc89
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-2-demo] )
@@ -698,34 +698,34 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) | - | [🖼️][node-postgres-slides] | - | - | - |
-| RESTful Routing (Wizard News Pt 3) | - | [🖼️][restful-express-slides] | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Node-Postgres (`pg`) (Wizard News Pt 2) | [📺][node-postgres-lec] | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | 👾][wizard-news-2-sol] | [📺][wizard-news-2-rev] |
+| RESTful Routing (Wizard News Pt 3) | [📺][restful-express-lec] | [🖼️][restful-express-slides] | [🧑‍💻][restful-express-demo] | [👾][wizard-news-3-sol] | [📺][wizard-news-3-rev] |
+| Morning Review | - | [🎟][am-rev-2-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][node-postgres-lec] )
-[node-postgres-lec]: #paste-YouTube-link-here
+[node-postgres-lec]: https://youtu.be/z_dn64-NYd8
 [node-postgres-slides]: https://docs.google.com/presentation/d/1oUojPIxCeJcGP0iPoX01XdBdJyBTI4sYuFPaMjRlPdE/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][node-postgres-demo] )
-[node-postgres-demo]: #link-demo-here
+[node-postgres-demo]: 01-junior-phase/08-postgres-and-routing/pg-demo
 [//]: # ( Paste in table above >> [👾][wizard-news-2-sol] )
-[wizard-news-2-sol]: ###
+[wizard-news-2-sol]: 01-junior-phase/08-postgres-and-routing/Solution.Wizard-news-Part2
 [//]: # ( Paste in table above >> [📺][wizard-news-2-rev] )
-[wizard-news-2-rev]: ###
+[wizard-news-2-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmM-IVZfeksQqCXLGrKXCrl
 
 [//]: # ( Paste in table above >> [📺][restful-express-lec] )
-[restful-express-lec]: #paste-YouTube-link-here
+[restful-express-lec]: https://youtu.be/Ij5GSQRxnr4
 [restful-express-slides]: https://docs.google.com/presentation/d/1O_hFzWApi9_mtLuCuvpkc4jna90JTOrfkNpJ5usmuVs/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][restful-express-demo] )
-[restful-express-demo]: #link-demo-here
+[restful-express-demo]: 01-junior-phase/08-postgres-and-routing/router-demo
 [//]: # ( Paste in table above >> [👾][wizard-news-3-sol] )
-[wizard-news-3-sol]: ###
+[wizard-news-3-sol]: 01-junior-phase/08-postgres-and-routing/Solution.Wizard-news-Part3
 [//]: # ( Paste in table above >> [📺][wizard-news-3-rev] )
-[wizard-news-3-rev]: ###
+[wizard-news-3-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlBAQOjZdHZ5EOZta0l9e2L
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-3] )
 [am-rev-2-3]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-3-ticket] )
-[am-rev-2-3-ticket]: https://forms.gle/eCL4rDTLAnZGfFBM8
+[am-rev-2-3-ticket]: https://forms.gle/scwcbhBKFXfqN3uK6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-3-demo] )
 [am-rev-2-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-3-sol] )
@@ -779,7 +779,7 @@ ___
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][orm-lec] )
-[orm-lec]: #paste-YouTube-link-here
+[orm-lec]: #paste-link-here
 [orm-slides]: https://docs.google.com/presentation/d/1MmXN7IE33tR2SytUO5Ko8tyVZFZ4qHwIb5ENCsrUYzQ/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][orm-demo] )
 [orm-demo]: #link-demo-here
