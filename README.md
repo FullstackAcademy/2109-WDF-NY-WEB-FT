@@ -634,7 +634,7 @@ ___
 | Intro to Databases & PostgreSQL | [📺][db-lec] | [🖼️][db-slides] | - | - | - |
 | Intro to SQL | [📺][sql-lec] | [🖼️][sql-slides] | - | - | - |
 | Schema Design | [📺][schema-lec] | [🖼️][schema-slides] | - | [👾][schema-sol] | - |
-| Morning Review | - | [🎟][am-rev-2-2-ticket] | - | - | - |
+| Morning Review | - | [🎟][am-rev-2-2-ticket] | [👾][am-rev-2-2-sol] | - | - |
 
 [//]: # ( Paste in table above >> [📺][db-lec] )
 [db-lec]: https://youtu.be/LYl27t43Ayc
@@ -660,7 +660,7 @@ ___
 [am-rev-2-2-ticket]: https://forms.gle/gSzG94VW9cL9opc89
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-2-demo] )
 [am-rev-2-2-demo]: #link-demo-here
-[//]: # ( Paste in table above >> [][am-rev-2-2-sol] )
+[//]: # ( Paste in table above >> [👾][am-rev-2-2-sol] )
 [am-rev-2-2-sol]: 01-junior-phase/exit-ticket-solutions/07-sql-postgresql-schema.md
 
 - **You should be able to:**
