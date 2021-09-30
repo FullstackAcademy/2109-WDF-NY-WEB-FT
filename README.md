@@ -791,7 +791,7 @@ ___
 [orm-sol]: ###link-sequelize-lab-solution-here
 
 [//]: # ( Paste in table above >> [👾][wikistack-1-sol] )
-[wikistack-1-sol]: ###
+[wikistack-1-sol]: 01-junior-phase/09-sequelize/Solution.Wikistack1-master
 [//]: # ( Paste in table above >> [📺][wikistack-1-rev] )
 [wikistack-1-rev]: ###
 
