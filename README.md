@@ -700,7 +700,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Node-Postgres (`pg`) (Wizard News Pt 2) | [📺][node-postgres-lec] | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | 👾][wizard-news-2-sol] | [📺][wizard-news-2-rev] |
 | RESTful Routing (Wizard News Pt 3) | [📺][restful-express-lec] | [🖼️][restful-express-slides] | [🧑‍💻][restful-express-demo] | [👾][wizard-news-3-sol] | [📺][wizard-news-3-rev] |
-| Morning Review | - | [🎟][am-rev-2-3-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-2-3] | [🎟][am-rev-2-3-ticket] | - | [👾][am-rev-2-3-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][node-postgres-lec] )
 [node-postgres-lec]: https://youtu.be/z_dn64-NYd8
@@ -723,7 +723,7 @@ ___
 [wizard-news-3-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlBAQOjZdHZ5EOZta0l9e2L
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-3] )
-[am-rev-2-3]: #paste-YouTube-link-here
+[am-rev-2-3]: https://youtu.be/O0UX-VBOrXI
 [//]: # ( Paste in table above >> [🎟][am-rev-2-3-ticket] )
 [am-rev-2-3-ticket]: https://forms.gle/scwcbhBKFXfqN3uK6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-3-demo] )
@@ -774,13 +774,16 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to ORMs (Sequelize) | - | [🖼️][orm-slides] | - | - | - |
+| Intro to ORMs (Sequelize) | [📺][orm-lec-1] | [🖼️][orm-slides-1] | - | - | - |
 | Wikistack 1 | - | - | - | - | - |
 | Morning Review | - | - | - | - | - |
 
-[//]: # ( Paste in table above >> [📺][orm-lec] )
-[orm-lec]: #paste-link-here
-[orm-slides]: https://docs.google.com/presentation/d/1MmXN7IE33tR2SytUO5Ko8tyVZFZ4qHwIb5ENCsrUYzQ/edit?usp=sharing
+[//]: # ( Paste in table above >> [📺][orm-lec-1] )
+[orm-lec-1]: https://youtu.be/9CMwxGUCAZw
+[orm-slides-1]: https://docs.google.com/presentation/d/1VjqI_-UjXMmBjV013n2F8_rnuNMnHRyRykzHO7O1UNw/edit?usp=sharing
+[//]: # ( Paste in table above >> [📺][orm-lec-2] )
+[orm-lec-2]: #youtube-link-here
+[orm-slides-2]: https://docs.google.com/presentation/d/1y86WmG5VObSeNNKR3FzEM0alyGPcII9qfOYinIs8MZM/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][orm-demo] )
 [orm-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][orm-sol] )
