@@ -775,14 +775,15 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to ORMs (Sequelize) | [📺][orm-lec-1] | [🖼️][orm-slides-1] | - | - | - |
+| Sequelize Hooks | [📺][orm-lec-2] | [🖼️][orm-slides-2] | - | - | - |
 | Wikistack 1 | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Morning Review | - | [🎟][am-rev-2-4-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][orm-lec-1] )
 [orm-lec-1]: https://youtu.be/9CMwxGUCAZw
 [orm-slides-1]: https://docs.google.com/presentation/d/1VjqI_-UjXMmBjV013n2F8_rnuNMnHRyRykzHO7O1UNw/edit?usp=sharing
 [//]: # ( Paste in table above >> [📺][orm-lec-2] )
-[orm-lec-2]: #youtube-link-here
+[orm-lec-2]: https://youtu.be/ZwemG7lfbto
 [orm-slides-2]: https://docs.google.com/presentation/d/1y86WmG5VObSeNNKR3FzEM0alyGPcII9qfOYinIs8MZM/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][orm-demo] )
 [orm-demo]: #link-demo-here
