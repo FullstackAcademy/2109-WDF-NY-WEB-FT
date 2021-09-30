@@ -774,8 +774,8 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to ORMs (Sequelize) | [📺][orm-lec-1] | [🖼️][orm-slides-1] | - | - | - |
-| Sequelize Hooks | [📺][orm-lec-2] | [🖼️][orm-slides-2] | - | - | - |
+| Intro to ORMs (Sequelize) | [📺][orm-lec-1] | [🖼️][orm-slides-1] | [🧑‍💻][orm-demo] | - | - |
+| Sequelize Hooks | [📺][orm-lec-2] | [🖼️][orm-slides-2] | [🧑‍💻][orm-demo] | - | - |
 | Wikistack 1 | - | - | - | - | - |
 | Morning Review | - | [🎟][am-rev-2-4-ticket] | - | - | - |
 
@@ -786,7 +786,7 @@ ___
 [orm-lec-2]: https://youtu.be/ZwemG7lfbto
 [orm-slides-2]: https://docs.google.com/presentation/d/1y86WmG5VObSeNNKR3FzEM0alyGPcII9qfOYinIs8MZM/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][orm-demo] )
-[orm-demo]: #link-demo-here
+[orm-demo]: https://github.com/orlandocaraballo/class-examples/blob/master/sequelize-examples/db.js
 [//]: # ( Paste in table above >> [👾][orm-sol] )
 [orm-sol]: ###link-sequelize-lab-solution-here
 
