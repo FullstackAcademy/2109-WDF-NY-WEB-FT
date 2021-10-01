@@ -776,8 +776,8 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to ORMs (Sequelize) | [📺][orm-lec-1] | [🖼️][orm-slides-1] | [🧑‍💻][orm-demo] | - | - |
 | Sequelize Hooks | [📺][orm-lec-2] | [🖼️][orm-slides-2] | [🧑‍💻][orm-demo] | - | - |
-| Wikistack 1 | - | - | - | - | - |
-| Morning Review | - | [🎟][am-rev-2-4-ticket] | - | [👾][am-rev-2-4-sol] | - |
+| Wikistack 1 | - | - | - | [👾][wikistack-1-sol] | - |
+| Morning Review | - | [🎟][am-rev-2-4-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][orm-lec-1] )
 [orm-lec-1]: https://youtu.be/9CMwxGUCAZw
