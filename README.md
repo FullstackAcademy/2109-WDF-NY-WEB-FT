@@ -547,7 +547,7 @@ ___
 
 ### **Week 2: Express, Async/Await, Databases (PostgreSQL), ORMs (Sequelize)**
 
-<!-- <details><summary>Click to view</summary> -->
+<details><summary>Click to view</summary>
 
 #### Day 1: Express, Handling Asynchronous Operations (`async`/`await`)
 
@@ -868,12 +868,12 @@ ___
   - Write class and instance methods on Sequelize models
 
 </details>
-<!--
+
 ___
 
 ### **Week 3: Single-Page Applications, Pillars, React**
 
-<details><summary>Click to view</summary>
+<!-- <details><summary>Click to view</summary> -->
 
 #### Day 1: Single-Page Applications
 
@@ -1114,6 +1114,7 @@ ___
 </details>
 
 </details>
+<!--
 
 ___
 
