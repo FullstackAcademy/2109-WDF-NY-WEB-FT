@@ -777,7 +777,7 @@ ___
 | Intro to ORMs (Sequelize) | [📺][orm-lec-1] | [🖼️][orm-slides-1] | [🧑‍💻][orm-demo] | - | - |
 | Sequelize Hooks | [📺][orm-lec-2] | [🖼️][orm-slides-2] | [🧑‍💻][orm-demo] | - | - |
 | Wikistack 1 | - | - | - | - | - |
-| Morning Review | - | [🎟][am-rev-2-4-ticket] | - | - | - |
+| Morning Review | - | [🎟][am-rev-2-4-ticket] | - | [👾][am-rev-2-4-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][orm-lec-1] )
 [orm-lec-1]: https://youtu.be/9CMwxGUCAZw
@@ -834,7 +834,7 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Rounding Out Express & Sequelize | - | [🖼️][rounding-out-slides] | - | - | - |
+| Rounding Out Express & Sequelize | - | [🖼️][rounding-out-slides] | [🧑‍💻][rounding-out-lec-demo] | - | - |
 | Wikistack 2 | - | - | - | - | - |
 | Morning Review | - | - | - | - | - |
 
@@ -842,7 +842,7 @@ ___
 [rounding-out-lec]: #paste-YouTube-link-here
 [rounding-out-slides]: https://docs.google.com/presentation/d/1QrlyvcJmexEATyZRBDr3D5GaU5rAqN_v4h9EK8xwYF0/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][rounding-out-lec-demo] )
-[rounding-out-lec-demo]: ###
+[rounding-out-lec-demo]: 01-junior-phase/10-rounding-out/express-sequelize-rounding-out-demo
 
 [//]: # ( Paste in table above >> [👾][wikistack-2-sol] )
 [wikistack-2-sol]: ###
