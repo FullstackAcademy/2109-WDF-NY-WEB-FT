@@ -777,7 +777,7 @@ ___
 | Intro to ORMs (Sequelize) | [📺][orm-lec-1] | [🖼️][orm-slides-1] | [🧑‍💻][orm-demo] | - | - |
 | Sequelize Hooks | [📺][orm-lec-2] | [🖼️][orm-slides-2] | [🧑‍💻][orm-demo] | - | - |
 | Wikistack 1 | - | - | - | [👾][wikistack-1-sol] | - |
-| Morning Review | - | [🎟][am-rev-2-4-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-2-4] | [🎟][am-rev-2-4-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][orm-lec-1] )
 [orm-lec-1]: https://youtu.be/9CMwxGUCAZw
@@ -796,7 +796,7 @@ ___
 [wikistack-1-rev]: ###
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-4] )
-[am-rev-2-4]: #paste-YouTube-link-here
+[am-rev-2-4]: https://youtu.be/YqsG-pDGRt4
 [//]: # ( Paste in table above >> [🎟][am-rev-2-4-ticket] )
 [am-rev-2-4-ticket]: https://forms.gle/srJq8ydNeAfCVZEh6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-4-demo] )
@@ -834,13 +834,13 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Rounding Out Express & Sequelize | - | [🖼️][rounding-out-slides] | [🧑‍💻][rounding-out-lec-demo] | - | - |
+| Rounding Out Express & Sequelize | [📺][rounding-out-lec] | [🖼️][rounding-out-slides] | [🧑‍💻][rounding-out-lec-demo] | - | - |
 | Wikistack 2 | - | - | - | [👾][wikistack-2-sol] | - |
-| Afternoon Review | - | - | - | [👾 finished project][review-demo-finished] | [👾 coded in-class][review-demo-wip]  |
+| Afternoon Review | [📺][afternoon-review-2-5] | - | - | [👾 finished project][review-demo-finished] | [👾 coded in-class][review-demo-wip]  |
 | Morning Review | - | [🎟][am-rev-2-5-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][rounding-out-lec] )
-[rounding-out-lec]: #paste-YouTube-link-here
+[rounding-out-lec]: https://youtu.be/XwajsAY0rgU
 [rounding-out-slides]: https://docs.google.com/presentation/d/1QrlyvcJmexEATyZRBDr3D5GaU5rAqN_v4h9EK8xwYF0/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][rounding-out-lec-demo] )
 [rounding-out-lec-demo]: 01-junior-phase/10-rounding-out/express-sequelize-rounding-out-demo
@@ -848,6 +848,8 @@ ___
 [//]: # ( Paste in table above >> [👾][wikistack-2-sol] )
 [wikistack-2-sol]: 01-junior-phase/10-rounding-out/Solution.Wikistack2-main
 
+[//]: # ( Paste in table above >> [📺][afternoon-review-2-5] )
+[afternoon-review-2-5]: https://youtu.be/CVCKXGusJIs
 [//]: # ( Paste in table above >> [👾 ][review-demo-wip] )
 [review-demo-wip]: 01-junior-phase/10-rounding-out/imdb-WIP
 [//]: # ( Paste in table above >> [👾][review-demo-finished] )
