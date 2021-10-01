@@ -698,7 +698,7 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) | [📺][node-postgres-lec] | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | 👾][wizard-news-2-sol] | [📺][wizard-news-2-rev] |
+| Node-Postgres (`pg`) (Wizard News Pt 2) | [📺][node-postgres-lec] | [🖼️][node-postgres-slides] | [🧑‍💻][node-postgres-demo] | [👾][wizard-news-2-sol] | [📺][wizard-news-2-rev] |
 | RESTful Routing (Wizard News Pt 3) | [📺][restful-express-lec] | [🖼️][restful-express-slides] | [🧑‍💻][restful-express-demo] | [👾][wizard-news-3-sol] | [📺][wizard-news-3-rev] |
 | Morning Review | [📺][am-rev-2-3] | [🎟][am-rev-2-3-ticket] | - | [👾][am-rev-2-3-sol] | - |
 
@@ -835,8 +835,9 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Rounding Out Express & Sequelize | - | [🖼️][rounding-out-slides] | [🧑‍💻][rounding-out-lec-demo] | - | - |
-| Wikistack 2 | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Wikistack 2 | - | - | - | [👾][wikistack-2-sol] | - |
+| Afternoon Review | - | - | - | [👾 finished project][review-demo-finished] | [👾 coded in-class][review-demo-wip]  |
+| Morning Review | - | [🎟][am-rev-2-5-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][rounding-out-lec] )
 [rounding-out-lec]: #paste-YouTube-link-here
@@ -845,12 +846,17 @@ ___
 [rounding-out-lec-demo]: 01-junior-phase/10-rounding-out/express-sequelize-rounding-out-demo
 
 [//]: # ( Paste in table above >> [👾][wikistack-2-sol] )
-[wikistack-2-sol]: ###
+[wikistack-2-sol]: 01-junior-phase/10-rounding-out/Solution.Wikistack2-main
+
+[//]: # ( Paste in table above >> [👾 ][review-demo-wip] )
+[review-demo-wip]: 01-junior-phase/10-rounding-out/imdb-WIP
+[//]: # ( Paste in table above >> [👾][review-demo-finished] )
+[review-demo-finished]: 01-junior-phase/10-rounding-out/imdb-FINISHED
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-5] )
 [am-rev-2-5]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-2-5-ticket] )
-[am-rev-2-5-ticket]: https://forms.gle/9TFZ6Hp8SomEaoo68
+[am-rev-2-5-ticket]: https://forms.gle/79UuJ4jrwH3uhg4u5
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-5-demo] )
 [am-rev-2-5-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-2-5-sol] )

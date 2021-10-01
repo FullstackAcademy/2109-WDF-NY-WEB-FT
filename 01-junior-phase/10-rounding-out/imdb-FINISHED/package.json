@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "html-template-tag": "^4.0.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.13",
+    "pg": "^8.7.1",
+    "sequelize": "^6.6.5"
+  },
+  "name": "express-sequelize-imdb-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "seed": "node seed.js",
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
