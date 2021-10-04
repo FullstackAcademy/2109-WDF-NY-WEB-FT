@@ -837,7 +837,7 @@ ___
 | Rounding Out Express & Sequelize | [📺][rounding-out-lec] | [🖼️][rounding-out-slides] | [🧑‍💻][rounding-out-lec-demo] | - | - |
 | Wikistack 2 | - | - | - | [👾][wikistack-2-sol] | - |
 | Afternoon Review | [📺][afternoon-review-2-5] | - | - | [👾 finished project][review-demo-finished] | [👾 coded in-class][review-demo-wip]  |
-| Morning Review | - | [🎟][am-rev-2-5-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-2-5] | [🎟][am-rev-2-5-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][rounding-out-lec] )
 [rounding-out-lec]: https://youtu.be/XwajsAY0rgU
@@ -856,7 +856,7 @@ ___
 [review-demo-finished]: 01-junior-phase/10-rounding-out/imdb-FINISHED
 
 [//]: # ( Paste in table above >> [📺][am-rev-2-5] )
-[am-rev-2-5]: #paste-YouTube-link-here
+[am-rev-2-5]: https://youtu.be/g8xFdQ7YFrs
 [//]: # ( Paste in table above >> [🎟][am-rev-2-5-ticket] )
 [am-rev-2-5-ticket]: https://forms.gle/79UuJ4jrwH3uhg4u5
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-2-5-demo] )
@@ -883,19 +883,19 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Front-End Modules | - | [🖼️ ][fe-modules-slides] | - | - | - |
+| Front-End Modules | - | - | - | - | - |
 | SPA & AJAX (PuppyBowl) | - | [🖼️][spa-ajax-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][fe-modules-lec] )
-[fe-modules-lec]: #paste-YouTube-link-here
+[fe-modules-lec]: https://youtu.be/kn7UBmb0x80
 [fe-modules-slides]: https://docs.google.com/presentation/d/1DULROUIBXCIsPsiHHYH2SsFgvxjUqOGJf9o6qKN3SMw/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][fe-modules-demo] )
 [fe-modules-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][spa-ajax-lec] )
-[spa-ajax-lec]: #paste-YouTube-link-here
-[spa-ajax-slides]: https://docs.google.com/presentation/d/1F3O6Zwl3blYnRw9pOJ2dGvlfngR3XTNa_ITlV1kV2P0/edit?usp=sharing
+[spa-ajax-lec]: https://youtu.be/wt_NbLxmJmY
+[spa-ajax-slides]: https://docs.google.com/presentation/d/1h14jJR1h3woz1F8S4iFXVS844PkFpEfXgNWdMi0eCBc/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][spa-ajax-demo] )
 [spa-ajax-demo]: #link-demo-here
 
