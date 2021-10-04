@@ -1,0 +1,28 @@
+{
+  "name": "puppybowl-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "npm run start-server & npm run build-watch",
+    "start-server": "nodemon main",
+    "build-watch": "webpack -w",
+    "seed": "node seed.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-recommended": "^4.1.0",
+    "nodemon": "^2.0.7",
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0"
+  }
+}

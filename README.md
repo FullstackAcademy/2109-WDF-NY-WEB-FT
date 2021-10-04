@@ -837,7 +837,7 @@ ___
 | Rounding Out Express & Sequelize | [📺][rounding-out-lec] | [🖼️][rounding-out-slides] | [🧑‍💻][rounding-out-lec-demo] | - | - |
 | Wikistack 2 | - | - | - | [👾][wikistack-2-sol] | - |
 | Afternoon Review | [📺][afternoon-review-2-5] | - | - | [👾 finished project][review-demo-finished] | [👾 coded in-class][review-demo-wip]  |
-| Morning Review | [📺][am-rev-2-5] | [🎟][am-rev-2-5-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-2-5] | [🎟][am-rev-2-5-ticket] | - | [👾][am-rev-2-5-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][rounding-out-lec] )
 [rounding-out-lec]: https://youtu.be/XwajsAY0rgU
@@ -883,15 +883,17 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Front-End Modules | - | - | - | - | - |
-| SPA & AJAX (PuppyBowl) | - | [🖼️][spa-ajax-slides] | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Front-End Modules | [📺][fe-modules-lec] | - | [🧑‍💻][fe-modules-demo] | [👾][fe-modules-lab] | - |
+| SPA & AJAX (PuppyBowl) | [📺][spa-ajax-lec] | [🖼️][spa-ajax-slides] | - | [👾][puppybowl-sol] | - |
+| Morning Review | - | [🎟][am-rev-3-1-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][fe-modules-lec] )
 [fe-modules-lec]: https://youtu.be/kn7UBmb0x80
 [fe-modules-slides]: https://docs.google.com/presentation/d/1DULROUIBXCIsPsiHHYH2SsFgvxjUqOGJf9o6qKN3SMw/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][fe-modules-demo] )
-[fe-modules-demo]: #link-demo-here
+[fe-modules-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/webpack-practice
+[//]: # ( Paste in table above >> [👾][fe-modules-lab] )
+[fe-modules-lab]: 01-junior-phase/11-spa/Lab.Webpack-solution
 
 [//]: # ( Paste in table above >> [📺][spa-ajax-lec] )
 [spa-ajax-lec]: https://youtu.be/wt_NbLxmJmY
@@ -900,7 +902,7 @@ ___
 [spa-ajax-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [👾][puppybowl-sol] )
-[puppybowl-sol]: ###
+[puppybowl-sol]: 01-junior-phase/11-spa/PairExercise.PuppyBowl.Solution-main
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-1] )
 [am-rev-3-1]: #paste-YouTube-link-here
