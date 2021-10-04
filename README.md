@@ -888,7 +888,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Front-End Modules | [📺][fe-modules-lec] | - | [🧑‍💻][fe-modules-demo] | [👾][fe-modules-lab] | - |
 | SPA & AJAX (PuppyBowl) | [📺][spa-ajax-lec] | [🖼️][spa-ajax-slides] | - | [👾][puppybowl-sol] | - |
-| Morning Review | - | [🎟][am-rev-3-1-ticket] | - | - | - |
+| Morning Review | - | [🎟][am-rev-3-1-ticket] | - | [👾][am-rev-3-1-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][fe-modules-lec] )
 [fe-modules-lec]: https://youtu.be/kn7UBmb0x80
