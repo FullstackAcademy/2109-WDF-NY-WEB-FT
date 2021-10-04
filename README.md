@@ -103,12 +103,10 @@ ___
 
 ### ✔️ **Checkpoints**
 
-| Topic | Link | Due by | Solution |
-| ---------- | ---- | ------ | -------- |
-** Will be added when opened
-
-<!-- | DOM | [🔗][ckpt-dom] | - | - | -->
-<!-- | Express & Sequelize | [🔗][ckpt-express-sequelize] | - | - | -->
+| Topic | Link | Due by | Solution | Walkthrough |
+| ---------- | ---- | ------ | -------- | -------- |
+| DOM | [🔗][ckpt-dom] | Sun 09/26 6PM EST | [👾][ckpt-dom-sol] | [📺][ckpt-dom-video] |
+| Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun 10/03 6PM EST | [👾][ckpt-express-sequelize-sol] | [📺][ckpt-express-sequelize-video]
 <!-- | Pillars | [🔗][pillars] | - | - | -->
 <!-- | React | [🔗][ckpt-react] | - | - | -->
 <!-- | Redux | [🔗][ckpt-redux] | - | - | -->
@@ -119,11 +117,14 @@ ___
 
 [ckpt-dom]: https://github.com/FullstackAcademy/Checkpoint.DOM
 [//]: # ( Paste in table above >> [👾][ckpt-dom-sol] )
-[ckpt-dom-sol]: #tba
+[ckpt-dom-sol]: 01-junior-phase/checkpoints/Checkpoint.DOM.Solution-master
+[ckpt-dom-video]: https://youtu.be/3EtAyIhudF0
 
 [ckpt-express-sequelize]: https://github.com/FullstackAcademy/Checkpoint-Express-Sequelize-B
 [//]: # ( Paste in table above >> [👾][ckpt-express-sequelize-sol] )
-[ckpt-express-sequelize-sol]: #tbd
+[ckpt-express-sequelize-sol]: 01-junior-phase/checkpoints/Checkpoint-Express-Sequelize-B-Solution-main
+[ckpt-express-sequelize-video]: https://www.youtube.com/playlist?list=PL_yPiP-ZZLhKmY7Je1N1Gk06TkyKPgkwe
+
 
 [pillars]: #tba
 [//]: # ( Paste in table above >> [📺][pillars-rev] )
@@ -148,9 +149,8 @@ ___
 
 | Topic | Link | Solution |
 | ----- | ---- | -------- |
-** Will be added when opened
-
-<!-- | Study Saturday: Express & Sequelize | [🔗][ss-express-sequelize] | [👾][ss-express-sequelize-sol] | -->
+| Study Saturday: Express & Sequelize | [🔗][ss-express-sequelize] | [👾][ss-express-sequelize-sol] |
+| Cody's Cafe | [🔗][codys-cafe-repo] | [👾][codys-cafe-sol] |
 <!-- | Study Saturday: React | [🔗][ss-react] | [👾][ss-react-sol] | -->
 <!-- | Cody's Cafe | [🔗][codys-cafe-repo] | [👾][codys-cafe-sol] | -->
 <!-- | Cody's Quiz | [🔗][codys-quiz-repo] | [👾][codys-quiz-sol] | -->
@@ -159,8 +159,11 @@ ___
 
 [//]: # ( Open Study Saturday material the following Monday )
 
+[codys-cafe-repo]: https://github.com/FullstackAcademy/codys-cafe
+[codys-cafe-sol]: https://github.com/FullstackAcademy/codys-cafe-solution.git
+
 [ss-express-sequelize]: https://github.com/FullstackAcademy/Study-Saturday-Express-Sequelize
-[ss-express-sequelize-sol]: #tba
+[ss-express-sequelize-sol]: https://github.com/FullstackAcademy/codys-cafe-solution
 
 [ss-react]: https://github.com/FullstackAcademy/Study-Saturday-React
 [ss-react-sol]: #tba

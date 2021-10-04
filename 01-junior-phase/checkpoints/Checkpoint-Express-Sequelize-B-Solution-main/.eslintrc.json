@@ -1,0 +1,32 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true,
+    "mocha": true,
+    "node": true
+  },
+  "extends": ["eslint:recommended", "prettier"],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "ignorePatterns": ["node_modules"],
+  "rules": {
+    "semi": "off",
+    "no-trailing-spaces": "warn",
+    "no-console": "off",
+    "no-multiple-empty-lines": "warn",
+    "no-unused-vars": [
+      "warn",
+      {
+        "argsIgnorePattern": "^next$"
+      }
+    ]
+  }
+}
