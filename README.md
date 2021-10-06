@@ -965,7 +965,7 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to React | [📺][intro-react-lec] | [🖼️][intro-react-slides] | - | [👾][intro-react-sol] | - |
+| Intro to React | [📺][intro-react-lec] | [🖼️][intro-react-slides] | [🧑‍💻][intro-react-demo] | [👾][intro-react-sol] | - |
 | State & Props | [📺][state-props-lec] | [🖼️][state-props-slides] | - | [👾][state-props-sol] | - |
 | Morning Review | - | [🎟][am-rev-3-3-ticket] | - | - | - |
 
@@ -973,7 +973,7 @@ ___
 [intro-react-lec]: https://youtu.be/gzFxdTL20yI
 [intro-react-slides]: https://docs.google.com/presentation/d/1V2xtYaPdcxSnzpFlKzSBErkj_svWXiLKptLhuP0Pb3o/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][intro-react-demo] )
-[intro-react-demo]: ###
+[intro-react-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/react/example
 [//]: # ( Paste in table above >> [👾][intro-react-sol] )
 [intro-react-sol]: 01-junior-phase/13-react/Lab.FirstComponent.Solution-main
 
