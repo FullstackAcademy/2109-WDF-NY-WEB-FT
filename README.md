@@ -107,7 +107,7 @@ ___
 | ---------- | ---- | ------ | -------- | -------- |
 | DOM | [🔗][ckpt-dom] | Sun 09/26 6PM EST | [👾][ckpt-dom-sol] | [📺][ckpt-dom-video] |
 | Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun 10/03 6PM EST | [👾][ckpt-express-sequelize-sol] | [📺][ckpt-express-sequelize-video]
-<!-- | Pillars | [🔗][pillars] | - | - | -->
+| Pillars | [🔗][pillars] | Wed 10/05 6PM EST | - | [📺][pillars-rev] |
 <!-- | React | [🔗][ckpt-react] | - | - | -->
 <!-- | Redux | [🔗][ckpt-redux] | - | - | -->
 <!-- | JPFP | [🔗][jpfp] | - | - | -->
@@ -126,9 +126,9 @@ ___
 [ckpt-express-sequelize-video]: https://www.youtube.com/playlist?list=PL_yPiP-ZZLhKmY7Je1N1Gk06TkyKPgkwe
 
 
-[pillars]: #tba
+[pillars]: https://github.com/FullstackAcademy/Checkpoint-Pillars-v2
 [//]: # ( Paste in table above >> [📺][pillars-rev] )
-[pillars-rev]: #tba
+[pillars-rev]: https://www.youtube.com/playlist?list=PL_yPiP-ZZLhKph-MuCSKujl_MVved1OWC
 
 [ckpt-react]: https://github.com/FullstackAcademy/Checkpoint-React-v2
 [//]: # ( Paste in table above >> [👾][ckpt-react-sol] )
@@ -965,21 +965,21 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to React | - | [🖼️][intro-react-slides] | - | - | - |
-| State & Props | - | [🖼️][state-props-slides] | - | - | - |
+| Intro to React | [📺][intro-react-lec] | [🖼️][intro-react-slides] | - | - | - |
+| State & Props | [📺][state-props-lec] | [🖼️][state-props-slides] | - | - | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][intro-react-lec] )
-[intro-react-lec]: #paste-YouTube-link-here
-[intro-react-slides]: https://docs.google.com/presentation/d/12YbNHn_ooDhKiAjdnwbQVbqaEesj-5oNEqheN8BCME0/edit?usp=sharing
+[intro-react-lec]: https://youtu.be/gzFxdTL20yI
+[intro-react-slides]: https://docs.google.com/presentation/d/1V2xtYaPdcxSnzpFlKzSBErkj_svWXiLKptLhuP0Pb3o/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][intro-react-demo] )
 [intro-react-demo]: ###
 [//]: # ( Paste in table above >> [👾][intro-react-sol] )
 [intro-react-sol]: ###
 
 [//]: # ( Paste in table above >> [📺][state-props-lec] )
-[state-props-lec]: #paste-YouTube-link-here
-[state-props-slides]: https://docs.google.com/presentation/d/1Hkc85unbFqqOMoUmmCJKWQVYwfzWaVdHf7YfQYTiXnY/edit?usp=sharing
+[state-props-lec]: https://youtu.be/vco7NOvBXPg
+[state-props-slides]: https://docs.google.com/presentation/d/17MP47tlpw0zCYSBI2V-l9CyPNtW_UaB0lIcrc075fwQ/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][state-props-demo] )
 [state-props-demo]: ###
 [//]: # ( Paste in table above >> [👾][state-props-sol] )
