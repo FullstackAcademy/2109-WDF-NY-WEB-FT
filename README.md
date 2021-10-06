@@ -965,9 +965,9 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to React | [📺][intro-react-lec] | [🖼️][intro-react-slides] | - | - | - |
-| State & Props | [📺][state-props-lec] | [🖼️][state-props-slides] | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Intro to React | [📺][intro-react-lec] | [🖼️][intro-react-slides] | - | [👾][intro-react-sol] | - |
+| State & Props | [📺][state-props-lec] | [🖼️][state-props-slides] | - | [👾][state-props-sol] | - |
+| Morning Review | - | [🎟][am-rev-3-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][intro-react-lec] )
 [intro-react-lec]: https://youtu.be/gzFxdTL20yI
@@ -975,7 +975,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][intro-react-demo] )
 [intro-react-demo]: ###
 [//]: # ( Paste in table above >> [👾][intro-react-sol] )
-[intro-react-sol]: ###
+[intro-react-sol]: 01-junior-phase/13-react/Lab.FirstComponent.Solution-main
 
 [//]: # ( Paste in table above >> [📺][state-props-lec] )
 [state-props-lec]: https://youtu.be/vco7NOvBXPg
@@ -983,7 +983,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][state-props-demo] )
 [state-props-demo]: ###
 [//]: # ( Paste in table above >> [👾][state-props-sol] )
-[state-props-sol]: ###
+[state-props-sol]: 01-junior-phase/13-react/Lab.PropsAndState.Solution-master
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-3] )
 [am-rev-3-3]: #paste-YouTube-link-here
