@@ -1044,7 +1044,7 @@ ___
 [//]: # ( Paste in table above >> [👾][react-lifecycle-sol] )
 [react-lifecycle-sol]: ###
 [//]: # ( Paste in table above >> [🧑‍💻][react-lifecycle-demo] )
-[react-lifecycle-demo]: 01-junior-phase/14-rounding-out/React-Lifecycle-Extra-Demo
+[react-lifecycle-demo]: 01-junior-phase/14-lifecycle/React-Lifecycle-Extra-Demo
 
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-4] )
