@@ -967,7 +967,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to React | [📺][intro-react-lec] | [🖼️][intro-react-slides] | [🧑‍💻][intro-react-demo] | [👾][intro-react-sol] | - |
 | State & Props | [📺][state-props-lec] | [🖼️][state-props-slides] | - | [👾][state-props-sol] | - |
-| Morning Review | - | [🎟][am-rev-3-3-ticket] | - | [👾][am-rev-3-3-sol] | - |
+| Morning Review | [📺][am-rev-3-3] | [🎟][am-rev-3-3-ticket] | - | [👾][am-rev-3-3-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][intro-react-lec] )
 [intro-react-lec]: https://youtu.be/gzFxdTL20yI
@@ -986,7 +986,7 @@ ___
 [state-props-sol]: 01-junior-phase/13-react/Lab.PropsAndState.Solution-master
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-3] )
-[am-rev-3-3]: #paste-YouTube-link-here
+[am-rev-3-3]: https://youtu.be/wYPdrswRjFQ
 [//]: # ( Paste in table above >> [🎟][am-rev-3-3-ticket] )
 [am-rev-3-3-ticket]: https://forms.gle/cLPKCdhbzVKtTrbT9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-3-demo] )
@@ -1035,11 +1035,11 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Component Lifecycle (Contact List) | - | [🖼️][react-lifecycle-slides] | [🧑‍💻][react-lifecycle-demo]<br>[🧑‍💻 extra demo][react-lifecycle-demo] | [👾][react-lifecycle-sol] | - |
+| Component Lifecycle (Contact List) | [📺][react-lifecycle-lec] | [🖼️][react-lifecycle-slides] | [🧑‍💻][react-lifecycle-demo]<br>[🧑‍💻 extra demo][react-lifecycle-demo] | [👾][react-lifecycle-sol] | - |
 | Morning Review | - | [🎟][am-rev-3-4-ticket] ) | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][react-lifecycle-lec] )
-[react-lifecycle-lec]: #paste-YouTube-link-here
+[react-lifecycle-lec]: https://youtu.be/MjHLIOBnerI
 [react-lifecycle-slides]: https://docs.google.com/presentation/d/1tA5RcZsdLVFBehh27C6TsDIafCHSMKytwgcybo3fz20/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][react-lifecycle-sol] )
 [react-lifecycle-sol]: 01-junior-phase/14-lifecycle/PairExercise.ContactList.Solution
