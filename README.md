@@ -1035,16 +1035,19 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Component Lifecycle (Contact List) | - | [🖼️][react-lifecycle-slides] | [🧑‍💻][react-lifecycle-demo] | - | - |
-| Morning Review | - | - | - | - | - |
+| Component Lifecycle (Contact List) | - | [🖼️][react-lifecycle-slides] | [🧑‍💻][react-lifecycle-demo]<br>[🧑‍💻 extra demo][react-lifecycle-demo] | [👾][react-lifecycle-sol] | - |
+| Morning Review | - | [🎟][am-rev-3-4-ticket] ) | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][react-lifecycle-lec] )
 [react-lifecycle-lec]: #paste-YouTube-link-here
 [react-lifecycle-slides]: https://docs.google.com/presentation/d/1tA5RcZsdLVFBehh27C6TsDIafCHSMKytwgcybo3fz20/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][react-lifecycle-sol] )
-[react-lifecycle-sol]: ###
+[react-lifecycle-sol]: 01-junior-phase/14-lifecycle/PairExercise.ContactList.Solution
+[//]: # ( Paste in table above >> [🧑‍💻] Extra demo[react-lifecycle-extra-demo] )
+[react-lifecycle-extra-demo]: 01-junior-phase/14-lifecycle/React-Lifecycle-Extra-Demo
+
 [//]: # ( Paste in table above >> [🧑‍💻][react-lifecycle-demo] )
-[react-lifecycle-demo]: 01-junior-phase/14-lifecycle/React-Lifecycle-Extra-Demo
+[react-lifecycle-demo]: 01-junior-phase/14-lifecycle/React-Lifecycle-demo
 
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-4] )

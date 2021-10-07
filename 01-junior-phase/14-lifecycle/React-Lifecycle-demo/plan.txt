@@ -1,0 +1,2 @@
+1. Show the added console logs and run the project
+2. It would be inconvenient to have to change the state of our three colors, but even more if we have 10 colors. Let's turn this into an unordered list and add colors array to state

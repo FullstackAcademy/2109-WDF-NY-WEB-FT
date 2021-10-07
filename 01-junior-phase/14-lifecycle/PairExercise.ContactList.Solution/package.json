@@ -1,0 +1,39 @@
+{
+  "name": "contact-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "",
+  "description": "",
+  "scripts": {
+    "start": "npm run start-server & npm run build-watch",
+    "build-watch": "webpack -w",
+    "start-server": "nodemon server --ignore public",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.16.2",
+    "morgan": "^1.10.0",
+    "pg": "^8.3.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "sequelize": "^6.3.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/polyfill": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "@babel/register": "^7.10.5",
+    "babel-loader": "^8.1.0",
+    "eslint": "^7.4.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.3",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.0.5",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
