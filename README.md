@@ -1036,7 +1036,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Component Lifecycle (Contact List) | [📺][react-lifecycle-lec] | [🖼️][react-lifecycle-slides] | [🧑‍💻][react-lifecycle-demo]<br>[🧑‍💻 extra demo][react-lifecycle-demo] | [👾][react-lifecycle-sol] | - |
-| Morning Review | - | [🎟][am-rev-3-4-ticket] ) | - | - | - |
+| Morning Review | [📺][am-rev-3-4] | [🎟][am-rev-3-4-ticket] ) | - | [👾][am-rev-3-4-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][react-lifecycle-lec] )
 [react-lifecycle-lec]: https://youtu.be/MjHLIOBnerI
@@ -1051,7 +1051,7 @@ ___
 
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-4] )
-[am-rev-3-4]: #paste-YouTube-link-here
+[am-rev-3-4]: https://youtu.be/zq-zVncdids
 [//]: # ( Paste in table above >> [🎟][am-rev-3-4-ticket] )
 [am-rev-3-4-ticket]: https://forms.gle/GrgJhgML1itZ9sEeA
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-4-demo] )
@@ -1097,11 +1097,11 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Juke | - | [🖼️][intro-juke-slides] | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Intro to Juke | [📺][intro-juke-lec] | [🖼️][intro-juke-slides] | - | - | - |
+| Morning Review | - | [🎟][am-rev-3-5-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][intro-juke-lec] )
-[intro-juke-lec]: #paste-YouTube-link-here
+[intro-juke-lec]: https://youtu.be/lEXMW4LGFJU
 [intro-juke-slides]: https://docs.google.com/presentation/d/1kg2IfIk1GaGzqXxXCA_GrZehDsXutF0gpAZqCvzt3Mo/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-5] )
