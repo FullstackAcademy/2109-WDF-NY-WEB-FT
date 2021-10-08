@@ -878,7 +878,7 @@ ___
 
 ### **Week 3: Single-Page Applications, Pillars, React**
 
-<!-- <details><summary>Click to view</summary> -->
+<details><summary>Click to view</summary>
 
 #### Day 1: Single-Page Applications
 
@@ -1129,13 +1129,13 @@ ___
 </details>
 
 </details>
-<!--
+
 
 ___
 
 ### **Week 4: Redux, React Router, Forms**
 
-<details><summary>Click to view</summary>
+<!-- <details><summary>Click to view</summary> -->
 
 #### Day 1: Redux
 
@@ -1420,6 +1420,7 @@ ___
 
 </details>
 
+<!--
 ___
 
 ### **Week 5: Course Review, Junior Phase Final Project (JPFP), Senior Checkpoint**
