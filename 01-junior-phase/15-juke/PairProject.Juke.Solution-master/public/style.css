@@ -1,0 +1,176 @@
+/* tags */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', arial,sans-serif;
+  padding-bottom: 56px;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(45deg, #222, #333);
+  background-attachment: fixed;
+  color: #f2f2f2;
+  letter-spacing: 0.03em;
+}
+
+i {
+  color: #00aaaa;
+  font-size: 2em;
+}
+
+p {
+  font-size: 14px;
+  margin: 0;
+}
+
+small {
+  font-size: 12px;
+  color: darkgray;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table tr:hover {
+  background-color: #333;
+}
+
+table tr.active {
+  background-color: #333;
+}
+
+i.fa {
+  cursor: pointer;
+  font-size: 2em;
+  transition: color 0.2s ease;
+}
+
+i.fa:hover {
+  color: #00aa00;
+}
+
+td {
+  border-bottom: 1px solid gray;
+  padding: 10px;
+}
+
+/* ids */
+#app {
+  height: 100%;
+  width: 100%;
+  overflow: scroll;
+}
+
+#albums {
+  margin: 2em;
+}
+
+#logo {
+  max-height: 100px;
+  max-width: 100px;
+}
+
+#main > div.container {
+  margin-left: 150px;
+}
+
+#player-container {
+  position: fixed;
+  height: 56px;
+  width: 100%;
+  bottom: 0;
+}
+
+#player-controls {
+  background-color: #333;
+  box-shadow: 0px -2px 2px #5a5a5a;
+  height: 100%;
+}
+
+#player-controls > div {
+  height: 100%;
+  align-items: center;
+}
+
+#player-controls i {
+  font-size: 2em;
+  padding: 0 0.5em;
+}
+
+#player-controls i:nth-child(2) {
+  font-size: 3em;
+}
+
+#sidebar {
+  min-width: 150px;
+  height: 100%;
+  background-color: #333;
+  border-right: 1px solid gray;
+  text-align: center;
+  position: fixed;
+}
+
+#sidebar img {
+  padding-top: 10px;
+}
+
+#sidebar section {
+  text-align: left;
+  padding-left: 10px;
+}
+
+#sidebar a {
+  transition: border 0.2s ease;
+  cursor: pointer;
+}
+
+#sidebar a:hover {
+  border-bottom: 2px solid #00aaaa;
+}
+
+/* classes */
+.album {
+  margin: 1em;
+}
+
+.album img {
+  height: 200px;
+  width: 200px;
+  transition: box-shadow 0.5s ease;
+  border-radius: 3px;
+}
+
+.album img:hover {
+  box-shadow: 2px 2px 2px #5a5a5a;
+}
+
+.center {
+  justify-content: center;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+}
+
+.gray {
+  color: gray;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}

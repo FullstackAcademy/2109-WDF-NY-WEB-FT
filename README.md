@@ -1103,6 +1103,7 @@ ___
 [//]: # ( Paste in table above >> [📺][intro-juke-lec] )
 [intro-juke-lec]: https://youtu.be/lEXMW4LGFJU
 [intro-juke-slides]: https://docs.google.com/presentation/d/1kg2IfIk1GaGzqXxXCA_GrZehDsXutF0gpAZqCvzt3Mo/edit?usp=sharing
+[intro-juke-sol]: 01-junior-phase/15-juke/PairProject.Juke.Solution-master
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-5] )
 [am-rev-3-5]: #paste-YouTube-link-here
