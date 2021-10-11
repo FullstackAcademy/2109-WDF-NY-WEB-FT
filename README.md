@@ -1098,7 +1098,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to Juke | [📺][intro-juke-lec] | [🖼️][intro-juke-slides] | - | - | - |
-| Morning Review | - | [🎟][am-rev-3-5-ticket] | - | [👾][juke-sol] | [📺][juke-review] |
+| Morning Review | - | [🎟][am-rev-3-5-ticket] |  | [👾 Juke][juke-sol]<br>[👾 exit ticket][am-rev-3-5-sol] | [📺][juke-review] |
 
 [//]: # ( Paste in table above >> [📺][intro-juke-lec] )
 [intro-juke-lec]: https://youtu.be/lEXMW4LGFJU
