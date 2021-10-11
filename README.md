@@ -1098,7 +1098,7 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Intro to Juke | [📺][intro-juke-lec] | [🖼️][intro-juke-slides] | - | - | - |
-| Morning Review | - | [🎟][am-rev-3-5-ticket] |  | [👾 Juke][juke-sol]<br>[👾 exit ticket][am-rev-3-5-sol] | [📺][juke-review] |
+| Morning Review | [📺][am-rev-3-5] | [🎟][am-rev-3-5-ticket] |  | [👾 Juke][juke-sol]<br>[👾 exit ticket][am-rev-3-5-sol] | [📺][juke-review] |
 
 [//]: # ( Paste in table above >> [📺][intro-juke-lec] )
 [intro-juke-lec]: https://youtu.be/lEXMW4LGFJU
@@ -1107,7 +1107,7 @@ ___
 [juke-review]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlDnS91P6zf3LrIu-ZPs2pG
 
 [//]: # ( Paste in table above >> [📺][am-rev-3-5] )
-[am-rev-3-5]: #paste-YouTube-link-here
+[am-rev-3-5]: https://youtu.be/oQHCgzpl-5I
 [//]: # ( Paste in table above >> [🎟][am-rev-3-5-ticket] )
 [am-rev-3-5-ticket]: https://forms.gle/WWb31AMgnPGwsSev5
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-3-5-demo] )
@@ -1152,15 +1152,15 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Redux (Redux Bank) | - | [🖼️][intro-redux-slides] | - | [👾][redux-bank-sol] | - |
-| Action Types and Action Creators | - | - | [🧑‍💻][action-types-creators-demo] | - | - |
+| Intro to Redux (Redux Bank) | [📺][intro-redux-lec] | [🖼️][intro-redux-slides] | - | [👾][redux-bank-sol] | - |
+| Action Types and Action Creators | [📺][action-types-creators-lec] | - | [🧑‍💻][action-types-creators-demo] | - | - |
 | Pixelate-Redux | - | - | - | [👾][pixelate-redux-sol] | - |
-| React-Redux `connect` | - | [🖼️][connect-slides] | [🧑‍💻][connect-demo] | - | - |
+| React-Redux `connect` | [📺][connect-lec] | [🖼️][connect-slides] | [🧑‍💻][connect-demo] | - | - |
 | Morning Review | - | [🎟][am-rev-4-1-ticket] | - | - | - |
 
 
 [//]: # ( Paste in table above >> [📺][intro-redux-lec] )
-[intro-redux-lec]: #paste-YouTube-link-here
+[intro-redux-lec]: https://youtu.be/UZFd8SyoUgI
 [intro-redux-slides]: https://docs.google.com/presentation/d/1GRN3chkUUxoWm94DgPy_T6MtvDRhOGYMnA8Djdo3rmA/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][intro-redux-demo] )
 [intro-redux-demo]: ###
@@ -1168,7 +1168,7 @@ ___
 [redux-bank-sol]: 01-junior-phase/16-redux/Lab.ReduxBank-solution
 
 [//]: # ( Paste in table above >> [📺][action-types-creators-lec] )
-[action-types-creators-lec]: #paste-YouTube-link-here
+[action-types-creators-lec]: https://youtu.be/Hd6ghiT3l_Q
 [//]: # ( Paste in table above >> [🧑‍💻][action-types-creators-demo] )
 [action-types-creators-demo]: 01-junior-phase/16-redux/redux-modularization-demo
 
@@ -1176,7 +1176,7 @@ ___
 [pixelate-redux-sol]: 01-junior-phase/16-redux/PairExercise.Pixelate-Redux.Solution-main
 
 [//]: # ( Paste in table above >> [📺][connect-lec] )
-[connect-lec]: #paste-YouTube-link-here
+[connect-lec]: https://youtu.be/MTaMo2SFWUk
 [connect-slides]: https://docs.google.com/presentation/d/16wYjdImk0qyF3PCZYb2hm8ynLaRfkeWx9i-SlLmpnLs/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][connect-demo] )
 [connect-demo]: 01-junior-phase/16-redux/ReactReduxConnect-demo
