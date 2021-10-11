@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+  background-color: #00703B;
+  color: #fff;
+  text-align: center;
+}
+
+h1{
+  font-size: 30px;
+}
+
+p{
+  margin: 0;
+}
+
+header {
+  width:100%;
+  padding: 15px;
+  background-color: #D8D8BF;
+  color: #00703B;
+  font-size: 30px;
+}
+
+.atm {
+  width: 320px;
+  border-radius: 10px;
+  background-color: #1D4F27;
+  margin: 10px auto 0 auto;
+  padding: 20px;
+}
+
+.atm button {
+  width: 150px;
+  height: 56px;
+  margin: 4px 2px;
+  padding: 20px 36px;
+}

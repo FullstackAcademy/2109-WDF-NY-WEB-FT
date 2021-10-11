@@ -1152,10 +1152,12 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Intro to Redux (Redux Bank) | - | [🖼️][intro-redux-slides] | - | - | - |
-| Action Types and Action Creators | - | - | - | - | - |
-| Pixelate-Redux | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Intro to Redux (Redux Bank) | - | [🖼️][intro-redux-slides] | - | [👾][redux-bank-sol] | - |
+| Action Types and Action Creators | - | - | [🧑‍💻][action-types-creators-demo] | - | - |
+| Pixelate-Redux | - | - | - | [👾][pixelate-redux-sol] | - |
+| React-Redux `connect` | - | [🖼️][connect-slides] | [🧑‍💻][connect-demo] | - | - |
+| Morning Review | - | [🎟][am-rev-4-1-ticket] | - | - | - |
+
 
 [//]: # ( Paste in table above >> [📺][intro-redux-lec] )
 [intro-redux-lec]: #paste-YouTube-link-here
@@ -1163,20 +1165,28 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][intro-redux-demo] )
 [intro-redux-demo]: ###
 [//]: # ( Paste in table above >> [👾][redux-bank-sol] )
-[redux-bank-sol]: ###
+[redux-bank-sol]: 01-junior-phase/16-redux/Lab.ReduxBank-solution
 
 [//]: # ( Paste in table above >> [📺][action-types-creators-lec] )
 [action-types-creators-lec]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🧑‍💻][action-types-creators-demo] )
-[action-types-creators-demo]: ###
+[action-types-creators-demo]: 01-junior-phase/16-redux/redux-modularization-demo
 
 [//]: # ( Paste in table above >> [👾][pixelate-redux-sol] )
-[pixelate-redux-sol]: ###
+[pixelate-redux-sol]: 01-junior-phase/16-redux/PairExercise.Pixelate-Redux.Solution-main
+
+[//]: # ( Paste in table above >> [📺][connect-lec] )
+[connect-lec]: #paste-YouTube-link-here
+[connect-slides]: https://docs.google.com/presentation/d/16wYjdImk0qyF3PCZYb2hm8ynLaRfkeWx9i-SlLmpnLs/edit?usp=sharing
+[//]: # ( Paste in table above >> [🧑‍💻][connect-demo] )
+[connect-demo]: 01-junior-phase/16-redux/ReactReduxConnect-demo
+[//]: # ( Paste in table above >> [👾][connect-sol] )
+[connect-sol]: ###
 
 [//]: # ( Paste in table above >> [📺][am-rev-4-1] )
 [am-rev-4-1]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-4-1-ticket] )
-[am-rev-4-1-ticket]: https://forms.gle/qEvNxTssJTXUDDr3A
+[am-rev-4-1-ticket]: https://forms.gle/yzXxBG2u5oJFzvsp9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-1-demo] )
 [am-rev-4-1-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-4-1-sol] )
@@ -1200,17 +1210,10 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| React-Redux `connect` | - | [🖼️][connect-slides] | - | - | - |
 | Redux Groceries | - | - | - | - | - |
 | Redux Thunks | - | [🖼️][thunks-slides] | - | - | - |
 | Redux `combineReducers` | - | - | - | - | - |
 | Morning Review | - | - | - | - | - |
-
-[//]: # ( Paste in table above >> [📺][connect-lec] )
-[connect-lec]: #paste-YouTube-link-here
-[connect-slides]: https://docs.google.com/presentation/d/16wYjdImk0qyF3PCZYb2hm8ynLaRfkeWx9i-SlLmpnLs/edit?usp=sharing
-[//]: # ( Paste in table above >> [👾][connect-sol] )
-[connect-sol]: ###
 
 [//]: # ( Paste in table above >> [👾][redux-groceries-sol] )
 [redux-groceries-sol]: ###

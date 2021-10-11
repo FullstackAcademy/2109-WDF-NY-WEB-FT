@@ -1,0 +1,19 @@
+{
+  "name": "reduxbank",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack -w"
+  },
+  "author": "Cassio Zen",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.10.0"
+  }
+}
