@@ -1210,7 +1210,7 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| React-Redux `connect` review | [📺][connect-review-lec] | [👾][connect-sol] | [🧑‍💻][connect-review-demo] | - | - |
+| React-Redux `connect` review | [📺][connect-review-lec] | - | [🧑‍💻][connect-review-demo] | [👾][connect-sol] | - |
 | Redux Groceries | - | - | - | [👾][redux-groceries-sol] | - |
 | Redux Thunks | - | - | [🧑‍💻][thunks-demo] | [👾][thunks-sol] | - |
 | Redux `combineReducers` | - | - | [🧑‍💻][combineReducers-demo] | [👾][combinereducers-sol] | - |
