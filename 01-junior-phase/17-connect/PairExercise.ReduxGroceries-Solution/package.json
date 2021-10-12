@@ -1,0 +1,32 @@
+{
+  "name": "redux-groceries",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "npm run build-watch & npm run start-server",
+    "start-server": "nodemon server --ignore client --ignore public",
+    "build-watch": "webpack -w"
+  },
+  "author": "Cassio Zen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "nodemon": "^1.14.11",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.2"
+  }
+}

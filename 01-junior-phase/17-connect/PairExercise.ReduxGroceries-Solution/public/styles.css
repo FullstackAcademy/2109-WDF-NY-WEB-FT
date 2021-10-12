@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+}
+body {
+  background: linear-gradient(to bottom, #69a7c6 0%,#cd82f2 100%);
+  height: 100%;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+li {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.app {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.list {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 75%;
+  padding: 10px 10px 20px 10px;
+}
+
+.add-grocery {
+  display: flex;
+}
+
+.add-grocery input[type=text] {
+  flex-grow: 1;
+  font-size: 16px;
+  padding: 10px;
+  border: solid 1px #bbb;
+  border-radius: 8px 0 0 8px;
+}
+
+.add-grocery button {
+  border-radius: 0 8px 8px 0;
+}
+

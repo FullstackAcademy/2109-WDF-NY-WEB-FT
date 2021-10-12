@@ -1156,7 +1156,7 @@ ___
 | Action Types and Action Creators | [📺][action-types-creators-lec] | - | [🧑‍💻][action-types-creators-demo] | - | - |
 | Pixelate-Redux | - | - | - | [👾][pixelate-redux-sol] | - |
 | React-Redux `connect` | [📺][connect-lec] | [🖼️][connect-slides] | [🧑‍💻][connect-demo] | - | - |
-| Morning Review | - | [🎟][am-rev-4-1-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-4-1] | [🎟][am-rev-4-1-ticket] | - | [👾][am-rev-4-1-sol] | - |
 
 
 [//]: # ( Paste in table above >> [📺][intro-redux-lec] )
@@ -1184,7 +1184,7 @@ ___
 [connect-sol]: ###
 
 [//]: # ( Paste in table above >> [📺][am-rev-4-1] )
-[am-rev-4-1]: #paste-YouTube-link-here
+[am-rev-4-1]: https://youtu.be/-GLwaDKm3AQ
 [//]: # ( Paste in table above >> [🎟][am-rev-4-1-ticket] )
 [am-rev-4-1-ticket]: https://forms.gle/yzXxBG2u5oJFzvsp9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-1-demo] )
@@ -1210,28 +1210,36 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Redux Groceries | - | - | - | - | - |
-| Redux Thunks | - | [🖼️][thunks-slides] | - | - | - |
-| Redux `combineReducers` | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| React-Redux `connect` review | [📺][connect-review-lec] | [👾][connect-sol] | [🧑‍💻][connect-review-demo] | - | - |
+| Redux Groceries | - | - | - | [👾][redux-groceries-sol] | - |
+| Redux Thunks | - | - | [🧑‍💻][thunks-demo] | [👾][thunks-sol] | - |
+| Redux `combineReducers` | - | - | [🧑‍💻][combineReducers-demo] | [👾][combinereducers-sol] | - |
+| Morning Review | - | [🎟][am-rev-4-2-ticket] | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][connect-review-lec] )
+[connect-review-lec]: https://youtu.be/XEnxApHk9DQ
+[//]: # ( Paste in table above >> [🧑‍💻][connect-review-demo] )
+[connect-review-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/connect/app
+[//]: # ( Paste in table above >> [👾][connect-sol] )
+[connect-sol]: 01-junior-phase/17-connect/Lab.ReactAndRedux-solution-connect-lab
 
 [//]: # ( Paste in table above >> [👾][redux-groceries-sol] )
-[redux-groceries-sol]: ###
+[redux-groceries-sol]: 01-junior-phase/17-connect/PairExercise.ReduxGroceries-Solution
 
 [//]: # ( Paste in table above >> [📺][thunks-lec] )
 [thunks-lec]: #paste-YouTube-link-here
 [thunks-slides]: https://docs.google.com/presentation/d/1fnISsDpLf-uG5vhGMwTzERSv0BHxg_fysz-dMsIhhWo/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][thunks-demo] )
-[thunks-demo]: ###
+[thunks-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/connect/app
 [//]: # ( Paste in table above >> [👾][thunks-sol] )
-[thunks-sol]: ###
+[thunks-sol]: 01-junior-phase/17-connect/Lab.Thunk-solution
 
 [//]: # ( Paste in table above >> [📺][combinereducers-lec] )
 [combinereducers-lec]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🧑‍💻][combineReducers-demo] )
-[combineReducers-demo]: ###
+[combineReducers-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/connect/app
 [//]: # ( Paste in table above >> [👾][combinereducers-sol] )
-[combinereducers-sol]: ###
+[combinereducers-sol]: 01-junior-phase/17-connect/Lab.CombineReducers-solution
 
 [//]: # ( Paste in table above >> [📺][am-rev-4-2] )
 [am-rev-4-2]: #paste-YouTube-link-here

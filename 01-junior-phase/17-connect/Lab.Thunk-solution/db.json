@@ -1,0 +1,34 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Cody",
+      "type": "dog",
+      "imageUrl": "cody.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fira",
+      "type": "snake",
+      "imageUrl": "fira.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pork Chop",
+      "type": "dog",
+      "imageUrl": "pork_chop.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Marcy",
+      "type": "cat",
+      "imageUrl": "marcy.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Milton",
+      "type": "dog",
+      "imageUrl": "milton.jpg"
+    }
+  ]
+}
