@@ -1214,7 +1214,7 @@ ___
 | Redux Groceries | - | - | - | [👾][redux-groceries-sol] | - |
 | Redux Thunks | [📺][thunks-lec] | - | [🧑‍💻][thunks-demo] | [👾][thunks-sol] | - |
 | Redux `combineReducers` | [📺][combinereducers-lec] | - | [🧑‍💻][combineReducers-demo] | [👾][combinereducers-sol] | - |
-| Morning Review | - | [🎟][am-rev-4-2-ticket] | - | - | - |
+| Morning Review | - | [🎟][am-rev-4-2-ticket] | - | - | [👾][am-rev-4-2-sol] |
 
 [//]: # ( Paste in table above >> [📺][connect-review-lec] )
 [connect-review-lec]: https://youtu.be/XEnxApHk9DQ
