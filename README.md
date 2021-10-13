@@ -1216,7 +1216,7 @@ ___
 | Redux Groceries | - | - | - | [👾][redux-groceries-sol] | - |
 | Redux Thunks | [📺][thunks-lec] | - | [🧑‍💻][thunks-demo] | [👾][thunks-sol] | - |
 | Redux `combineReducers` | [📺][combinereducers-lec] | - | [🧑‍💻][combineReducers-demo] | [👾][combinereducers-sol] | - |
-| Morning Review | - | [🎟][am-rev-4-2-ticket] | - | - | [👾][am-rev-4-2-sol] |
+| Morning Review | - | [🎟][am-rev-4-2-ticket] | [🧑‍💻][am-rev-4-2-demo] | - | [👾][am-rev-4-2-sol] |
 
 [//]: # ( Paste in table above >> [📺][connect-review-lec] )
 [connect-review-lec]: https://youtu.be/XEnxApHk9DQ
@@ -1248,7 +1248,7 @@ ___
 [//]: # ( Paste in table above >> [🎟][am-rev-4-2-ticket] )
 [am-rev-4-2-ticket]: https://forms.gle/MykudAKGdpmX9pxFA
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-2-demo] )
-[am-rev-4-2-demo]: #link-demo-here
+[am-rev-4-2-demo]: https://excalidraw.com/#json=6150202817773568,vgPZ3umE9ySYzgFS5XCuCg
 [//]: # ( Paste in table above >> [👾][am-rev-4-2-sol] )
 [am-rev-4-2-sol]: 01-junior-phase/exit-ticket-solutions/17-thunks-combine-reducers-connect.md
 
@@ -1278,31 +1278,33 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| React Router 101 | - | [🖼️][router-101-slides] | - | - | - |
-| React Router 201 | - | [🖼️][router-201-slides] | - | - | - |
-| Readium | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| React Router 101 | - | [🖼️][router-101-slides] | - | [👾][router-lab-sol] | - |
+| React Router 201 | - | [🖼️][router-201-slides] | [🧑‍💻][router-demo]  | - | - |
+| Readium | - | - | - | [👾][readium-sol] | - |
+| Morning Review | - | [🎟][am-rev-4-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][router-101-lec] )
 [router-101-lec]: #paste-YouTube-link-here
 [router-101-slides]: https://docs.google.com/presentation/d/1lfxgExnD_gjI97Dalwk_Gskefk49AFMm3YL4g-hsljc/edit?usp=sharing
+[//]: # ( Paste in table above >> [👾][router-lab-sol] )
+[router-lab-sol]: 01-junior-phase/18-react-router/Lab.ReactRouter.Solution-master
 
 [//]: # ( Paste in table above >> [📺][router-201-lec] )
 [router-201-lec]: #paste-YouTube-link-here
 [router-201-slides]: https://docs.google.com/presentation/d/18aYozkFFmBQ1BNQCznw2T6tkF8O9dONFPPtrRnxSf28/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [🧑‍💻][router-demo] )
-[router-demo]: ###
+[router-demo]: 01-junior-phase/18-react-router/router-nalgene-demo-start
 
 [//]: # ( Paste in table above >> [👾][readium-sol] )
-[readium-sol]: ###
+[readium-sol]: 01-junior-phase/18-react-router/PairExercise.Readium-with-Redux.Solution-master
 [//]: # ( Paste in table above >> [📺][readium-rev] )
 [readium-rev]: ###
 
 [//]: # ( Paste in table above >> [📺][am-rev-4-3] )
 [am-rev-4-3]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-4-3-ticket] )
-[am-rev-4-3-ticket]: https://forms.gle/8Q69UWRD1L5jc2hZ8
+[am-rev-4-3-ticket]: https://forms.gle/cdhnhkZyVUD94Cco8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-3-demo] )
 [am-rev-4-3-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-4-3-sol] )
