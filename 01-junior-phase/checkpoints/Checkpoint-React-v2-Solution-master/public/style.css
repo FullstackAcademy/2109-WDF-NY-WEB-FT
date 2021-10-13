@@ -1,0 +1,26 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+}
+
+.pet-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.single-pet {
+  width: 15rem;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background-color: lightcoral;
+}
+
+.single-pet.adopted {
+  background-color: cornflowerblue;
+}
+
+.delete-pet {
+  background-color: orange;
+  margin: 0.5rem;
+}

@@ -108,8 +108,8 @@ ___
 | DOM | [🔗][ckpt-dom] | Sun 09/26 6PM EST | [👾][ckpt-dom-sol] | [📺][ckpt-dom-video] |
 | Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun 10/03 6PM EST | [👾][ckpt-express-sequelize-sol] | [📺][ckpt-express-sequelize-video]
 | Pillars | [🔗][pillars] | Wed 10/05 6PM EST | - | [📺][pillars-rev] |
-<!-- | React | [🔗][ckpt-react] | - | - | -->
-<!-- | Redux | [🔗][ckpt-redux] | - | - | -->
+| React | [🔗][ckpt-react] | Sun 10/10 6 PM EST | [👾][ckpt-react-sol] | [📺][ckpt-react-rev] |
+| Redux | [🔗][ckpt-redux] | Sun 10/17 6 PM EST | - | - |
 <!-- | JPFP | [🔗][jpfp] | - | - | -->
 <!-- | Data Structures | [🔗][ckpt-data-structures] | - | - | -->
 
@@ -132,11 +132,13 @@ ___
 
 [ckpt-react]: https://github.com/FullstackAcademy/Checkpoint-React-v2
 [//]: # ( Paste in table above >> [👾][ckpt-react-sol] )
-[ckpt-react-sol]: #tba
+[ckpt-react-sol]: 01-junior-phase/checkpoints/Checkpoint-React-v2-Solution-master
+[//]: # ( Paste in table above >> [📺][ckpt-react-rev] )
+[ckpt-react-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmUG8GiGcfoy2in0z3NrR3p
 
 [ckpt-redux]: https://github.com/FullstackAcademy/Checkpoint-Redux
 [//]: # ( Paste in table above >> [👾][ckpt-redux-sol] )
-[ckpt-redux-sol]: #tba
+[ckpt-redux-sol]: 01-junior-phase/checkpoints/Checkpoint-Redux-Solution-master
 
 [jpfp]: #tba
 
@@ -151,7 +153,7 @@ ___
 | ----- | ---- | -------- |
 | Study Saturday: Express & Sequelize | [🔗][ss-express-sequelize] | [👾][ss-express-sequelize-sol] |
 | Cody's Cafe | [🔗][codys-cafe-repo] | [👾][codys-cafe-sol] |
-<!-- | Study Saturday: React | [🔗][ss-react] | [👾][ss-react-sol] | -->
+| Study Saturday: React | [🔗][ss-react] | [👾][ss-react-sol] |
 <!-- | Cody's Cafe | [🔗][codys-cafe-repo] | [👾][codys-cafe-sol] | -->
 <!-- | Cody's Quiz | [🔗][codys-quiz-repo] | [👾][codys-quiz-sol] | -->
 <!-- | Goodie Bag | [🔗][goodie-bag] | - | -->
