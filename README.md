@@ -1244,7 +1244,7 @@ ___
 [combinereducers-sol]: 01-junior-phase/17-connect/Lab.CombineReducers-solution
 
 [//]: # ( Paste in table above >> [📺][am-rev-4-2] )
-[am-rev-4-2]: https://youtu.be/XMpkswl0wwo
+[am-rev-4-2]: https://youtu.be/-mISnbxIMt0
 [//]: # ( Paste in table above >> [🎟][am-rev-4-2-ticket] )
 [am-rev-4-2-ticket]: https://forms.gle/MykudAKGdpmX9pxFA
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-2-demo] )
@@ -1284,7 +1284,7 @@ ___
 | Morning Review | - | [🎟][am-rev-4-3-ticket] | - | [👾][am-rev-4-3-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][router-101-lec] )
-[router-101-lec]: #place-link-here
+[router-101-lec]: https://youtu.be/XMpkswl0wwo
 [router-101-slides]: https://docs.google.com/presentation/d/1lfxgExnD_gjI97Dalwk_Gskefk49AFMm3YL4g-hsljc/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][router-lab-sol] )
 [router-lab-sol]: 01-junior-phase/18-react-router/Lab.ReactRouter.Solution-master
@@ -1302,7 +1302,7 @@ ___
 [readium-rev]: ###
 
 [//]: # ( Paste in table above >> [📺][am-rev-4-3] )
-[am-rev-4-3]: https://youtu.be/-mISnbxIMt0
+[am-rev-4-3]: https://youtu.be/k0zh-Bm9FNY
 [//]: # ( Paste in table above >> [🎟][am-rev-4-3-ticket] )
 [am-rev-4-3-ticket]: https://forms.gle/cdhnhkZyVUD94Cco8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-3-demo] )
@@ -1337,12 +1337,12 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| React Forms 101 + 201 | - | [🖼️][forms-slides] | - | - | - |
-| Todo List | - | - | - | - | - |
+| React Forms 101 + 201 | [📺][forms-lec] | [🖼️][forms-slides] | - | [👾][forms-lab-sol] | - |
+| Todo List | - | - | - | [👾][todo-list-sol] | - |
 | Morning Review | - | [🎟][am-rev-4-4-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][forms-lec] )
-[forms-lec]: #paste-YouTube-link-here
+[forms-lec]: https://youtu.be/IsgaHyrGJiw
 [forms-slides]: https://docs.google.com/presentation/d/1rMPRpf5jAaznQlqagvHfM74l4CWBWods2IfmmMlcDKM/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [🧑‍💻][forms-demo] )
