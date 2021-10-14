@@ -1278,19 +1278,19 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| React Router 101 | - | [🖼️][router-101-slides] | - | [👾][router-lab-sol] | - |
-| React Router 201 | - | [🖼️][router-201-slides] | [🧑‍💻][router-demo]  | - | - |
+| React Router 101 | [📺][router-101-lec] | [🖼️][router-101-slides] | - | [👾][router-lab-sol] | - |
+| React Router 201 | [📺][router-201-lec] | [🖼️][router-201-slides] | [🧑‍💻][router-demo]  | - | - |
 | Readium | - | - | - | [👾][readium-sol] | - |
-| Morning Review | - | [🎟][am-rev-4-3-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-4-3] | [🎟][am-rev-4-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][router-101-lec] )
-[router-101-lec]: #paste-YouTube-link-here
+[router-101-lec]: https://youtu.be/XMpkswl0wwo
 [router-101-slides]: https://docs.google.com/presentation/d/1lfxgExnD_gjI97Dalwk_Gskefk49AFMm3YL4g-hsljc/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][router-lab-sol] )
 [router-lab-sol]: 01-junior-phase/18-react-router/Lab.ReactRouter.Solution-master
 
 [//]: # ( Paste in table above >> [📺][router-201-lec] )
-[router-201-lec]: #paste-YouTube-link-here
+[router-201-lec]: https://youtu.be/B1H3bS4_eAQ
 [router-201-slides]: https://docs.google.com/presentation/d/18aYozkFFmBQ1BNQCznw2T6tkF8O9dONFPPtrRnxSf28/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [🧑‍💻][router-demo] )
@@ -1302,7 +1302,7 @@ ___
 [readium-rev]: ###
 
 [//]: # ( Paste in table above >> [📺][am-rev-4-3] )
-[am-rev-4-3]: #paste-YouTube-link-here
+[am-rev-4-3]: https://youtu.be/-mISnbxIMt0
 [//]: # ( Paste in table above >> [🎟][am-rev-4-3-ticket] )
 [am-rev-4-3-ticket]: https://forms.gle/cdhnhkZyVUD94Cco8
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-3-demo] )
