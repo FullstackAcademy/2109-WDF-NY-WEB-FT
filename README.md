@@ -1337,23 +1337,22 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| React Forms 101 | - | [🖼️][forms-101-slides] | - | - | - |
-| React Forms 201 | - | [🖼️][forms-201-slides] | - | - | - |
+| React Forms 101 + 201 | - | [🖼️][forms-slides] | - | - | - |
 | Todo List | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Morning Review | - | [🎟][am-rev-4-4-ticket] | - | - | - |
 
-[//]: # ( Paste in table above >> [📺][forms-101-lec] )
-[forms-101-lec]: #paste-YouTube-link-here
-[forms-101-slides]: https://docs.google.com/presentation/d/1pkRzpRAqq9ZtWx58WZLjhkJ0zS3lemaLZwKb1wCSfRU/edit?usp=sharing
-[//]: # ( Paste in table above >> [📺][forms-201-lec] )
-[forms-201-lec]: #paste-YouTube-link-here
-[forms-201-slides]: https://docs.google.com/presentation/d/11e9PBgkmjd0ng-jpOhxDEjfhG2OAvU5NbDkfb9GW85c/edit?usp=sharing
+[//]: # ( Paste in table above >> [📺][forms-lec] )
+[forms-lec]: #paste-YouTube-link-here
+[forms-slides]: https://docs.google.com/presentation/d/1rMPRpf5jAaznQlqagvHfM74l4CWBWods2IfmmMlcDKM/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [🧑‍💻][forms-demo] )
 [forms-demo]: #link-demo-here
 
+[//]: # ( Paste in table above >> [👾][forms-lab-sol] )
+[forms-lab-sol]: 01-junior-phase/19-react-forms/Solution.ReactForms-main
+
 [//]: # ( Paste in table above >> [👾][todo-list-sol] )
-[todo-list-sol]: ###
+[todo-list-sol]: 01-junior-phase/19-react-forms/PairExercise.TodoList.V2.Solution-main
 [//]: # ( Paste in table above >> [📺][todo-list-rev] )
 [todo-list-rev]: ###
 
