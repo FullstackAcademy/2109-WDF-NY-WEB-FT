@@ -1216,7 +1216,7 @@ ___
 | Redux Groceries | - | - | - | [👾][redux-groceries-sol] | - |
 | Redux Thunks | [📺][thunks-lec] | - | [🧑‍💻][thunks-demo] | [👾][thunks-sol] | - |
 | Redux `combineReducers` | [📺][combinereducers-lec] | - | [🧑‍💻][combineReducers-demo] | [👾][combinereducers-sol] | - |
-| Morning Review | - | [🎟][am-rev-4-2-ticket] | [🧑‍💻][am-rev-4-2-demo] | - | [👾][am-rev-4-2-sol] |
+| Morning Review | [📺][am-rev-4-2] | [🎟][am-rev-4-2-ticket] | [🧑‍💻][am-rev-4-2-demo] | [👾][am-rev-4-2-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][connect-review-lec] )
 [connect-review-lec]: https://youtu.be/XEnxApHk9DQ
@@ -1244,7 +1244,7 @@ ___
 [combinereducers-sol]: 01-junior-phase/17-connect/Lab.CombineReducers-solution
 
 [//]: # ( Paste in table above >> [📺][am-rev-4-2] )
-[am-rev-4-2]: #paste-YouTube-link-here
+[am-rev-4-2]: https://youtu.be/XMpkswl0wwo
 [//]: # ( Paste in table above >> [🎟][am-rev-4-2-ticket] )
 [am-rev-4-2-ticket]: https://forms.gle/MykudAKGdpmX9pxFA
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-2-demo] )
@@ -1281,10 +1281,10 @@ ___
 | React Router 101 | [📺][router-101-lec] | [🖼️][router-101-slides] | - | [👾][router-lab-sol] | - |
 | React Router 201 | [📺][router-201-lec] | [🖼️][router-201-slides] | [🧑‍💻][router-demo]  | - | - |
 | Readium | - | - | - | [👾][readium-sol] | - |
-| Morning Review | [📺][am-rev-4-3] | [🎟][am-rev-4-3-ticket] | - | - | - |
+| Morning Review | - | [🎟][am-rev-4-3-ticket] | - | [👾][am-rev-4-3-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][router-101-lec] )
-[router-101-lec]: https://youtu.be/XMpkswl0wwo
+[router-101-lec]: #place-link-here
 [router-101-slides]: https://docs.google.com/presentation/d/1lfxgExnD_gjI97Dalwk_Gskefk49AFMm3YL4g-hsljc/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][router-lab-sol] )
 [router-lab-sol]: 01-junior-phase/18-react-router/Lab.ReactRouter.Solution-master
