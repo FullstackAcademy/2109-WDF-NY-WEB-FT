@@ -1337,7 +1337,7 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| React Forms 101 + 201 | [📺][forms-lec] | [🖼️][forms-slides] | - | [👾][forms-lab-sol] | - |
+| React Forms 101 + 201 | [📺][forms-lec] | [🖼️][forms-slides] | [🧑‍💻][forms-demo] | [👾][forms-lab-sol] | - |
 | Todo List | - | - | - | [👾][todo-list-sol] | - |
 | Morning Review | - | [🎟][am-rev-4-4-ticket] | - | - | - |
 
@@ -1346,7 +1346,7 @@ ___
 [forms-slides]: https://docs.google.com/presentation/d/1rMPRpf5jAaznQlqagvHfM74l4CWBWods2IfmmMlcDKM/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [🧑‍💻][forms-demo] )
-[forms-demo]: #link-demo-here
+[forms-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/react-forms
 
 [//]: # ( Paste in table above >> [👾][forms-lab-sol] )
 [forms-lab-sol]: 01-junior-phase/19-react-forms/Solution.ReactForms-main
