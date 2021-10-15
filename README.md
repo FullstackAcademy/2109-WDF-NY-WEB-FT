@@ -1401,8 +1401,8 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| TCP, WebSockets & Socket.IO | - | [🖼️][sockets-slides] | [🧑‍💻][sockets-demo] | - | - |
-| StackChat | - | - | - | - | - |
+| TCP, WebSockets & Socket.IO | - | [🖼️][sockets-slides] | [🧑‍💻][sockets-demo] | [👾][sockets-sol] | - |
+| StackChat | - | - | - | [👾][stackchat-sol] | [📺][stackchat-rev] |
 
 [//]: # ( Paste in table above >> [📺][sockets-lec] )
 [sockets-lec]: #paste-YouTube-link-here
@@ -1410,12 +1410,12 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][sockets-demo] )
 [sockets-demo]: 01-junior-phase/20-sockets/bookshelf-demo
 [//]: # ( Paste in table above >> [👾][sockets-sol] )
-[sockets-sol]: ###
+[sockets-sol]: 01-junior-phase/20-sockets/Lab.Sockets-solution
 
 [//]: # ( Paste in table above >> [👾][stackchat-sol] )
-[stackchat-sol]: ###
+[stackchat-sol]: 01-junior-phase/20-sockets/PairProject.StackChat-solution
 [//]: # ( Paste in table above >> [📺][stackchat-rev] )
-[stackchat-rev]: ###
+[stackchat-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmk_yzrwLejLCOBaC5kkRsIm
 
 [//]: # ( No Exit Ticket or Morning Review for Sockets )
 

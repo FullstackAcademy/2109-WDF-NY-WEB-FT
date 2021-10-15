@@ -1,0 +1,44 @@
+{
+  "name": "stackchat",
+  "version": "1.0.0",
+  "description": "A chatty appy chat app",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start-server & npm run build-watch",
+    "start-server": "nodemon server -w server",
+    "build-watch": "webpack -w",
+    "seed": "node seed.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^3.4.1",
+    "express": "^4.14.1",
+    "morgan": "^1.10.0",
+    "pg": "^8.3.0",
+    "pg-hstore": "^2.3.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.5",
+    "redux-thunk": "^2.3.0",
+    "sequelize": "^6.3.3",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "nodemon": "^2.0.4",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.1.0"
+  }
+}
