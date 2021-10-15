@@ -1339,7 +1339,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | React Forms 101 + 201 | [📺][forms-lec] | [🖼️][forms-slides] | [🧑‍💻][forms-demo] | [👾][forms-lab-sol] | - |
 | Todo List | - | - | - | [👾][todo-list-sol] | - |
-| Morning Review | - | [🎟][am-rev-4-4-ticket] | - | [👾][am-rev-4-4-sol] | - |
+| Morning Review | [📺][am-rev-4-4] | [🎟][am-rev-4-4-ticket] | - | [👾][am-rev-4-4-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][forms-lec] )
 [forms-lec]: https://youtu.be/IsgaHyrGJiw
@@ -1357,7 +1357,7 @@ ___
 [todo-list-rev]: ###
 
 [//]: # ( Paste in table above >> [📺][am-rev-4-4] )
-[am-rev-4-4]: #paste-YouTube-link-here
+[am-rev-4-4]: https://youtu.be/F-o-qYE7a2s
 [//]: # ( Paste in table above >> [🎟][am-rev-4-4-ticket] )
 [am-rev-4-4-ticket]: https://forms.gle/VFviarmVVCtXGMjM9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-4-demo] )
@@ -1401,11 +1401,11 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| TCP, WebSockets & Socket.IO | - | [🖼️][sockets-slides] | [🧑‍💻][sockets-demo] | [👾][sockets-sol] | - |
+| TCP, WebSockets & Socket.IO | [📺][sockets-lec] | [🖼️][sockets-slides] | [🧑‍💻][sockets-demo] | [👾][sockets-sol] | - |
 | StackChat | - | - | - | [👾][stackchat-sol] | [📺][stackchat-rev] |
 
 [//]: # ( Paste in table above >> [📺][sockets-lec] )
-[sockets-lec]: #paste-YouTube-link-here
+[sockets-lec]: https://youtu.be/4hoTF0YtzkI
 [sockets-slides]: https://docs.google.com/presentation/d/1-IVJ6SVkx6Ds2pSJogB44bEZp1Z8OTtrMFiaQD7er_w/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][sockets-demo] )
 [sockets-demo]: 01-junior-phase/20-sockets/bookshelf-demo
