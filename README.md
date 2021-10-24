@@ -1137,7 +1137,7 @@ ___
 
 ### **Week 4: Redux, React Router, Forms**
 
-<!-- <details><summary>Click to view</summary> -->
+<details><summary>Click to view</summary>
 
 #### Day 1: Redux
 
@@ -1434,10 +1434,57 @@ ___
 
 </details>
 
+___
+
+
+
+### Week 6: Week 1 Review
+
+
+
+#### Day 1: Node
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| Node 1 | - | - | - |
+| Node 2 | - | - | -  |
+| Morning Review | - | - | - |
+
+#### Day 2: Express and Async / Await
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| Express 1 | - | - | - |
+| Express 2 | - | - | -  |
+| Async / Await | - | - | - |
+| Morning Review | - | - | - |
+
+#### Day 3: Databases
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| Databases | - | - | - |
+| SQL | - | - | - |
+| Morning Review | - | - | - |
+
+#### Day 4: `pg`
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| `pg` | - | - | - |
+| Morning Review | - | - | - |
+
+#### Day 5: `Sequelize`
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| `Sequelize` | - | - | - |
+| Morning Review | - | - | - |
+
 <!--
 ___
 
-### **Week 5: Course Review, Junior Phase Final Project (JPFP), Senior Checkpoint**
+### **Week 9: Course Review, Junior Phase Final Project (JPFP), Senior Checkpoint**
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
@@ -1462,7 +1509,7 @@ ___
 
 ___
 
-### **Week 6: Data Structures, Algorithms, Advanced Content**
+### **Week 10: Data Structures, Algorithms, Advanced Content**
 
 <details><summary>Click to view</summary>
 
