@@ -1450,7 +1450,7 @@ ___
 
 ##### Prior Content:
 
-[Node](#day-5-intro-to-node)
+[Intro to Node](#day-5-intro-to-node)
 
 #### Day 2: Express and Async / Await
 
@@ -1461,6 +1461,10 @@ ___
 | Async / Await | - | - | - |
 | Morning Review | - | - | - |
 
+##### Prior Content:
+
+[Intro to Express + Async / Await](#day-1-express-handling-asynchronous-operations-asyncawait)
+
 #### Day 3: Databases
 
 | Topic | Lecture | Slides | Demo |
@@ -1469,6 +1473,10 @@ ___
 | SQL | - | - | - |
 | Morning Review | - | - | - |
 
+##### Prior Content:
+
+[Intro to Databases](#day-2-databases-sql-schema-design)
+
 #### Day 4: `pg`
 
 | Topic | Lecture | Slides | Demo |
@@ -1476,12 +1484,20 @@ ___
 | `pg` | - | - | - |
 | Morning Review | - | - | - |
 
+##### Prior Content:
+
+[Intro to pg](#day-3-node-postgres-pg-express-router)
+
 #### Day 5: `Sequelize`
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
 | `Sequelize` | - | - | - |
 | Morning Review | - | - | - |
+
+##### Prior Content:
+
+[Intro to ORMs](#day-4-orm-sequelize-wikistack-1)
 
 <!--
 ___
