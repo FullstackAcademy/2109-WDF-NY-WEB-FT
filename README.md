@@ -1440,8 +1440,6 @@ ___
 
 ### Week 6: Node / Databases Review
 
-
-
 #### Day 1: Node
 
 | Topic | Lecture | Slides | Demo |
@@ -1449,6 +1447,10 @@ ___
 | Node 1 | - | - | - |
 | Node 2 | - | - | -  |
 | Morning Review | - | - | - |
+
+##### Prior Content:
+
+[Node](#day-5-intro-to-node)
 
 #### Day 2: Express and Async / Await
 
