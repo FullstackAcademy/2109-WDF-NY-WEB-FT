@@ -1444,9 +1444,28 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Node 1 | - | - | - |
+| Node 1 | - | - | [🧑‍💻][node-1-demo] |
 | Node 2 | - | - | -  |
 | Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][node-1-lec] )
+[node-1-lec]: ###
+
+[//]: # ( Paste in table above >> [🧑‍💻][node-1-demo] )
+[node-1-demo]: 01-junior-phase/21-node-replay
+
+[//]: # ( Paste in table above >> [📺][node-2-lec] )
+[node-2-lec]: ###
+
+[//]: # ( Paste in table above >> [📺][node-rev] )
+[node-rev]: ###
+
+[//]: # ( Paste in table above >> [🎟][am-rev-1-1-ticket] )
+[am-rev--4-ticket]: https://forms.gle/VFviarmVVCtXGMjM9
+[//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-4-demo] )
+[am-rev-4-4-demo]: #link-demo-here
+[//]: # ( Paste in table above >> [👾][am-rev-4-4-sol] )
+[am-rev-4-4-sol]: 01-junior-phase/exit-ticket-solutions/19-react-forms.md
 
 ##### Prior Content:
 
