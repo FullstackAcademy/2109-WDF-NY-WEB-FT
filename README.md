@@ -1444,18 +1444,18 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Node 1 | - | - | [🧑‍💻][node-1-demo] |
-| Node 2 | - | - | -  |
+| Node 1 | [📺][node-1-lec] | - | [🧑‍💻][node-1-demo] |
+| Node 2 | [📺][node-2-lec] | - | -  |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][node-1-lec] )
-[node-1-lec]: ###
+[node-1-lec]: https://youtu.be/Ak9gKtxNVns
 
 [//]: # ( Paste in table above >> [🧑‍💻][node-1-demo] )
 [node-1-demo]: 01-junior-phase/21-node-replay
 
 [//]: # ( Paste in table above >> [📺][node-2-lec] )
-[node-2-lec]: ###
+[node-2-lec]: https://youtu.be/K6XXGrOJWOg
 
 [//]: # ( Paste in table above >> [📺][node-rev] )
 [node-rev]: ###
