@@ -1473,7 +1473,7 @@ ___
 | ----- | ------- | ------ | ---- |
 | Express 1 | [📺][express-1-lec] | - | [🧑‍💻][express-1-demo] |
 | Express 2 | [📺][express-2-lec] | - | [🧑‍💻][express-2-demo]  |
-| Async / Await | - | - | [🧑‍💻][async_await-demo] |
+| Async / Await | [🧑‍💻][async_await-lec] | - | [🧑‍💻][async_await-demo] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][express-1-lec] )
@@ -1488,11 +1488,11 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][express-2-demo] )
 [express-2-demo]: 01-junior-phase/21-node-replay
 
-[//]: # ( Paste in table above >> [🧑‍💻][async_await-demo] )
-[async_await-lec]: 01-junior-phase/21-node-replay
+[//]: # ( Paste in table above >> [🧑‍💻][async_await-lec] )
+[async_await-lec]: https://youtu.be/TDiZ2OIn8hk
 
 [//]: # ( Paste in table above >> [🧑‍💻][async_await-demo] )
-[async_await-demo]: [01-junior-phase/21-node-replay](https://github.com/orlandocaraballo/class-examples/tree/master/promises)
+[async_await-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/promises
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-1-2] )
 [am-replay-rev-1-2]: #paste-YouTube-link-here
