@@ -1446,7 +1446,7 @@ ___
 | ----- | ------- | ------ | ---- |
 | Node 1 | [📺][node-1-lec] | - | [🧑‍💻][node-1-demo] |
 | Node 2 | [📺][node-2-lec] | - | -  |
-| Morning Review | - | - | - |
+| Morning Review | [📺][am-replay-rev-1-1] | - | - |
 
 [//]: # ( Paste in table above >> [📺][node-1-lec] )
 [node-1-lec]: https://youtu.be/Ak9gKtxNVns
@@ -1460,12 +1460,8 @@ ___
 [//]: # ( Paste in table above >> [📺][node-rev] )
 [node-rev]: ###
 
-[//]: # ( Paste in table above >> [🎟][am-rev-1-1-ticket] )
-[am-rev--4-ticket]: https://forms.gle/VFviarmVVCtXGMjM9
-[//]: # ( Paste in table above >> [🧑‍💻][am-rev-4-4-demo] )
-[am-rev-4-4-demo]: #link-demo-here
-[//]: # ( Paste in table above >> [👾][am-rev-4-4-sol] )
-[am-rev-4-4-sol]: 01-junior-phase/exit-ticket-solutions/19-react-forms.md
+[//]: # ( Paste in table above >> [📺][am-replay-rev-1-1] )
+[am-replay-rev-1-1]: https://youtu.be/BmnTtLdhJEQ
 
 ##### Prior Content:
 
@@ -1475,10 +1471,31 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Express 1 | - | - | - |
-| Express 2 | - | - | -  |
-| Async / Await | - | - | - |
+| Express 1 | [📺][express-1-lec] | - | [🧑‍💻][express-1-demo] |
+| Express 2 | [📺][express-2-lec] | - | [🧑‍💻][express-2-demo]  |
+| Async / Await | - | - | [🧑‍💻][async_await-demo] |
 | Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][express-1-lec] )
+[express-1-lec]: https://youtu.be/2qGYP0LmV0g
+
+[//]: # ( Paste in table above >> [🧑‍💻][express-1-demo] )
+[express-1-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/express-examples
+
+[//]: # ( Paste in table above >> [📺][express-2-lec] )
+[express-2-lec]: https://github.com/orlandocaraballo/class-examples/tree/master/express-examples
+
+[//]: # ( Paste in table above >> [🧑‍💻][express-2-demo] )
+[express-2-demo]: 01-junior-phase/21-node-replay
+
+[//]: # ( Paste in table above >> [🧑‍💻][async_await-demo] )
+[async_await-lec]: 01-junior-phase/21-node-replay
+
+[//]: # ( Paste in table above >> [🧑‍💻][async_await-demo] )
+[async_await-demo]: [01-junior-phase/21-node-replay](https://github.com/orlandocaraballo/class-examples/tree/master/promises)
+
+[//]: # ( Paste in table above >> [📺][am-replay-rev-1-2] )
+[am-replay-rev-1-2]: #paste-YouTube-link-here
 
 ##### Prior Content:
 
