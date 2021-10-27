@@ -1473,7 +1473,7 @@ ___
 | ----- | ------- | ------ | ---- |
 | Express 1 | [📺][express-1-lec] | - | [🧑‍💻][express-1-demo] |
 | Express 2 | [📺][express-2-lec] | - | [🧑‍💻][express-2-demo]  |
-| Async / Await | [🧑‍💻][async_await-lec] | - | [🧑‍💻][async_await-demo] |
+| Async / Await | [📺][async_await-lec] | - | [🧑‍💻][async_await-demo] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][express-1-lec] )
