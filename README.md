@@ -1474,7 +1474,7 @@ ___
 | Express 1 | [📺][express-1-lec] | - | [🧑‍💻][express-1-demo] |
 | Express 2 | [📺][express-2-lec] | - | [🧑‍💻][express-2-demo]  |
 | Async / Await | [📺][async_await-lec] | - | [🧑‍💻][async_await-demo] |
-| Morning Review | - | - | - |
+| Morning Review | [📺][am-replay-rev-1-2] | - | - |
 
 [//]: # ( Paste in table above >> [📺][express-1-lec] )
 [express-1-lec]: https://youtu.be/2qGYP0LmV0g
@@ -1495,7 +1495,7 @@ ___
 [async_await-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/promises
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-1-2] )
-[am-replay-rev-1-2]: #paste-YouTube-link-here
+[am-replay-rev-1-2]: https://youtu.be/yYCcC09Ywuw
 
 ##### Prior Content:
 
@@ -1505,9 +1505,24 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Databases | - | - | - |
-| SQL | - | - | - |
+| SQL | [📺][sql-lec] | - | [🧑‍💻][sql-demo] |
+| Schema Design | [📺][schema-lec] | - | [🧑‍💻][schema-demo] |
 | Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][sql-lec] )
+[sql-lec]: https://youtu.be/ipFZQvAWXMU
+
+[//]: # ( Paste in table above >> [🧑‍💻][sql-demo] )
+[sql-demo]: 01-junior-phase/23-dbs-replay/sql-demo
+
+[//]: # ( Paste in table above >> [📺][schema-lec] )
+[schema-lec]: https://youtu.be/vB8h3lItcgg
+
+[//]: # ( Paste in table above >> [🧑‍💻][schema-demo] )
+[schema-demo]: https://excalidraw.com/#json=5184912139223040,BSWBon7ywmyuYDrcl1ohuw
+
+[//]: # ( Paste in table above >> [📺][am-replay-rev-1-2] )
+[am-replay-rev-1-2]: #paste-YouTube-link-here
 
 ##### Prior Content:
 
