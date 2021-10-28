@@ -1471,31 +1471,31 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Express 1 | [📺][express-1-lec] | - | [🧑‍💻][express-1-demo] |
-| Express 2 | [📺][express-2-lec] | - | [🧑‍💻][express-2-demo]  |
-| Async / Await | [📺][async_await-lec] | - | [🧑‍💻][async_await-demo] |
-| Morning Review | [📺][am-replay-rev-1-2] | - | - |
+| Express 1 | [📺][replay-express-1-lec] | - | [🧑‍💻][replay-express-1-demo] |
+| Express 2 | [📺][replay-express-2-lec] | - | [🧑‍💻][replay-express-2-demo]  |
+| Async / Await | [📺][replay-async_await-lec] | - | [🧑‍💻][replay-async_await-demo] |
+| Morning Review | [📺][replay-am-rev-1-2] | - | - |
 
-[//]: # ( Paste in table above >> [📺][express-1-lec] )
-[express-1-lec]: https://youtu.be/2qGYP0LmV0g
+[//]: # ( Paste in table above >> [📺][replay-express-1-lec] )
+[replay-express-1-lec]: https://youtu.be/2qGYP0LmV0g
 
-[//]: # ( Paste in table above >> [🧑‍💻][express-1-demo] )
-[express-1-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/express-examples
+[//]: # ( Paste in table above >> [🧑‍💻][replay-express-1-demo] )
+[replay-express-1-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/express-examples
 
-[//]: # ( Paste in table above >> [📺][express-2-lec] )
-[express-2-lec]: https://github.com/orlandocaraballo/class-examples/tree/master/express-examples
+[//]: # ( Paste in table above >> [📺][replay-express-2-lec] )
+[replay-express-2-lec]: https://github.com/orlandocaraballo/class-examples/tree/master/express-examples
 
-[//]: # ( Paste in table above >> [🧑‍💻][express-2-demo] )
-[express-2-demo]: 01-junior-phase/21-node-replay
+[//]: # ( Paste in table above >> [🧑‍💻][replay-express-2-demo] )
+[replay-express-2-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/express-examples
 
-[//]: # ( Paste in table above >> [🧑‍💻][async_await-lec] )
-[async_await-lec]: https://youtu.be/TDiZ2OIn8hk
+[//]: # ( Paste in table above >> [🧑‍💻][replay-async_await-lec] )
+[replay-async_await-lec]: https://youtu.be/TDiZ2OIn8hk
 
-[//]: # ( Paste in table above >> [🧑‍💻][async_await-demo] )
-[async_await-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/promises
+[//]: # ( Paste in table above >> [🧑‍💻][replay-async_await-demo] )
+[replay-async_await-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/promises
 
-[//]: # ( Paste in table above >> [📺][am-replay-rev-1-2] )
-[am-replay-rev-1-2]: https://youtu.be/yYCcC09Ywuw
+[//]: # ( Paste in table above >> [📺][replay-am-replay-rev-1-2] )
+[replay-am-rev-1-2]: https://youtu.be/yYCcC09Ywuw
 
 ##### Prior Content:
 
@@ -1505,24 +1505,24 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| SQL | [📺][sql-lec] | - | [🧑‍💻][sql-demo] |
-| Schema Design | [📺][schema-lec] | - | [🧑‍💻][schema-demo] |
-| Morning Review | - | - | - |
+| SQL | [📺][replay-sql-lec] | - | [🧑‍💻][replay-sql-demo] |
+| Schema Design | [📺][replay-schema-lec] | - | [🧑‍💻][replay-schema-demo] |
+| Morning Review | [📺][replay-am-rev-1-3] | - | - |
 
-[//]: # ( Paste in table above >> [📺][sql-lec] )
-[sql-lec]: https://youtu.be/ipFZQvAWXMU
+[//]: # ( Paste in table above >> [📺][replay-sql-lec] )
+[replay-sql-lec]: https://youtu.be/ipFZQvAWXMU
 
-[//]: # ( Paste in table above >> [🧑‍💻][sql-demo] )
-[sql-demo]: 01-junior-phase/23-dbs-replay/sql-demo
+[//]: # ( Paste in table above >> [🧑‍💻][replay-sql-demo] )
+[replay-sql-demo]: 01-junior-phase/23-dbs-replay/sql-demo
 
-[//]: # ( Paste in table above >> [📺][schema-lec] )
-[schema-lec]: https://youtu.be/vB8h3lItcgg
+[//]: # ( Paste in table above >> [📺][replay-schema-lec] )
+[replay-schema-lec]: https://youtu.be/vB8h3lItcgg
 
-[//]: # ( Paste in table above >> [🧑‍💻][schema-demo] )
-[schema-demo]: https://excalidraw.com/#json=5184912139223040,BSWBon7ywmyuYDrcl1ohuw
+[//]: # ( Paste in table above >> [🧑‍💻][replay-schema-demo] )
+[replay-schema-demo]: https://excalidraw.com/#json=5184912139223040,BSWBon7ywmyuYDrcl1ohuw
 
-[//]: # ( Paste in table above >> [📺][am-replay-rev-1-2] )
-[am-replay-rev-1-2]: #paste-YouTube-link-here
+[//]: # ( Paste in table above >> [📺][replay-am-rev-1-3] )
+[replay-am-rev-1-3]: https://youtu.be/c0K_ceGhQmQ
 
 ##### Prior Content:
 
@@ -1532,8 +1532,24 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| `pg` | - | - | - |
+| `pg` | [📺][replay-pg-lec] | - | [🧑‍💻][replay-pg-demo] |
+| Express + `pg` | [📺][replay-express-pg-lec] | - | [🧑‍💻][replay-express-pg-demo] |
 | Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][replay-pg-lec] )
+[replay-pg-lec]: https://youtu.be/DR-cq3Ux-fM
+
+[//]: # ( Paste in table above >> [🧑‍💻][replay-pg-demo] )
+[replay-pg-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/pg
+
+[//]: # ( Paste in table above >> [📺][replay-express-pg-lec] )
+[replay-express-pg-lec]: https://youtu.be/fqXTGfJR6fU
+
+[//]: # ( Paste in table above >> [🧑‍💻][replay-express-pg-demo] )
+[replay-express-pg-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/express-router
+
+[//]: # ( Paste in table above >> [📺][replay-am-rev-1-4] )
+[replay-am-rev-1-4]: #YouTube-link-here
 
 ##### Prior Content:
 
