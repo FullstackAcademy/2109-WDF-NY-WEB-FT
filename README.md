@@ -1534,7 +1534,7 @@ ___
 | ----- | ------- | ------ | ---- |
 | `pg` | [📺][replay-pg-lec] | - | [🧑‍💻][replay-pg-demo] |
 | Express + `pg` | [📺][replay-express-pg-lec] | - | [🧑‍💻][replay-express-pg-demo] |
-| Morning Review | - | - | - |
+| Morning Review | [📺][replay-am-rev-1-4] | - | - |
 
 [//]: # ( Paste in table above >> [📺][replay-pg-lec] )
 [replay-pg-lec]: https://youtu.be/DR-cq3Ux-fM
@@ -1549,7 +1549,7 @@ ___
 [replay-express-pg-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/express-router
 
 [//]: # ( Paste in table above >> [📺][replay-am-rev-1-4] )
-[replay-am-rev-1-4]: #YouTube-link-here
+[replay-am-rev-1-4]: https://youtu.be/MkKVffmxgsg
 
 ##### Prior Content:
 
@@ -1559,11 +1559,11 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| `Sequelize` | - | - | [🧑‍💻][replay-orm-demo] |
+| `Sequelize` | [📺][replay-orm-lec] | - | [🧑‍💻][replay-orm-demo] |
 | Morning Review | - | - | - |
 
-[//]: # ( Paste in table above >> [📺][replay-pg-lec] )
-[replay-pg-lec]: https://youtu.be/DR-cq3Ux-fM
+[//]: # ( Paste in table above >> [📺][replay-orm-lec] )
+[replay-orm-lec]: https://youtu.be/97QEzSuaW18https://youtu.be/MkKVffmxgsg
 
 [//]: # ( Paste in table above >> [🧑‍💻][replay-orm-demo] )
 [replay-orm-demo]: 01-junior-phase/25-orms-replay
