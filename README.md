@@ -1559,8 +1559,17 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| `Sequelize` | - | - | - |
+| `Sequelize` | - | - | [🧑‍💻][replay-orm-demo] |
 | Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][replay-pg-lec] )
+[replay-pg-lec]: https://youtu.be/DR-cq3Ux-fM
+
+[//]: # ( Paste in table above >> [🧑‍💻][replay-orm-demo] )
+[replay-orm-demo]: 01-junior-phase/25-orms-replay
+
+[//]: # ( Paste in table above >> [📺][replay-am-rev-1-4] )
+[replay-am-rev-1-4]: #YouTube-link-here
 
 ##### Prior Content:
 
