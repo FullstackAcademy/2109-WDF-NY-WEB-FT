@@ -1440,6 +1440,8 @@ ___
 
 ### Week 6: Node / Databases Review
 
+<details><summary>Click to view</summary>
+
 #### Day 1: Node
 
 | Topic | Lecture | Slides | Demo |
@@ -1574,6 +1576,131 @@ ___
 ##### Prior Content:
 
 [Intro to ORMs](#day-4-orm-sequelize-wikistack-1)
+
+</details>
+
+</details>
+
+___
+
+
+
+### Week 7: From Sequelize to React Review
+
+#### Day 1: Express + Sequelize
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| Express / Sequelize | - | - | - |
+| Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][express-sequelize-lec] )
+[express-sequelize-lec]: #youtube-link-here
+
+[//]: # ( Paste in table above >> [🧑‍💻][express-sequelize-demo] )
+[express-sequelize-demo]: #demo-link-here
+
+[//]: # ( Paste in table above >> [📺][am-replay-rev-2-1] )
+[am-replay-rev-2-1]: #review-link-here
+
+##### Prior Content:
+
+[WikiStack 2](#day-5-wikistack-2)
+
+#### Day 2: Intro to the Client Side
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| Front-end Modules | - | - | - |
+| Intro to SPA / AJAX | - | - | - |
+| Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][front-end-modules-lec] )
+[front-end-modules-lec]: #youtube-link-here
+
+[//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-demo] )
+[front-end-modules-demo]: #demo-link-here
+
+[//]: # ( Paste in table above >> [📺][spa-ajax-lec] )
+[spa-ajax-lec]: #youtube-link-here
+
+[//]: # ( Paste in table above >> [🧑‍💻][spa-ajax-demo] )
+[spa-ajax-demo]: #demo-link-here
+
+[//]: # ( Paste in table above >> [📺][am-replay-rev-2-2] )
+[am-replay-rev-2-2]: #review-link-here
+
+##### Prior Content:
+
+[Single-Page Applications](#day-1-single-page-applications)
+
+#### Day 3: React
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| Intro to React | - | - | - |
+| State and Props | - | - | - |
+| Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][react-lec] )
+[react-lec]: #youtube-link-here
+
+[//]: # ( Paste in table above >> [🧑‍💻][react-demo] )
+[react-demo]: #demo-link-here
+
+[//]: # ( Paste in table above >> [📺][state-props] )
+[state-props-lec]: #youtube-link-here
+
+[//]: # ( Paste in table above >> [🧑‍💻][state-props-demo] )
+[state-props-demo]: #demo-link-here
+
+[//]: # ( Paste in table above >> [📺][am-replay-rev-2-3] )
+[am-replay-rev-2-3]: #review-link-here
+
+##### Prior Content:
+
+[Intro to React](#day-3-intro-to-react)
+
+#### Day 4: React Component Lifecycle
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| Component Lifecycle | - | - | - |
+| Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][component-lifecycle-lec] )
+[component-lifecycle-lec]: #youtube-link-here
+
+[//]: # ( Paste in table above >> [🧑‍💻][component-lifecycle-demo] )
+[component-lifecycle-demo]: #demo-link-here
+
+[//]: # ( Paste in table above >> [📺][am-replay-rev-2-4] )
+[am-replay-rev-2-4]: #review-link-here
+
+##### Prior Content:
+
+[React Component Lifecycle](#day-4-react-component-lifecycle)
+
+#### Day 5: Fullstack Data Flow / Juke
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| Fullstack Data Flow | - | - | - |
+| Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][fullstack-data-flow-lec] )
+[fullstack-data-flow-lec]: #youtube-link-here
+
+[//]: # ( Paste in table above >> [🧑‍💻][fullstack-data-flow-demo] )
+[fullstack-data-flow-demo]: #demo-link-here
+
+[//]: # ( Paste in table above >> [📺][am-replay-rev-2-5] )
+[am-replay-rev-2-5]: #review-link-here
+
+##### Prior Content:
+
+[Juke](#day-5-juke)
+
 
 <!--
 ___
