@@ -1562,7 +1562,7 @@ ___
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
 | `Sequelize` | [📺][replay-orm-lec] | - | [🧑‍💻][replay-orm-demo] |
-| Morning Review | - | - | - |
+| Morning Review | [📺][replay-am-rev-1-5] | - | - |
 
 [//]: # ( Paste in table above >> [📺][replay-orm-lec] )
 [replay-orm-lec]: https://youtu.be/97QEzSuaW18https://youtu.be/MkKVffmxgsg
@@ -1570,8 +1570,8 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][replay-orm-demo] )
 [replay-orm-demo]: 01-junior-phase/25-orms-replay
 
-[//]: # ( Paste in table above >> [📺][replay-am-rev-1-4] )
-[replay-am-rev-1-4]: #YouTube-link-here
+[//]: # ( Paste in table above >> [📺][replay-am-rev-1-5] )
+[replay-am-rev-1-5]: https://youtu.be/jwCRBKyeNPc
 
 ##### Prior Content:
 
@@ -1591,11 +1591,11 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Express / Sequelize | - | - | [🧑‍💻][express-sequelize-demo] |
+| Express / Sequelize | [📺][express-sequelize-lec] | - | [🧑‍💻][express-sequelize-demo] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][express-sequelize-lec] )
-[express-sequelize-lec]: #youtube-link-here
+[express-sequelize-lec]: https://youtu.be/WGgGiBXBdlw
 
 [//]: # ( Paste in table above >> [🧑‍💻][express-sequelize-demo] )
 [express-sequelize-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/express-sequelize
