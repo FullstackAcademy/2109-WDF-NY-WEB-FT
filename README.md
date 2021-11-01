@@ -1611,21 +1611,24 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Front-end Modules | - | - | - |
-| Intro to SPA / AJAX | - | - | - |
+| Front-end Modules | - | - | [🧑‍💻][front-end-modules-demo] Front-end modules<br> [🧑‍💻][webpack-demo] Webpack |
+| Intro to SPA / AJAX | - | - | [🧑‍💻][spa-ajax-demo] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][front-end-modules-lec] )
 [front-end-modules-lec]: #youtube-link-here
 
 [//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-demo] )
-[front-end-modules-demo]: #demo-link-here
+[front-end-modules-demo]: 01-junior-phase/27-spa-replay/modules-demo
+
+[//]: # ( Paste in table above >> [🧑‍💻][webpack-demo] )
+[webpack-demo]: 01-junior-phase/27-spa-replay/webpack-demo
 
 [//]: # ( Paste in table above >> [📺][spa-ajax-lec] )
 [spa-ajax-lec]: #youtube-link-here
 
 [//]: # ( Paste in table above >> [🧑‍💻][spa-ajax-demo] )
-[spa-ajax-demo]: #demo-link-here
+[spa-ajax-demo]: 01-junior-phase/27-spa-replay/ajax-demo
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-2] )
 [am-replay-rev-2-2]: #review-link-here
@@ -1672,7 +1675,7 @@ ___
 [component-lifecycle-lec]: #youtube-link-here
 
 [//]: # ( Paste in table above >> [🧑‍💻][component-lifecycle-demo] )
-[component-lifecycle-demo]: 
+[component-lifecycle-demo]:
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-4] )
 [am-replay-rev-2-4]: #review-link-here
