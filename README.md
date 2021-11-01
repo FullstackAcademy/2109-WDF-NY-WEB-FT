@@ -1591,14 +1591,14 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Express / Sequelize | - | - | - |
+| Express / Sequelize | - | - | [🧑‍💻][express-sequelize-demo] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][express-sequelize-lec] )
 [express-sequelize-lec]: #youtube-link-here
 
 [//]: # ( Paste in table above >> [🧑‍💻][express-sequelize-demo] )
-[express-sequelize-demo]: #demo-link-here
+[express-sequelize-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/express-sequelize
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-1] )
 [am-replay-rev-2-1]: #review-link-here
@@ -1672,7 +1672,7 @@ ___
 [component-lifecycle-lec]: #youtube-link-here
 
 [//]: # ( Paste in table above >> [🧑‍💻][component-lifecycle-demo] )
-[component-lifecycle-demo]: #demo-link-here
+[component-lifecycle-demo]: 
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-4] )
 [am-replay-rev-2-4]: #review-link-here
