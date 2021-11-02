@@ -1,6 +1,10 @@
+// IMPORTING IN COMMON.JS:
 const operations = require('./operations')
-// Regular javascript destructuring
-const { add, subtract } = require('./operations')
+// operations.add(1, 2)
+// operations.subtract(4, 2)
 
-console.log(add(1, 2))
-console.log(operations.add(1, 2))
+const { add, subtract } = require('./operations')
+// add(1, 2)
+// subtract(4, 2)
+
+add(1, 2)
