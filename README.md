@@ -1592,7 +1592,7 @@ ___
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
 | Express / Sequelize | [📺][express-sequelize-lec] | - | [🧑‍💻][express-sequelize-demo] |
-| Morning Review | - | - | - |
+| Morning Review | [📺][am-replay-rev-2-1] | - | - |
 
 [//]: # ( Paste in table above >> [📺][express-sequelize-lec] )
 [express-sequelize-lec]: https://youtu.be/WGgGiBXBdlw
@@ -1601,7 +1601,7 @@ ___
 [express-sequelize-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/express-sequelize
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-1] )
-[am-replay-rev-2-1]: #review-link-here
+[am-replay-rev-2-1]: https://youtu.be/BscQpsnYwpc
 
 ##### Prior Content:
 
@@ -1611,12 +1611,12 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Front-end Modules | - | - | [🧑‍💻][front-end-modules-demo] Front-end modules<br> [🧑‍💻][webpack-demo] Webpack |
-| Intro to SPA / AJAX | - | - | [🧑‍💻][spa-ajax-demo] |
+| Front-end Modules | [📺][front-end-modules-lec] | - | [🧑‍💻][front-end-modules-demo] Front-end modules<br> [🧑‍💻][webpack-demo] Webpack |
+| Intro to SPA / AJAX | [📺][spa-ajax-lec] | - | [🧑‍💻][spa-ajax-demo] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][front-end-modules-lec] )
-[front-end-modules-lec]: #youtube-link-here
+[front-end-modules-lec]: https://youtu.be/sFOVF4aUZsc
 
 [//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-demo] )
 [front-end-modules-demo]: 01-junior-phase/27-spa-replay/modules-demo
@@ -1625,7 +1625,7 @@ ___
 [webpack-demo]: 01-junior-phase/27-spa-replay/webpack-demo
 
 [//]: # ( Paste in table above >> [📺][spa-ajax-lec] )
-[spa-ajax-lec]: #youtube-link-here
+[spa-ajax-lec]: https://youtu.be/8SFGyvaiVZ8
 
 [//]: # ( Paste in table above >> [🧑‍💻][spa-ajax-demo] )
 [spa-ajax-demo]: 01-junior-phase/27-spa-replay/ajax-demo
@@ -1649,13 +1649,13 @@ ___
 [react-lec]: #youtube-link-here
 
 [//]: # ( Paste in table above >> [🧑‍💻][react-demo] )
-[react-demo]: #demo-link-here
+[react-demo]: 01-junior-phase/28-react-replay/magic-8-ball-demo
 
 [//]: # ( Paste in table above >> [📺][state-props] )
 [state-props-lec]: #youtube-link-here
 
 [//]: # ( Paste in table above >> [🧑‍💻][state-props-demo] )
-[state-props-demo]: #demo-link-here
+[state-props-demo]: 01-junior-phase/28-react-replay/pizza-demo
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-3] )
 [am-replay-rev-2-3]: #review-link-here
