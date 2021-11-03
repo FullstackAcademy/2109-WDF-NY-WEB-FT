@@ -1616,7 +1616,7 @@ ___
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][front-end-modules-lec-replay] )
-[front-end-modules-lec-replay]: https://youtu.be/sFOVF4aUZsc
+[front-end-modules-lec-replay]: https://youtu.be/2PjXwU98MYE
 
 [//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-demo-replay] )
 [front-end-modules-demo-replay]: 01-junior-phase/27-spa-replay/modules-demo
