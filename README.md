@@ -1611,28 +1611,28 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Front-end Modules | [📺][front-end-modules-lec] | - | [🧑‍💻][front-end-modules-demo] Front-end modules<br> [🧑‍💻][webpack-demo] Webpack <br>[🧑‍💻][front-end-modules-diagram] |
-| Intro to SPA / AJAX | [📺][spa-ajax-lec] | - | [🧑‍💻][spa-ajax-demo] |
+| Front-end Modules | [📺][front-end-modules-lec-replay] | - | [🧑‍💻][front-end-modules-demo-replay] Front-end modules<br> [🧑‍💻][webpack-demo-replay] Webpack <br>[🧑‍💻][front-end-modules-diagram] |
+| Intro to SPA / AJAX | [📺][spa-ajax-lec-replay] | - | [🧑‍💻][spa-ajax-demo-replay] |
 | Morning Review | - | - | - |
 
-[//]: # ( Paste in table above >> [📺][front-end-modules-lec] )
-[front-end-modules-lec]: https://youtu.be/sFOVF4aUZsc
+[//]: # ( Paste in table above >> [📺][front-end-modules-lec-replay] )
+[front-end-modules-lec-replay]: https://youtu.be/sFOVF4aUZsc
 
-[//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-demo] )
-[front-end-modules-demo]: 01-junior-phase/27-spa-replay/modules-demo
+[//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-demo-replay] )
+[front-end-modules-demo-replay]: 01-junior-phase/27-spa-replay/modules-demo
 
 [//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-diagram] )
 [front-end-modules-diagram]:
 https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 
-[//]: # ( Paste in table above >> [🧑‍💻][webpack-demo] )
-[webpack-demo]: 01-junior-phase/27-spa-replay/webpack-demo
+[//]: # ( Paste in table above >> [🧑‍💻][webpack-demo-replay] )
+[webpack-demo-replay]: 01-junior-phase/27-spa-replay/webpack-demo
 
-[//]: # ( Paste in table above >> [📺][spa-ajax-lec] )
-[spa-ajax-lec]: https://youtu.be/8SFGyvaiVZ8
+[//]: # ( Paste in table above >> [📺][spa-ajax-lec-replay] )
+[spa-ajax-lec-replay]: https://youtu.be/8SFGyvaiVZ8
 
-[//]: # ( Paste in table above >> [🧑‍💻][spa-ajax-demo] )
-[spa-ajax-demo]: 01-junior-phase/27-spa-replay/ajax-demo
+[//]: # ( Paste in table above >> [🧑‍💻][spa-ajax-demo-replay] )
+[spa-ajax-demo-replay]: 01-junior-phase/27-spa-replay/ajax-demo
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-2] )
 [am-replay-rev-2-2]: #review-link-here
@@ -1645,21 +1645,21 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Intro to React | - | - | [🧑‍💻][react-demo] |
-| State and Props | - | - | [🧑‍💻][state-props-demo] |
+| Intro to React | - | - | [🧑‍💻][react-demo-replay] |
+| State and Props | - | - | [🧑‍💻][state-props-demo-replay] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][react-lec] )
 [react-lec]: #youtube-link-here
 
-[//]: # ( Paste in table above >> [🧑‍💻][react-demo] )
-[react-demo]: 01-junior-phase/28-react-replay/magic-8-ball-demo
+[//]: # ( Paste in table above >> [🧑‍💻][react-demo-replay] )
+[react-demov]: 01-junior-phase/28-react-replay/magic-8-ball-demo
 
-[//]: # ( Paste in table above >> [📺][state-props] )
+[//]: # ( Paste in table above >> [📺][state-props-lec] )
 [state-props-lec]: #youtube-link-here
 
-[//]: # ( Paste in table above >> [🧑‍💻][state-props-demo] )
-[state-props-demo]: 01-junior-phase/28-react-replay/pizza-demo
+[//]: # ( Paste in table above >> [🧑‍💻][state-props-demo-replay] )
+[state-props-demo-replay]: 01-junior-phase/28-react-replay/pizza-demo
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-3] )
 [am-replay-rev-2-3]: #review-link-here
