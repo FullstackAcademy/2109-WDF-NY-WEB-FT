@@ -1611,7 +1611,7 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Front-end Modules | [📺][front-end-modules-lec] | - | [🧑‍💻][front-end-modules-demo] Front-end modules<br> [🧑‍💻][webpack-demo] Webpack |
+| Front-end Modules | [📺][front-end-modules-lec] | - | [🧑‍💻][front-end-modules-demo] Front-end modules<br> [🧑‍💻][webpack-demo] Webpack <br>[🧑‍💻][front-end-modules-diagram] |
 | Intro to SPA / AJAX | [📺][spa-ajax-lec] | - | [🧑‍💻][spa-ajax-demo] |
 | Morning Review | - | - | - |
 
@@ -1620,6 +1620,10 @@ ___
 
 [//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-demo] )
 [front-end-modules-demo]: 01-junior-phase/27-spa-replay/modules-demo
+
+[//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-diagram] )
+[front-end-modules-diagram]:
+https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 
 [//]: # ( Paste in table above >> [🧑‍💻][webpack-demo] )
 [webpack-demo]: 01-junior-phase/27-spa-replay/webpack-demo

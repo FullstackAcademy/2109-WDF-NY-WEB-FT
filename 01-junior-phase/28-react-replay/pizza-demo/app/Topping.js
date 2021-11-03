@@ -1,10 +1,12 @@
 import React from 'react';
 
-// functional component
+// Functional component
 const Topping = (props) => {
-  console.log('Props: ', props)
+  console.log('Rendering topping component');
   return (
-    <li onClick = {() => props.updateSelectedTopping(props.toppingName)}>{props.toppingName}</li>
+    <li onClick = {() => props.updateSelectedTopping(props.toppingName)}>
+      {props.toppingName}
+    </li>
   )
 }
 
