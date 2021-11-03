@@ -1653,7 +1653,7 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 [react-lec]: #youtube-link-here
 
 [//]: # ( Paste in table above >> [🧑‍💻][react-demo-replay] )
-[react-demov]: 01-junior-phase/28-react-replay/magic-8-ball-demo
+[react-demo-replay]: 01-junior-phase/28-react-replay/magic-8-ball-demo
 
 [//]: # ( Paste in table above >> [📺][state-props-lec] )
 [state-props-lec]: #youtube-link-here
