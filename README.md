@@ -1641,8 +1641,8 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Intro to React | - | - | - |
-| State and Props | - | - | - |
+| Intro to React | - | - | [🧑‍💻][react-demo] |
+| State and Props | - | - | [🧑‍💻][state-props-demo] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][react-lec] )
