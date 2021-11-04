@@ -1662,7 +1662,7 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 [state-props-demo-replay]: 01-junior-phase/28-react-replay/pizza-demo
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-3] )
-[am-replay-rev-2-3]: https://youtu.be/CJOANsbI39A
+[am-replay-rev-2-3]: https://youtu.be/fwf6iQCB9eM
 
 ##### Prior Content:
 
@@ -1676,7 +1676,7 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][component-lifecycle-lec] )
-[component-lifecycle-lec]: https://youtu.be/KYU6J1ZqEKw
+[component-lifecycle-lec]: https://youtu.be/dFUjZ5Cdrl8
 
 [//]: # ( Paste in table above >> [🧑‍💻][component-lifecycle-demo] )
 [component-lifecycle-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/react-lifecycle
