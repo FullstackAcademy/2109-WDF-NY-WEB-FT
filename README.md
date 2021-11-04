@@ -1613,7 +1613,7 @@ ___
 | ----- | ------- | ------ | ---- |
 | Front-end Modules | [📺][front-end-modules-lec-replay] | - | [🧑‍💻][front-end-modules-demo-replay] Front-end modules<br> [🧑‍💻][webpack-demo-replay] Webpack <br>[🧑‍💻][front-end-modules-diagram] |
 | Intro to SPA / AJAX | [📺][spa-ajax-lec-replay] | - | [🧑‍💻][spa-ajax-demo-replay] |
-| Morning Review | - | - | - |
+| Morning Review | [📺][am-replay-rev-2-2] | - | - |
 
 [//]: # ( Paste in table above >> [📺][front-end-modules-lec-replay] )
 [front-end-modules-lec-replay]: https://youtu.be/2PjXwU98MYE
@@ -1635,7 +1635,7 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 [spa-ajax-demo-replay]: 01-junior-phase/27-spa-replay/ajax-demo
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-2] )
-[am-replay-rev-2-2]: #review-link-here
+[am-replay-rev-2-2]: https://youtu.be/o16gHiI1Jdk
 
 ##### Prior Content:
 
@@ -1645,18 +1645,18 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Intro to React | - | - | [🧑‍💻][react-demo-replay] |
-| State and Props | - | - | [🧑‍💻][state-props-demo-replay] |
+| Intro to React | [📺][react-replay-lec] | - | [🧑‍💻][react-demo-replay] |
+| State and Props | [📺][state-props-replay-lec] | - | [🧑‍💻][state-props-demo-replay] |
 | Morning Review | - | - | - |
 
-[//]: # ( Paste in table above >> [📺][react-lec] )
-[react-lec]: #youtube-link-here
+[//]: # ( Paste in table above >> [📺][react-replay-lec] )
+[react-replay-lec]: https://youtu.be/MLa03jjmerE
 
 [//]: # ( Paste in table above >> [🧑‍💻][react-demo-replay] )
 [react-demo-replay]: 01-junior-phase/28-react-replay/magic-8-ball-demo
 
-[//]: # ( Paste in table above >> [📺][state-props-lec] )
-[state-props-lec]: #youtube-link-here
+[//]: # ( Paste in table above >> [📺][state-props-replay-lec] )
+[state-props-replay-lec]: https://youtu.be/tY48QY9GjC4
 
 [//]: # ( Paste in table above >> [🧑‍💻][state-props-demo-replay] )
 [state-props-demo-replay]: 01-junior-phase/28-react-replay/pizza-demo
