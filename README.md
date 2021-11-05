@@ -1583,8 +1583,6 @@ ___
 
 ___
 
-
-
 ### Week 7: From Sequelize to React Review
 
 #### Day 1: Express + Sequelize
@@ -1692,15 +1690,14 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Fullstack Data Flow | - | - | - |
+| Fullstack Data Flow | - | - | [🧑‍💻][fullstack-data-flow-demo] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][fullstack-data-flow-lec] )
 [fullstack-data-flow-lec]: #youtube-link-here
 
 [//]: # ( Paste in table above >> [🧑‍💻][fullstack-data-flow-demo] )
-[fullstack-data-flow-demo]: #demo-link-here
-
+[fullstack-data-flow-demo]:https://excalidraw.com/#json=5070617204228096,5qj4vXbJzxJ84FB8KVdxtg
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-5] )
 [am-replay-rev-2-5]: #review-link-here
 
@@ -1708,6 +1705,119 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 
 [Juke](#day-5-juke)
 
+</details>
+___
+
+
+### Week 7: From Redux to React Forms Review
+
+#### Day 1: Redux
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| Intro to Redux (Redux Bank) | - | - | - |
+| Action Types and Action Creators | - | - | - |
+| Pixelate-Redux | - | - | - |
+| React-Redux `connect` | - | - | - |
+| Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][redux-replay-lec] )
+[redux-replay-lec]: ###
+
+[//]: # ( Paste in table above >> [🧑‍💻][redux-replay-demo] )
+[redux-replay-demo]: ###
+
+[//]: # ( Paste in table above >> [📺][am-replay-rev-3-1] )
+[am-replay-rev-3-1]: ###
+
+##### Prior Content:
+
+[WikiStack 2](#day-1-redux)
+
+#### Day 2: React-Redux, Thunks, `combineReducers`
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| React-Redux `connect` review | - | - | - |
+| Redux Groceries  | - | - | - |
+| Redux Thunks  | - | - | - |
+| Redux `combineReducers`  | - | - | - |
+| Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][front-end-modules-lec-replay] )
+[front-end-modules-lec-replay]: https://youtu.be/2PjXwU98MYE
+
+[//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-demo-replay] )
+[front-end-modules-demo-replay]: 01-junior-phase/27-spa-replay/modules-demo
+
+[//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-diagram] )
+[front-end-modules-diagram]:
+https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
+
+[//]: # ( Paste in table above >> [🧑‍💻][webpack-demo-replay] )
+[webpack-demo-replay]: 01-junior-phase/27-spa-replay/webpack-demo
+
+[//]: # ( Paste in table above >> [📺][spa-ajax-lec-replay] )
+[spa-ajax-lec-replay]: https://youtu.be/8SFGyvaiVZ8
+
+[//]: # ( Paste in table above >> [🧑‍💻][spa-ajax-demo-replay] )
+[spa-ajax-demo-replay]: 01-junior-phase/27-spa-replay/ajax-demo
+
+[//]: # ( Paste in table above >> [📺][am-replay-rev-2-2] )
+[am-replay-rev-2-2]: https://youtu.be/o16gHiI1Jdk
+
+##### Prior Content:
+
+[Single-Page Applications](#day-2-react-redux)
+
+#### Day 3: React Router, Readium
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| React Router 101 | - | - | -|
+| React Router 201 | - | - | - |
+| Readium | - | - | - |
+| Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][react-replay-lec] )
+[react-replay-lec]: https://youtu.be/MLa03jjmerE
+
+[//]: # ( Paste in table above >> [🧑‍💻][react-demo-replay] )
+[react-demo-replay]: 01-junior-phase/28-react-replay/magic-8-ball-demo
+
+[//]: # ( Paste in table above >> [📺][state-props-replay-lec] )
+[state-props-replay-lec]: https://youtu.be/tY48QY9GjC4
+
+[//]: # ( Paste in table above >> [🧑‍💻][state-props-demo-replay] )
+[state-props-demo-replay]: 01-junior-phase/28-react-replay/pizza-demo
+
+[//]: # ( Paste in table above >> [📺][am-replay-rev-2-3] )
+[am-replay-rev-2-3]: https://youtu.be/fwf6iQCB9eM
+
+##### Prior Content:
+
+[Intro to React](#day-3-react-router)
+
+#### Day 4: Veterans Day
+
+#### Day 5: React Forms
+
+| Topic | Lecture | Slides | Demo |
+| ----- | ------- | ------ | ---- |
+| React Forms 101 + 201 | - | - | - |
+| Morning Review | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][fullstack-data-flow-lec] )
+[fullstack-data-flow-lec]: #youtube-link-here
+
+[//]: # ( Paste in table above >> [🧑‍💻][fullstack-data-flow-demo] )
+[fullstack-data-flow-demo]:https://excalidraw.com/#json=5070617204228096,5qj4vXbJzxJ84FB8KVdxtg
+[//]: # ( Paste in table above >> [📺][am-replay-rev-2-5] )
+[am-replay-rev-2-5]: #review-link-here
+
+##### Prior Content:
+
+[Juke](#day-4-react-forms)
 
 <!--
 ___
