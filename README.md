@@ -1693,7 +1693,7 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
 | Fullstack Data Flow | [📺][fullstack-data-flow-lec] | - | [🧑‍💻][fullstack-data-flow-demo] |
-| Morning Review | - | - | - |
+| Morning Review | [📺][am-replay-rev-2-5] | - | - |
 
 [//]: # ( Paste in table above >> [📺][fullstack-data-flow-lec] )
 [fullstack-data-flow-lec]: https://youtu.be/ayV7flphI1I
@@ -1701,7 +1701,7 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 [//]: # ( Paste in table above >> [🧑‍💻][fullstack-data-flow-demo] )
 [fullstack-data-flow-demo]:https://excalidraw.com/#json=5070617204228096,5qj4vXbJzxJ84FB8KVdxtg
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-5] )
-[am-replay-rev-2-5]: #review-link-here
+[am-replay-rev-2-5]: https://youtu.be/ZpXBPo0wO7g
 
 ##### Prior Content:
 
@@ -1724,7 +1724,7 @@ ___
 | ----- | ------- | ------ | ---- |
 | Functional Programming | [📺][fp-replay-lec] | - | [🧑‍💻][fp-replay-demo] |
 | Redux | [📺][redux-replay-lec] | - | [🧑‍💻][redux-replay-demo] |
-| React-Redux `connect` | - | - | - |
+| React-Redux `connect` | [📺][connect-lec] | - |[🧑‍💻][connect-demo] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][fp-replay-lec] )
@@ -1738,6 +1738,12 @@ ___
 
 [//]: # ( Paste in table above >> [🧑‍💻][redux-replay-demo] )
 [redux-replay-demo]: https://github.com/orlandocaraballo/class-examples/blob/master/redux/simple/main.js
+
+[//]: # ( Paste in table above >> [📺][connect-lec] )
+[connect-lec]: https://youtu.be/kCAaSAUDk2M
+
+[//]: # ( Paste in table above >> [🧑‍💻][connect-demo] )
+[connect-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/connect/app
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-3-1] )
 [am-replay-rev-3-1]: ###
