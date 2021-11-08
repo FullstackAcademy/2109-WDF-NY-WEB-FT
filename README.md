@@ -1585,6 +1585,8 @@ ___
 
 ### Week 7: From Sequelize to React Review
 
+<details><summary>Click to view</summary>
+
 #### Day 1: Express + Sequelize
 
 | Topic | Lecture | Slides | Demo |
@@ -1706,10 +1708,15 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 [Juke](#day-5-juke)
 
 </details>
+
+</details>
+
 ___
 
 
-### Week 7: From Redux to React Forms Review
+### Week 8: From Redux to React Forms Review
+
+<!-- <details><summary>Click to view</summary> -->
 
 #### Day 1: Redux
 
@@ -1818,6 +1825,11 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 ##### Prior Content:
 
 [Juke](#day-4-juke)
+
+</details>
+
+</details>
+
 
 <!--
 ___
