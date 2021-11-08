@@ -1671,7 +1671,7 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
 | Component Lifecycle | [📺][component-lifecycle-lec] | - | [🧑‍💻][component-lifecycle-demo] |
-| Morning Review | - | - | - |
+| Morning Review | [📺][am-replay-rev-2-4] | - | - |
 
 [//]: # ( Paste in table above >> [📺][component-lifecycle-lec] )
 [component-lifecycle-lec]: https://youtu.be/dFUjZ5Cdrl8
@@ -1680,7 +1680,7 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 [component-lifecycle-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/react-lifecycle
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-4] )
-[am-replay-rev-2-4]: #review-link-here
+[am-replay-rev-2-4]: https://youtu.be/aHgRSkOCXOc
 
 ##### Prior Content:
 
@@ -1690,11 +1690,11 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Fullstack Data Flow | - | - | [🧑‍💻][fullstack-data-flow-demo] |
+| Fullstack Data Flow | [📺][fullstack-data-flow-lec] | - | [🧑‍💻][fullstack-data-flow-demo] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][fullstack-data-flow-lec] )
-[fullstack-data-flow-lec]: #youtube-link-here
+[fullstack-data-flow-lec]: https://youtu.be/ayV7flphI1I
 
 [//]: # ( Paste in table above >> [🧑‍💻][fullstack-data-flow-demo] )
 [fullstack-data-flow-demo]:https://excalidraw.com/#json=5070617204228096,5qj4vXbJzxJ84FB8KVdxtg
@@ -1817,7 +1817,7 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 
 ##### Prior Content:
 
-[Juke](#day-4-react-forms)
+[Juke](#day-4-juke)
 
 <!--
 ___
