@@ -1722,17 +1722,22 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| Intro to Redux (Redux Bank) | - | - | - |
-| Action Types and Action Creators | - | - | - |
-| Pixelate-Redux | - | - | - |
+| Functional Programming | [📺][fp-replay-lec] | - | [🧑‍💻][fp-replay-demo] |
+| Redux | [📺][redux-replay-lec] | - | [🧑‍💻][redux-replay-demo] |
 | React-Redux `connect` | - | - | - |
 | Morning Review | - | - | - |
 
+[//]: # ( Paste in table above >> [📺][fp-replay-lec] )
+[fp-replay-lec]: https://youtu.be/jw1yGHa5t3k
+
 [//]: # ( Paste in table above >> [📺][redux-replay-lec] )
-[redux-replay-lec]: ###
+[redux-replay-lec]: https://youtu.be/aFtlMW3qXxA
+
+[//]: # ( Paste in table above >> [🧑‍💻][fp-replay-demo] )
+[fp-replay-demo]: https://github.com/orlandocaraballo/class-examples/blob/master/redux/simple
 
 [//]: # ( Paste in table above >> [🧑‍💻][redux-replay-demo] )
-[redux-replay-demo]: ###
+[redux-replay-demo]: https://github.com/orlandocaraballo/class-examples/blob/master/redux/simple/main.js
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-3-1] )
 [am-replay-rev-3-1]: ###
