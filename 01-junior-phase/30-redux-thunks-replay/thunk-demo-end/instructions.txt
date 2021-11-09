@@ -1,0 +1,7 @@
+1. Ideally, we want to remove any sync code from our react component. ideally, we won't have an async componentDidMount and we'll make our axios call from the redux side. then, in the componentDidMount instead, we'll have some dispatch on props that fetches products. then it gets done when it gets done - eventually, I know that it will be completed; the redux store will see the change that happens and the component will update itself. all i did was call this function fetchProducts - i don't know if its async or not, i just called it. i want to build a component that is as basic as possible, and serves the pure purpose of displaying things. this is what we'll be able to accomplish through thunk middleware.
+
+2. import thunkMiddleware to store and add to applyMiddleware() call
+
+3. import axios for ajax call
+
+4. so far, we just have an action creator that takes an argument of products. but that's assuming that I have products already. so this is the part we have to fill in on the store side - somethign that will make the ajax call and fetch the products for us. so let's create a thunk creator named fetchProducts.

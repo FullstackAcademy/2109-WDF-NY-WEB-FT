@@ -1,0 +1,13 @@
+1. let's say that i have lots of thunks and action creators. i don't want to have one big store.js file, that would get hard to handle. instead, we're going to break up our reducer into different reducers in different files, then import them all into our store.js file.
+
+the whole idea is to have each reducer be responsioble for a different piece of state.
+
+2. create reducers directory inside app
+
+3. Each file will have action types, action creators, and reducer
+
+4. Copy and paste over action type, action creator, reducer into allPies
+
+5. Import combineReducers into store.js
+
+6. Check imports in component

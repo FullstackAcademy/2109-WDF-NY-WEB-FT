@@ -1750,7 +1750,7 @@ ___
 
 ##### Prior Content:
 
-[WikiStack 2](#day-1-redux)
+[Redux](#day-1-redux)
 
 #### Day 2: React-Redux, Thunks, `combineReducers`
 
@@ -1758,28 +1758,27 @@ ___
 | ----- | ------- | ------ | ---- |
 | React-Redux `connect` review | - | - | - |
 | Redux Groceries  | - | - | - |
-| Redux Thunks  | - | - | - |
-| Redux `combineReducers`  | - | - | - |
+| Redux Thunks  | - | - | [🧑‍💻][thunks-demo-replay] |
+| Redux `combineReducers`  | - | - | [🧑‍💻][combine-reducers-demo-replay] |
 | Morning Review | - | - | - |
 
-[//]: # ( Paste in table above >> [📺][front-end-modules-lec-replay] )
-[front-end-modules-lec-replay]: https://youtu.be/2PjXwU98MYE
+[//]: # ( Paste in table above >> [📺][react-redux-lec-replay] )
+[react-redux-lec-replay]: https://youtu.be/2PjXwU98MYE
 
-[//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-demo-replay] )
-[front-end-modules-demo-replay]: 01-junior-phase/27-spa-replay/modules-demo
+[//]: # ( Paste in table above >> [🧑‍💻][react-redux-demo-replay] )
+[react-redux-demo-replay]: 01-junior-phase/27-spa-replay/modules-demo
 
-[//]: # ( Paste in table above >> [🧑‍💻][front-end-modules-diagram] )
-[front-end-modules-diagram]:
-https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
+[//]: # ( Paste in table above >> [📺][thunks-lec-replay] )
+[thunks-lec-replay]: https://youtu.be/8SFGyvaiVZ8
 
-[//]: # ( Paste in table above >> [🧑‍💻][webpack-demo-replay] )
-[webpack-demo-replay]: 01-junior-phase/27-spa-replay/webpack-demo
+[//]: # ( Paste in table above >> [🧑‍💻][thunks-demo-replay] )
+[thunks-demo-replay]: 01-junior-phase/30-redux-thunks-replay/thunk-demo-end
 
-[//]: # ( Paste in table above >> [📺][spa-ajax-lec-replay] )
-[spa-ajax-lec-replay]: https://youtu.be/8SFGyvaiVZ8
+[//]: # ( Paste in table above >> [📺][combine-reducers-lec-replay] )
+[combine-reducers-lec-replay]: https://youtu.be/8SFGyvaiVZ8
 
-[//]: # ( Paste in table above >> [🧑‍💻][spa-ajax-demo-replay] )
-[spa-ajax-demo-replay]: 01-junior-phase/27-spa-replay/ajax-demo
+[//]: # ( Paste in table above >> [🧑‍💻][combine-reducers-demo-replay] )
+[combine-reducers-demo-replay]: 01-junior-phase/30-redux-thunks-replay/combine-reducers-end
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-2] )
 [am-replay-rev-2-2]: https://youtu.be/o16gHiI1Jdk
