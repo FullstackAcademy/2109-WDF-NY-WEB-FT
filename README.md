@@ -1790,8 +1790,8 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| React Router 101 | - | - | -|
-| React Router 201 | - | - | - |
+| React Router 101 | - | - | [🧑‍💻][router-101-demo-replay] |
+| React Router 201 | - | - | [🧑‍💻][router-201-demo-replay] |
 | Readium | - | - | - |
 | Morning Review | - | - | - |
 
@@ -1799,13 +1799,13 @@ ___
 [router-101-replay-lec]: https://youtu.be/MLa03jjmerE
 
 [//]: # ( Paste in table above >> [🧑‍💻][router-101-demo-replay] )
-[router-101-demo-replay]: 01-junior-phase/28-react-replay/magic-8-ball-demo
+[router-101-demo-replay]: https://github.com/orlandocaraballo/class-examples/tree/master/react-router-webpack
 
 [//]: # ( Paste in table above >> [📺][router-201-replay-lec] )
 [router-201-replay-lec]: https://youtu.be/MLa03jjmerE
 
 [//]: # ( Paste in table above >> [🧑‍💻][router-201-demo-replay] )
-[router-201-demo-replay]: 01-junior-phase/28-react-replay/magic-8-ball-demo
+[router-201-demo-replay]: https://github.com/orlandocaraballo/class-examples/tree/master/react-router-webpack
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-3-3] )
 [am-replay-rev-3-3]: https://youtu.be/fwf6iQCB9eM
