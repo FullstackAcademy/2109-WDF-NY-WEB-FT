@@ -1705,7 +1705,7 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 
 ##### Prior Content:
 
-[Juke](#day-5-juke)
+[Juke](#day-5-react-forms)
 
 </details>
 
@@ -1725,7 +1725,7 @@ ___
 | Functional Programming | [📺][fp-replay-lec] | - | [🧑‍💻][fp-replay-demo] |
 | Redux | [📺][redux-replay-lec] | - | [🧑‍💻][redux-replay-demo] |
 | React-Redux `connect` | [📺][connect-lec] | - |[🧑‍💻][connect-demo] |
-| Morning Review | - | - | - |
+| Morning Review | [📺][am-replay-rev-3-1] | - | - |
 
 [//]: # ( Paste in table above >> [📺][fp-replay-lec] )
 [fp-replay-lec]: https://youtu.be/jw1yGHa5t3k
@@ -1746,7 +1746,7 @@ ___
 [connect-demo]: https://github.com/orlandocaraballo/class-examples/tree/master/connect/app
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-3-1] )
-[am-replay-rev-3-1]: ###
+[am-replay-rev-3-1]: https://youtu.be/-uljUfBcj_I
 
 ##### Prior Content:
 
@@ -1756,36 +1756,35 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| React-Redux `connect` review | - | - | - |
-| Redux Groceries  | - | - | - |
-| Redux Thunks  | - | - | [🧑‍💻][thunks-demo-replay] |
-| Redux `combineReducers`  | - | - | [🧑‍💻][combine-reducers-demo-replay] |
+| React-Redux `connect` review | [📺][react-redux-lec-replay] | - | [🧑‍💻][react-redux-demo-replay] |
+| Redux Thunks  | [📺][thunks-lec-replay] | - | [🧑‍💻][thunks-demo-replay] |
+| Redux `combineReducers`  | [📺][combine-reducers-lec-replay] | - | [🧑‍💻][combine-reducers-demo-replay] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][react-redux-lec-replay] )
-[react-redux-lec-replay]: https://youtu.be/2PjXwU98MYE
+[react-redux-lec-replay]: https://youtu.be/-uljUfBcj_I
 
 [//]: # ( Paste in table above >> [🧑‍💻][react-redux-demo-replay] )
-[react-redux-demo-replay]: 01-junior-phase/27-spa-replay/modules-demo
+[react-redux-demo-replay]: https://excalidraw.com/#json=uG3f21z1j2kfA9lEAYVc2,zAEuUq97NItmgFzM37wg6w
 
 [//]: # ( Paste in table above >> [📺][thunks-lec-replay] )
-[thunks-lec-replay]: https://youtu.be/8SFGyvaiVZ8
+[thunks-lec-replay]: https://youtu.be/E39xvmR0BO8
 
 [//]: # ( Paste in table above >> [🧑‍💻][thunks-demo-replay] )
 [thunks-demo-replay]: 01-junior-phase/30-redux-thunks-replay/thunk-demo-end
 
 [//]: # ( Paste in table above >> [📺][combine-reducers-lec-replay] )
-[combine-reducers-lec-replay]: https://youtu.be/8SFGyvaiVZ8
+[combine-reducers-lec-replay]: https://youtu.be/VXmXFmh9BnQ
 
 [//]: # ( Paste in table above >> [🧑‍💻][combine-reducers-demo-replay] )
 [combine-reducers-demo-replay]: 01-junior-phase/30-redux-thunks-replay/combine-reducers-end
 
-[//]: # ( Paste in table above >> [📺][am-replay-rev-2-2] )
-[am-replay-rev-2-2]: https://youtu.be/o16gHiI1Jdk
+[//]: # ( Paste in table above >> [📺][am-replay-rev-3-2] )
+[am-replay-rev-3-2]: https://youtu.be/o16gHiI1Jdk
 
 ##### Prior Content:
 
-[Single-Page Applications](#day-2-react-redux)
+[React-Redux Connect](#day-2-react-redux)
 
 #### Day 3: React Router, Readium
 
@@ -1796,24 +1795,24 @@ ___
 | Readium | - | - | - |
 | Morning Review | - | - | - |
 
-[//]: # ( Paste in table above >> [📺][react-replay-lec] )
-[react-replay-lec]: https://youtu.be/MLa03jjmerE
+[//]: # ( Paste in table above >> [📺][router-101-replay-lec] )
+[router-101-replay-lec]: https://youtu.be/MLa03jjmerE
 
-[//]: # ( Paste in table above >> [🧑‍💻][react-demo-replay] )
-[react-demo-replay]: 01-junior-phase/28-react-replay/magic-8-ball-demo
+[//]: # ( Paste in table above >> [🧑‍💻][router-101-demo-replay] )
+[router-101-demo-replay]: 01-junior-phase/28-react-replay/magic-8-ball-demo
 
-[//]: # ( Paste in table above >> [📺][state-props-replay-lec] )
-[state-props-replay-lec]: https://youtu.be/tY48QY9GjC4
+[//]: # ( Paste in table above >> [📺][router-201-replay-lec] )
+[router-201-replay-lec]: https://youtu.be/MLa03jjmerE
 
-[//]: # ( Paste in table above >> [🧑‍💻][state-props-demo-replay] )
-[state-props-demo-replay]: 01-junior-phase/28-react-replay/pizza-demo
+[//]: # ( Paste in table above >> [🧑‍💻][router-201-demo-replay] )
+[router-201-demo-replay]: 01-junior-phase/28-react-replay/magic-8-ball-demo
 
-[//]: # ( Paste in table above >> [📺][am-replay-rev-2-3] )
-[am-replay-rev-2-3]: https://youtu.be/fwf6iQCB9eM
+[//]: # ( Paste in table above >> [📺][am-replay-rev-3-3] )
+[am-replay-rev-3-3]: https://youtu.be/fwf6iQCB9eM
 
 ##### Prior Content:
 
-[Intro to React](#day-3-react-router)
+[React Router](#day-3-react-router)
 
 #### Day 4: Veterans Day
 
@@ -1824,17 +1823,17 @@ ___
 | React Forms 101 + 201 | - | - | - |
 | Morning Review | - | - | - |
 
-[//]: # ( Paste in table above >> [📺][fullstack-data-flow-lec] )
-[fullstack-data-flow-lec]: #youtube-link-here
+[//]: # ( Paste in table above >> [📺][forms-replay-lec] )
+[forms-replay-lec]: #youtube-link-here
 
-[//]: # ( Paste in table above >> [🧑‍💻][fullstack-data-flow-demo] )
-[fullstack-data-flow-demo]:https://excalidraw.com/#json=5070617204228096,5qj4vXbJzxJ84FB8KVdxtg
+[//]: # ( Paste in table above >> [🧑‍💻][forms-replay-demo] )
+[forms-replay-demo]:https://excalidraw.com/#json=5070617204228096,5qj4vXbJzxJ84FB8KVdxtg
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-5] )
-[am-replay-rev-2-5]: #review-link-here
+[am-replay-rev-3-5]: #review-link-here
 
 ##### Prior Content:
 
-[Juke](#day-4-juke)
+[React Forms](#day-4-juke)
 
 </details>
 
