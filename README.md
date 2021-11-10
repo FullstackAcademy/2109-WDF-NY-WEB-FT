@@ -1759,7 +1759,7 @@ ___
 | React-Redux `connect` review | [📺][react-redux-lec-replay] | - | [🧑‍💻][react-redux-demo-replay] |
 | Redux Thunks  | [📺][thunks-lec-replay] | - | [🧑‍💻][thunks-demo-replay] |
 | Redux `combineReducers`  | [📺][combine-reducers-lec-replay] | - | [🧑‍💻][combine-reducers-demo-replay] |
-| Morning Review | - | - | - |
+| Morning Review | [📺][am-replay-rev-3-2] | - | - |
 
 [//]: # ( Paste in table above >> [📺][react-redux-lec-replay] )
 [react-redux-lec-replay]: https://youtu.be/-uljUfBcj_I
@@ -1780,7 +1780,7 @@ ___
 [combine-reducers-demo-replay]: 01-junior-phase/30-redux-thunks-replay/combine-reducers-end
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-3-2] )
-[am-replay-rev-3-2]: https://youtu.be/o16gHiI1Jdk
+[am-replay-rev-3-2]: https://youtu.be/vJrJdhPv4rM
 
 ##### Prior Content:
 
@@ -1790,25 +1790,24 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| React Router 101 | - | - | [🧑‍💻][router-101-demo-replay] |
-| React Router 201 | - | - | [🧑‍💻][router-201-demo-replay] |
-| Readium | - | - | - |
+| React Router 101 | [📺][router-101-replay-lec] | - | [🧑‍💻][router-101-demo-replay] |
+| React Router 201 | [📺][router-201-replay-lec] | - | [🧑‍💻][router-201-demo-replay] |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][router-101-replay-lec] )
-[router-101-replay-lec]: https://youtu.be/MLa03jjmerE
+[router-101-replay-lec]: https://youtu.be/On4FSHB-Z3w
 
 [//]: # ( Paste in table above >> [🧑‍💻][router-101-demo-replay] )
 [router-101-demo-replay]: https://github.com/orlandocaraballo/class-examples/tree/master/react-router-webpack
 
 [//]: # ( Paste in table above >> [📺][router-201-replay-lec] )
-[router-201-replay-lec]: https://youtu.be/MLa03jjmerE
+[router-201-replay-lec]: https://youtu.be/cgOVXccgYYY
 
 [//]: # ( Paste in table above >> [🧑‍💻][router-201-demo-replay] )
 [router-201-demo-replay]: https://github.com/orlandocaraballo/class-examples/tree/master/react-router-webpack
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-3-3] )
-[am-replay-rev-3-3]: https://youtu.be/fwf6iQCB9eM
+[am-replay-rev-3-3]: #review-link-here
 
 ##### Prior Content:
 
