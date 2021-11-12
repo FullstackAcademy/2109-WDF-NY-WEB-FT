@@ -1,0 +1,39 @@
+* {
+  font-family: 'Gill Sans';
+}
+
+h3 {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-cats {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.cat {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5em;
+  margin-bottom: 5px;
+  border: 1px solid black;
+}
+
+.container-form-field {
+  display: flex;
+  flex-direction: column;
+  padding: 2px 0;
+}
+
+img {
+  max-width: 50%;
+  max-height: 50%;
+}
+

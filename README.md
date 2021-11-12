@@ -1826,13 +1826,13 @@ ___
 [forms-replay-lec]: #youtube-link-here
 
 [//]: # ( Paste in table above >> [🧑‍💻][forms-replay-demo] )
-[forms-replay-demo]:https://excalidraw.com/#json=5070617204228096,5qj4vXbJzxJ84FB8KVdxtg
+[forms-replay-demo]:/01-junior-phase/32-react-forms
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-5] )
 [am-replay-rev-3-5]: #review-link-here
 
 ##### Prior Content:
 
-[React Forms](#day-4-juke)
+[React Forms](#day-4-react-forms)
 
 </details>
 

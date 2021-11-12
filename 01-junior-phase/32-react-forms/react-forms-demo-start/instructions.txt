@@ -1,0 +1,12 @@
+1. Add onSubmit handler to form element in form component
+    onSubmit is the same thing as form.addEventListener('submit', (e) => {})
+
+2. Write handleSubmit(event) method
+
+3. If we want to control our form data, where should we store our form data so that we can check it every time it changes? in state.
+
+4. Define constructor and state
+
+5. Define a handleChange() to update what's on state every time our user's input changes
+
+6. We want to control the input by having the state reflect in our user's values. add value attribute to <input> elemtns
