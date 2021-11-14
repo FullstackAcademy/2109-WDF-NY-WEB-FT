@@ -1792,7 +1792,7 @@ ___
 | ----- | ------- | ------ | ---- |
 | React Router 101 | [📺][router-101-replay-lec] | - | [🧑‍💻][router-101-demo-replay] |
 | React Router 201 | [📺][router-201-replay-lec] | - | [🧑‍💻][router-201-demo-replay] |
-| Morning Review | - | - | - |
+| Morning Review | [📺][am-replay-rev-3-3] | - | - |
 
 [//]: # ( Paste in table above >> [📺][router-101-replay-lec] )
 [router-101-replay-lec]: https://youtu.be/On4FSHB-Z3w
@@ -1807,7 +1807,7 @@ ___
 [router-201-demo-replay]: https://github.com/orlandocaraballo/class-examples/tree/master/react-router-webpack
 
 [//]: # ( Paste in table above >> [📺][am-replay-rev-3-3] )
-[am-replay-rev-3-3]: #review-link-here
+[am-replay-rev-3-3]: https://youtu.be/Ck4r-zTI5WM
 
 ##### Prior Content:
 
@@ -1819,11 +1819,11 @@ ___
 
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
-| React Forms 101 + 201 | - | - | - |
+| React Forms 101 + 201 | [📺][forms-replay-lec] | - | - |
 | Morning Review | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][forms-replay-lec] )
-[forms-replay-lec]: #youtube-link-here
+[forms-replay-lec]: https://youtu.be/RFsU7vX5PT8
 
 [//]: # ( Paste in table above >> [🧑‍💻][forms-replay-demo] )
 [forms-replay-demo]:/01-junior-phase/32-react-forms
