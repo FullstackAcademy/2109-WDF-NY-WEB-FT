@@ -109,7 +109,7 @@ ___
 | Express & Sequelize | [🔗][ckpt-express-sequelize] | Sun 10/03 6PM EST | [👾][ckpt-express-sequelize-sol] | [📺][ckpt-express-sequelize-video]
 | Pillars | [🔗][pillars] | Wed 10/05 6PM EST | - | [📺][pillars-rev] |
 | React | [🔗][ckpt-react] | Sun 10/10 6 PM EST | [👾][ckpt-react-sol] | [📺][ckpt-react-rev] |
-| Redux | [🔗][ckpt-redux] | Sun 10/17 6 PM EST | - | - |
+| Redux | [🔗][ckpt-redux] | Sun 10/17 6 PM EST | [👾][ckpt-redux-sol] | - |
 <!-- | JPFP | [🔗][jpfp] | - | - | -->
 <!-- | Data Structures | [🔗][ckpt-data-structures] | - | - | -->
 
