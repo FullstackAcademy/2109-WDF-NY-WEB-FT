@@ -1820,7 +1820,7 @@ ___
 | Topic | Lecture | Slides | Demo |
 | ----- | ------- | ------ | ---- |
 | React Forms 101 + 201 | [📺][forms-replay-lec] | - | - |
-| Morning Review | - | - | - |
+| Morning Review | [📺][am-replay-rev-2-5] | - | - |
 
 [//]: # ( Paste in table above >> [📺][forms-replay-lec] )
 [forms-replay-lec]: https://youtu.be/RFsU7vX5PT8
@@ -1828,7 +1828,7 @@ ___
 [//]: # ( Paste in table above >> [🧑‍💻][forms-replay-demo] )
 [forms-replay-demo]:/01-junior-phase/32-react-forms
 [//]: # ( Paste in table above >> [📺][am-replay-rev-2-5] )
-[am-replay-rev-3-5]: #review-link-here
+[am-replay-rev-3-5]: https://youtu.be/pVsM1YC0ZbU
 
 ##### Prior Content:
 
