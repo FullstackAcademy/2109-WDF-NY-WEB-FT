@@ -1866,6 +1866,7 @@ ___
 [//]: # ( Paste in table above, already linked at top in Checkpoints section >> [🔗][jpfp] )
 
 </details>
+
 ___
 
 ### **Week 10: Async Week Workshops and Materials**
@@ -1878,7 +1879,7 @@ Below are the **mandatory** topics to complete ***before*** Senior Phase starts!
 | ----- | ------------ | -------- | ------ |
 | ⭐️ Boilermaker | [🔗][boilermaker-workshop] | [👾][boilermaker-sol] | [📺- Security][security-playlist] [📺- Testing][Intro to testing playlist]  |
 | 🛫 Deployment | [🔗][deployment-workshop] | - | [📺][heroku-video] |
-| 🔍 Project (AWP) ***due Friday, 1pm EST*** | [🔗][awp-overview] | - | - |
+| 🔍 Project (AWP) ***due Sunday, Dec 13th 11:59 PM*** | [🔗][awp-overview] | - | - |
 | AGILE Development| [📺][agile-lec] | - | - |
 | Giving Feedback| [📺][feedback-lec] | - | - |
 | 🚨 Security - Optional! | See below! | - | - |
