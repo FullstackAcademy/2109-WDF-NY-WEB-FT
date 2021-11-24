@@ -1871,15 +1871,15 @@ ___
 
 ### **Week 10: Async Week Workshops and Materials**
 
-<!-- <details><summary>Click to view</summary> -->
+<details><summary>Click to view</summary>
 
 Below are the **mandatory** topics to complete ***before*** Senior Phase starts!
 
 | Topic | Link | Solution | Review |
 | ----- | ------------ | -------- | ------ |
 | ⭐️ Boilermaker | [🔗][boilermaker-workshop] | [👾][boilermaker-sol] | [📺- Security][security-playlist] [📺- Testing][Intro to testing playlist]  |
-| 🛫 Deployment | [🔗][deployment-workshop] | - | [📺][heroku-video] |
-| 🔍 Project (AWP) ***due Sunday, Dec 13th 11:59 PM*** | [🔗][awp-overview] | - | - |
+| 🛫 Deployment | [📺][heroku-video] | - | - |
+| 🔍 Project (AWP) | [🔗][awp-overview] | - | - |
 | AGILE Development| [📺][agile-lec] | - | - |
 | Giving Feedback| [📺][feedback-lec] | - | - |
 | 🚨 Security - Optional! | See below! | - | - |
@@ -1933,15 +1933,16 @@ Feel free to read as much as you can, but there is _a lot_ to cover so **don't w
 [https-intro]: http://robertheaton.com/2014/03/27/how-does-https-actually-work/
 [public-key-crypto]: https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5
 
-<!-- </details> -->
+</details>
 
 </details>
+
 
 ___
 
 ### **Week 11: Data Structures, Algorithms, Advanced Content**
 
-<details><summary>Click to view</summary>
+<!-- <details><summary>Click to view</summary> -->
 
 #### Day 1: JWT Authentication
 
