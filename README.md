@@ -1951,16 +1951,16 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| JWT | - | [🖼️][jwt-slides] | - | - | - |
-| Authentication | - | - | - | - | - |
+| JWT | [📺][jwt-lec] | [🖼️][jwt-slides] | - | - | - |
+| Authentication | - | - | - | [👾][authentication-sol] | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][jwt-lec] )
-[jwt-lec]: #paste-YouTube-link-here
+[jwt-lec]: https://youtu.be/t_3GjJHjZow
 [jwt-slides]: https://docs.google.com/presentation/d/10xFSLjUGROHLZM1HtMsKzWKZh04UPf-UpHCu7582tsQ/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [👾][authentication-sol] )
-[authentication-sol]: ###
+[authentication-sol]: 01-junior-phase/33-authentication
 
 [//]: # ( Paste in table above >> [📺][am-rev-6-4] )
 [am-rev-6-4]: #paste-YouTube-link-here
