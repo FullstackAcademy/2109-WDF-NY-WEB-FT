@@ -2021,7 +2021,7 @@ ___
 [//]: # ( Paste in table above >> [📺][am-rev-6-2] )
 [am-rev-6-2]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🎟][am-rev-6-2-ticket] )
-[am-rev-6-2-ticket]: https://forms.gle/u1C4s93bLhZhjw9h7
+[am-rev-6-2-ticket]: https://forms.gle/Qm5znNbaV3ghRj4T6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-2-demo] )
 [am-rev-6-2-demo]: #link-demo-here
 [//]: # ( Paste in table above >> [👾][am-rev-6-2-sol] )
