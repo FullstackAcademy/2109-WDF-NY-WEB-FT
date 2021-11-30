@@ -1995,7 +1995,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Algorithms & Analysis | [📺][big-o-lec] | [🖼️][big-o-slides] | - | - | - |
 | Bubble Sort | [📺][bubble-sort-lec] | [🖼️][bubble-sort-slides] | - | [👾][bubble-sort-sol] | - |
-| Merge Sort | - | [🖼️][merge-sort-slides] | - | [👾][merge-sort-sol] | - |
+| Merge Sort | [📺][merge-sort-lec] | [🖼️][merge-sort-slides] | - | [👾][merge-sort-sol] | - |
 | Morning Review | - | [🎟][am-rev-6-2-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][big-o-lec] )
@@ -2011,7 +2011,7 @@ ___
 [bubble-sort-rev]: ###
 
 [//]: # ( Paste in table above >> [📺][merge-sort-lec] )
-[merge-sort-lec]: #paste-YouTube-link-here
+[merge-sort-lec]: https://youtu.be/916p_snMGQ0
 [merge-sort-slides]: https://docs.google.com/presentation/d/1bzAOKas12vcGvCuh_GdhfCoW1JHouFWoGj1n8K5DjrY/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][merge-sort-sol] )
 [merge-sort-sol]: 01-junior-phase/34-algos/PairExercise.MergeSort.Solution-main
