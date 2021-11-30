@@ -1953,7 +1953,7 @@ ___
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | JWT | [📺][jwt-lec] | [🖼️][jwt-slides] | - | - | - |
 | Authentication | - | - | - | [👾][authentication-sol] | - |
-| Morning Review | - | - | - | - | - |
+| Morning Review | [📺][am-rev-6-4] | [🎟][am-rev-6-4-ticket] | - | [👾][am-rev-6-4-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][jwt-lec] )
 [jwt-lec]: https://youtu.be/t_3GjJHjZow
@@ -1963,7 +1963,7 @@ ___
 [authentication-sol]: 01-junior-phase/33-authentication
 
 [//]: # ( Paste in table above >> [📺][am-rev-6-4] )
-[am-rev-6-4]: #paste-YouTube-link-here
+[am-rev-6-4]: https://youtu.be/Ey6oq_kKxUo
 [//]: # ( Paste in table above >> [🎟][am-rev-6-4-ticket] )
 [am-rev-6-4-ticket]: https://forms.gle/1qHWCdDjfM5msrQ68
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-4-demo] )
@@ -1993,28 +1993,28 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Algorithms & Analysis | - | [🖼️][big-o-slides] | - | - | - |
-| Bubble Sort | - | [🖼️][bubble-sort-slides] | - | - | - |
-| Merge Sort | - | [🖼️][merge-sort-slides] | - | - |
-| Morning Review | - | - | - | - | - |
+| Algorithms & Analysis | [📺][big-o-lec] | [🖼️][big-o-slides] | - | - | - |
+| Bubble Sort | [📺][bubble-sort-lec] | [🖼️][bubble-sort-slides] | - | [👾][bubble-sort-sol] | - |
+| Merge Sort | - | [🖼️][merge-sort-slides] | - | [👾][merge-sort-sol] | - |
+| Morning Review | - | [🎟][am-rev-6-2-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][big-o-lec] )
-[big-o-lec]: #paste-YouTube-link-here
-[big-o-slides]: https://docs.google.com/presentation/d/1XEZTxq_PyuFhEk0f_wl_f25x1f1dDV7XAdJhfa6gp0E/edit?usp=sharing
+[big-o-lec]: https://youtu.be/JozVsx6q-wE
+[big-o-slides]: https://docs.google.com/presentation/d/1la5IAb1s2NZZDySKmsZgLDbwh_wk9HymUH4yE6rtUNg/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][bubble-sort-lec] )
-[bubble-sort-lec]: #paste-YouTube-link-here
-[bubble-sort-slides]: https://docs.google.com/presentation/d/1uytV7plwn3bK2syjRTXGnZj2Opu7gjt2fSBzaBqdh7E/edit?usp=sharing
+[bubble-sort-lec]: https://youtu.be/3RIezoAakVw
+[bubble-sort-slides]: https://docs.google.com/presentation/d/1CHnYo3N-PExYnqwKVKsvBPjEimgVejMfAEJN-M4XLBM/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][bubble-sort-sol] )
-[bubble-sort-sol]: ###
+[bubble-sort-sol]: 01-junior-phase/34-algos/PairExercise.BubbleSort.Solution-main
 [//]: # ( Paste in table above >> [📺][bubble-sort-rev] )
 [bubble-sort-rev]: ###
 
 [//]: # ( Paste in table above >> [📺][merge-sort-lec] )
 [merge-sort-lec]: #paste-YouTube-link-here
-[merge-sort-slides]: https://docs.google.com/presentation/d/1UyF-e9yBkfUBTqn9kut7S4EcjQi77xccaQAmwgospt8/edit?usp=sharing
+[merge-sort-slides]: https://docs.google.com/presentation/d/1bzAOKas12vcGvCuh_GdhfCoW1JHouFWoGj1n8K5DjrY/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][merge-sort-sol] )
-[merge-sort-sol]: ###
+[merge-sort-sol]: 01-junior-phase/34-algos/PairExercise.MergeSort.Solution-main
 [//]: # ( Paste in table above >> [📺][merge-sort-rev] )
 [merge-sort-rev]: ###
 
