@@ -1994,8 +1994,8 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Algorithms & Analysis | [📺][big-o-lec] | [🖼️][big-o-slides] | - | - | - |
-| Bubble Sort | [📺][bubble-sort-lec] | [🖼️][bubble-sort-slides] | - | [👾][bubble-sort-sol] | - |
-| Merge Sort | [📺][merge-sort-lec] | [🖼️][merge-sort-slides] | - | [👾][merge-sort-sol] | - |
+| Bubble Sort | [📺][bubble-sort-lec] | [🖼️][bubble-sort-slides] | [🧑‍💻][bubble-sort-demo] | [👾][bubble-sort-sol] | - |
+| Merge Sort | [📺][merge-sort-lec] | [🖼️][merge-sort-slides] | [🧑‍💻][merge-sort-demo] | [👾][merge-sort-sol] | - |
 | Morning Review | - | [🎟][am-rev-6-2-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][big-o-lec] )
@@ -2007,6 +2007,8 @@ ___
 [bubble-sort-slides]: https://docs.google.com/presentation/d/1CHnYo3N-PExYnqwKVKsvBPjEimgVejMfAEJN-M4XLBM/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][bubble-sort-sol] )
 [bubble-sort-sol]: 01-junior-phase/34-algos/PairExercise.BubbleSort.Solution-main
+[//]: # ( Paste in table above >> [🧑‍💻][bubble-sort-demo] )
+[bubble-sort-demo]: https://github.com/orlandocaraballo/class-examples/blob/master/sorting/bubbleSort.js
 [//]: # ( Paste in table above >> [📺][bubble-sort-rev] )
 [bubble-sort-rev]: ###
 
@@ -2015,6 +2017,8 @@ ___
 [merge-sort-slides]: https://docs.google.com/presentation/d/1bzAOKas12vcGvCuh_GdhfCoW1JHouFWoGj1n8K5DjrY/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][merge-sort-sol] )
 [merge-sort-sol]: 01-junior-phase/34-algos/PairExercise.MergeSort.Solution-main
+[//]: # ( Paste in table above >> [🧑‍💻][merge-sort-demo] )
+[merge-sort-demo]: https://github.com/orlandocaraballo/class-examples/blob/master/sorting/mergeSort.js
 [//]: # ( Paste in table above >> [📺][merge-sort-rev] )
 [merge-sort-rev]: ###
 
