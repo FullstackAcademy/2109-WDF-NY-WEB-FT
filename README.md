@@ -1980,72 +1980,7 @@ ___
 
 
 
-
-#### Day 2: Data Structures (Stacks, Queues & Linked Lists)
-
-- Pre-Work:
-  - [Stacks and queues: the basics][stacks-queues-basics]
-  - [Linked Lists in 10 minutes][linked-lists-10-min]
-  - [Binary Search][binary-search-vid]
-
-[stacks-queues-basics]: https://youtu.be/6QS_Cup1YoI
-[linked-lists-10-min]: https://youtu.be/LOHBGyK3Hbs
-[binary-search-vid]: https://youtu.be/D5SrAga1pno
-
-| Topic | Lecture | Slides | Demo | Solution | Review |
-| ----- | ------- | ------ | ---- | -------- | ------ |
-| Stacks & Queues | - | [🖼️][stacks-queues-slides] | - | - | - |
-| Linked Lists | - | [🖼️][linked-lists-slides] | - | - | - |
-| Binary Search Trees | - | [🖼️][bst-slides] | - | - | - |
-| Morning Review | - | - | - | - | - |
-
-[//]: # ( Paste in table above >> [📺][stacks-queues-lec] )
-[stacks-queues-lec]: #paste-YouTube-link-here
-[stacks-queues-slides]: https://docs.google.com/presentation/d/1O0slGUG0lbXUXL6lUTO_VfhpnO6dBDOxfl-PP_r8O84/edit?usp=sharing
-
-[//]: # ( Paste in table above >> [📺][linked-lists-lec] )
-[linked-lists-lec]: #paste-YouTube-link-here
-[linked-lists-slides]: https://docs.google.com/presentation/d/1WGDpT3tCybZCs8s9jxeQx2Q9WyoZRrOiUtBoAG-UO_w/edit?usp=sharing
-[//]: # ( Paste in table above >> [👾][linked-lists-sol] )
-[linked-lists-sol]: ###
-[//]: # ( Paste in table above >> [📺][linked-lists-rev] )
-[linked-lists-rev]: ###
-
-[//]: # ( Paste in table above >> [📺][bst-lec] )
-[bst-lec]: #paste-YouTube-link-here
-[bst-slides]: https://docs.google.com/presentation/d/1X9gjfbZjp-jJGr-xkyxpVa9z36LHK_SWym4gV1bxV5c/edit?usp=sharing
-[//]: # ( Paste in table above >> [👾][bst-sol] )
-[bst-sol]: ###
-[//]: # ( Paste in table above >> [📺][bst-rev] )
-[bst-rev]: ###
-
-[//]: # ( Paste in table above >> [📺][am-rev-6-1] )
-[am-rev-6-1]: #paste-YouTube-link-here
-[//]: # ( Paste in table above >> [🎟][am-rev-6-1-ticket] )
-[am-rev-6-1-ticket]: https://forms.gle/KDcgKxmUTUih3vJZ9
-[//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-1-demo] )
-[am-rev-6-1-demo]: #link-demo-here
-[//]: # ( Paste in table above >> [👾][am-rev-6-1-sol] )
-[am-rev-6-1-sol]: 01-junior-phase/exit-ticket-solutions/27-data-structures.md
-
-- **You should be able to:**
-  - Describe how both a stack and a queue work (how are they different, what similarities do they have, etc)
-  - Implement a Linked List and BST class
-  - Explain the high-level differences between depth-first and breadth-first search
-  - Explain the differences between pre-order, in-order, and post-order processing
-
-**<details><summary>Extra Resources:</summary>**
-
-  - [Computer Science Fundamentals][cs-fun]
-  - [Data Structures 101: Binary Search Trees][bst-intro]
-
-[cs-fun]: https://www.youtube.com/watch?v=5pmSAEeMsfo
-[bst-intro]: https://medium.freecodecamp.org/data-structures-101-binary-search-tree-398267b6bff0
-
-</details>
-
-
-#### Day 3: Algorithms & Analysis, Sorting
+#### Day 2: Algorithms & Analysis, Sorting
 
 - Pre-Work:
   - [Big-O notation in 5 minutes - The basics][big-o-basics]
@@ -2112,6 +2047,69 @@ ___
 
 [sorting-algos]: https://brilliant.org/wiki/sorting-algorithms/
 [big-o-big-theta]: https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation
+
+</details>
+
+#### Day 3: Data Structures (Stacks, Queues & Linked Lists)
+
+- Pre-Work:
+  - [Stacks and queues: the basics][stacks-queues-basics]
+  - [Linked Lists in 10 minutes][linked-lists-10-min]
+  - [Binary Search][binary-search-vid]
+
+[stacks-queues-basics]: https://youtu.be/6QS_Cup1YoI
+[linked-lists-10-min]: https://youtu.be/LOHBGyK3Hbs
+[binary-search-vid]: https://youtu.be/D5SrAga1pno
+
+| Topic | Lecture | Slides | Demo | Solution | Review |
+| ----- | ------- | ------ | ---- | -------- | ------ |
+| Stacks & Queues | - | [🖼️][stacks-queues-slides] | - | - | - |
+| Linked Lists | - | [🖼️][linked-lists-slides] | - | - | - |
+| Binary Search Trees | - | [🖼️][bst-slides] | - | - | - |
+| Morning Review | - | - | - | - | - |
+
+[//]: # ( Paste in table above >> [📺][stacks-queues-lec] )
+[stacks-queues-lec]: #paste-YouTube-link-here
+[stacks-queues-slides]: https://docs.google.com/presentation/d/1O0slGUG0lbXUXL6lUTO_VfhpnO6dBDOxfl-PP_r8O84/edit?usp=sharing
+
+[//]: # ( Paste in table above >> [📺][linked-lists-lec] )
+[linked-lists-lec]: #paste-YouTube-link-here
+[linked-lists-slides]: https://docs.google.com/presentation/d/1WGDpT3tCybZCs8s9jxeQx2Q9WyoZRrOiUtBoAG-UO_w/edit?usp=sharing
+[//]: # ( Paste in table above >> [👾][linked-lists-sol] )
+[linked-lists-sol]: ###
+[//]: # ( Paste in table above >> [📺][linked-lists-rev] )
+[linked-lists-rev]: ###
+
+[//]: # ( Paste in table above >> [📺][bst-lec] )
+[bst-lec]: #paste-YouTube-link-here
+[bst-slides]: https://docs.google.com/presentation/d/1X9gjfbZjp-jJGr-xkyxpVa9z36LHK_SWym4gV1bxV5c/edit?usp=sharing
+[//]: # ( Paste in table above >> [👾][bst-sol] )
+[bst-sol]: ###
+[//]: # ( Paste in table above >> [📺][bst-rev] )
+[bst-rev]: ###
+
+[//]: # ( Paste in table above >> [📺][am-rev-6-1] )
+[am-rev-6-1]: #paste-YouTube-link-here
+[//]: # ( Paste in table above >> [🎟][am-rev-6-1-ticket] )
+[am-rev-6-1-ticket]: https://forms.gle/KDcgKxmUTUih3vJZ9
+[//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-1-demo] )
+[am-rev-6-1-demo]: #link-demo-here
+[//]: # ( Paste in table above >> [👾][am-rev-6-1-sol] )
+[am-rev-6-1-sol]: 01-junior-phase/exit-ticket-solutions/27-data-structures.md
+
+- **You should be able to:**
+  - Describe how both a stack and a queue work (how are they different, what similarities do they have, etc)
+  - Implement a Linked List and BST class
+  - Explain the high-level differences between depth-first and breadth-first search
+  - Explain the differences between pre-order, in-order, and post-order processing
+
+**<details><summary>Extra Resources:</summary>**
+
+  - [Computer Science Fundamentals][cs-fun]
+  - [Data Structures 101: Binary Search Trees][bst-intro]
+
+[cs-fun]: https://www.youtube.com/watch?v=5pmSAEeMsfo
+[bst-intro]: https://medium.freecodecamp.org/data-structures-101-binary-search-tree-398267b6bff0
 
 </details>
 
