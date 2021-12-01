@@ -2068,8 +2068,8 @@ ___
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
 | Stacks & Queues | - | [🖼️][stacks-queues-slides] | - | - | - |
-| Linked Lists | - | [🖼️][linked-lists-slides] | - | - | - |
-| Binary Search Trees | - | [🖼️][bst-slides] | - | - | - |
+| Linked Lists | - | [🖼️][linked-lists-slides] | - | [👾][linked-lists-sol] | - |
+| Binary Search Trees | - | [🖼️][bst-slides] | - | [👾][bst-sol] | - |
 | Morning Review | - | - | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][stacks-queues-lec] )
@@ -2080,7 +2080,7 @@ ___
 [linked-lists-lec]: #paste-YouTube-link-here
 [linked-lists-slides]: https://docs.google.com/presentation/d/1WGDpT3tCybZCs8s9jxeQx2Q9WyoZRrOiUtBoAG-UO_w/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][linked-lists-sol] )
-[linked-lists-sol]: ###
+[linked-lists-sol]: 01-junior-phase/35-data-structures/PairExercise.LinkedList.Solution-main
 [//]: # ( Paste in table above >> [📺][linked-lists-rev] )
 [linked-lists-rev]: ###
 
@@ -2088,7 +2088,7 @@ ___
 [bst-lec]: #paste-YouTube-link-here
 [bst-slides]: https://docs.google.com/presentation/d/1X9gjfbZjp-jJGr-xkyxpVa9z36LHK_SWym4gV1bxV5c/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][bst-sol] )
-[bst-sol]: ###
+[bst-sol]: 01-junior-phase/35-data-structures/PairExercise.BinarySearchTree.Solution-main
 [//]: # ( Paste in table above >> [📺][bst-rev] )
 [bst-rev]: ###
 

@@ -1,0 +1,12 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "learn about linked lists through implementation and simulation",
+  "scripts": {
+    "test": "mocha --timeout 5000 ./test/linked-list.spec.js --watch"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "learn about binary search trees through implementation and simulation",
+  "scripts": {
+    "test": "mocha --timeout 5000 ./test/bst.spec.js --watch"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  }
+}
