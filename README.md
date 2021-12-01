@@ -154,9 +154,8 @@ ___
 | Study Saturday: Express & Sequelize | [🔗][ss-express-sequelize] | [👾][ss-express-sequelize-sol] |
 | Cody's Cafe | [🔗][codys-cafe-repo] | [👾][codys-cafe-sol] |
 | Study Saturday: React | [🔗][ss-react] | [👾][ss-react-sol] |
-<!-- | Cody's Cafe | [🔗][codys-cafe-repo] | [👾][codys-cafe-sol] | -->
+| Goodie Bag | [🔗][goodie-bag] | [👾][goodie-bag-sol] |
 <!-- | Cody's Quiz | [🔗][codys-quiz-repo] | [👾][codys-quiz-sol] | -->
-<!-- | Goodie Bag | [🔗][goodie-bag] | - | -->
 <!-- | Study Saturday: Fullstack Flow | [🔗][ss-fullstack] | [👾][ss-fullstack-sol] | -->
 
 [//]: # ( Open Study Saturday material the following Monday )
@@ -171,6 +170,7 @@ ___
 [ss-react-sol]: #tba
 
 [goodie-bag]: https://learn.fullstackacademy.com/workshop/5f077126514d6d000422faa4/landing
+[goodie-bag-sol]: https://github.com/FullstackAcademy/GoodieBag.Solution
 
 [ss-fullstack]: https://github.com/FullstackAcademy/Study-Saturday-Fullstack
 [ss-fullstack-sol]: #tba
