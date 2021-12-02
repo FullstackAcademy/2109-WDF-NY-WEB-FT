@@ -1996,7 +1996,7 @@ ___
 | Algorithms & Analysis | [📺][big-o-lec] | [🖼️][big-o-slides] | - | - | - |
 | Bubble Sort | [📺][bubble-sort-lec] | [🖼️][bubble-sort-slides] | [🧑‍💻][bubble-sort-demo] | [👾][bubble-sort-sol] | - |
 | Merge Sort | [📺][merge-sort-lec] | [🖼️][merge-sort-slides] | [🧑‍💻][merge-sort-demo] | [👾][merge-sort-sol] | - |
-| Morning Review | - | [🎟][am-rev-6-2-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-6-2] | [🎟][am-rev-6-2-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][big-o-lec] )
 [big-o-lec]: https://youtu.be/JozVsx6q-wE
@@ -2023,7 +2023,7 @@ ___
 [merge-sort-rev]: ###
 
 [//]: # ( Paste in table above >> [📺][am-rev-6-2] )
-[am-rev-6-2]: #paste-YouTube-link-here
+[am-rev-6-2]: https://youtu.be/dumuvKrx9Ng
 [//]: # ( Paste in table above >> [🎟][am-rev-6-2-ticket] )
 [am-rev-6-2-ticket]: https://forms.gle/Qm5znNbaV3ghRj4T6
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-2-demo] )
@@ -2067,30 +2067,30 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Stacks & Queues | - | [🖼️][stacks-queues-slides] | - | - | - |
-| Linked Lists | - | [🖼️][linked-lists-slides] | - | [👾][linked-lists-sol] | - |
-| Binary Search Trees | - | [🖼️][bst-slides] | - | [👾][bst-sol] | - |
-| Morning Review | - | - | - | - | - |
+| Stacks & Queues | [📺][stacks-queues-lec] | [🖼️][stacks-queues-slides] | - | - | - |
+| Linked Lists | [📺][linked-lists-lec] | [🖼️][linked-lists-slides] | - | [👾][linked-lists-sol] | [📺][linked-lists-rev] |
+| Binary Search Trees | [📺][bst-lec] | [🖼️][bst-slides] | - | [👾][bst-sol] | [📺][bst-rev] |
+| Morning Review | - | [🎟][am-rev-6-1-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][stacks-queues-lec] )
-[stacks-queues-lec]: #paste-YouTube-link-here
+[stacks-queues-lec]: https://youtu.be/dRb7xW92fQQ
 [stacks-queues-slides]: https://docs.google.com/presentation/d/1O0slGUG0lbXUXL6lUTO_VfhpnO6dBDOxfl-PP_r8O84/edit?usp=sharing
 
 [//]: # ( Paste in table above >> [📺][linked-lists-lec] )
-[linked-lists-lec]: #paste-YouTube-link-here
+[linked-lists-lec]: https://youtu.be/4EHGLExlkzE
 [linked-lists-slides]: https://docs.google.com/presentation/d/1WGDpT3tCybZCs8s9jxeQx2Q9WyoZRrOiUtBoAG-UO_w/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][linked-lists-sol] )
 [linked-lists-sol]: 01-junior-phase/35-data-structures/PairExercise.LinkedList.Solution-main
 [//]: # ( Paste in table above >> [📺][linked-lists-rev] )
-[linked-lists-rev]: ###
+[linked-lists-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmR3kE0iA2eIYNS_beMg8ti
 
 [//]: # ( Paste in table above >> [📺][bst-lec] )
-[bst-lec]: #paste-YouTube-link-here
+[bst-lec]: https://youtu.be/GPYdX1b6SBA
 [bst-slides]: https://docs.google.com/presentation/d/1X9gjfbZjp-jJGr-xkyxpVa9z36LHK_SWym4gV1bxV5c/edit?usp=sharing
 [//]: # ( Paste in table above >> [👾][bst-sol] )
 [bst-sol]: 01-junior-phase/35-data-structures/PairExercise.BinarySearchTree.Solution-main
 [//]: # ( Paste in table above >> [📺][bst-rev] )
-[bst-rev]: ###
+[bst-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B
 
 [//]: # ( Paste in table above >> [📺][am-rev-6-1] )
 [am-rev-6-1]: #paste-YouTube-link-here
