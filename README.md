@@ -1996,7 +1996,7 @@ ___
 | Algorithms & Analysis | [📺][big-o-lec] | [🖼️][big-o-slides] | - | - | - |
 | Bubble Sort | [📺][bubble-sort-lec] | [🖼️][bubble-sort-slides] | [🧑‍💻][bubble-sort-demo] | [👾][bubble-sort-sol] | - |
 | Merge Sort | [📺][merge-sort-lec] | [🖼️][merge-sort-slides] | [🧑‍💻][merge-sort-demo] | [👾][merge-sort-sol] | - |
-| Morning Review | [📺][am-rev-6-2] | [🎟][am-rev-6-2-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-6-2] | [🎟][am-rev-6-2-ticket] | - | [👾][am-rev-6-2-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][big-o-lec] )
 [big-o-lec]: https://youtu.be/JozVsx6q-wE
@@ -2070,7 +2070,7 @@ ___
 | Stacks & Queues | [📺][stacks-queues-lec] | [🖼️][stacks-queues-slides] | - | - | - |
 | Linked Lists | [📺][linked-lists-lec] | [🖼️][linked-lists-slides] | - | [👾][linked-lists-sol] | [📺][linked-lists-rev] |
 | Binary Search Trees | [📺][bst-lec] | [🖼️][bst-slides] | - | [👾][bst-sol] | [📺][bst-rev] |
-| Morning Review | - | [🎟][am-rev-6-1-ticket] | - | - | - |
+| Morning Review | [📺][am-rev-6-1] | [🎟][am-rev-6-1-ticket] | - | [👾][am-rev-6-1-sol] | - |
 
 [//]: # ( Paste in table above >> [📺][stacks-queues-lec] )
 [stacks-queues-lec]: https://youtu.be/dRb7xW92fQQ
@@ -2093,7 +2093,7 @@ ___
 [bst-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B
 
 [//]: # ( Paste in table above >> [📺][am-rev-6-1] )
-[am-rev-6-1]: #paste-YouTube-link-here
+[am-rev-6-1]: https://youtu.be/1lpCBOSkhY8
 [//]: # ( Paste in table above >> [🎟][am-rev-6-1-ticket] )
 [am-rev-6-1-ticket]: https://forms.gle/KDcgKxmUTUih3vJZ9
 [//]: # ( Paste in table above >> [🧑‍💻][am-rev-6-1-demo] )
@@ -2124,25 +2124,32 @@ ___
 
 | Topic | Lecture | Slides | Demo | Solution | Review |
 | ----- | ------- | ------ | ---- | -------- | ------ |
-| Hash Tables | - | [🖼️][hash-table-slides] | - | - | - |
-| Algorithmic Problem Solving | - | [🖼️][algorithmic-prob-slides] | - | - | - |
-| Search &&! Destroy | - | - | - | - | - |
-| Morning Review | - | - | - | - | - |
+| Hash Tables | [📺][hash-table-lec] | [🖼️][hash-table-slides] | - | - | - |
+| Algorithmic Problem Solving | [📺][algorithmic-prob-lec] | [🖼️][algorithmic-prob-slides] | - | - | - |
+| Search &&! Destroy | - | - | - | [👾][search-destroy-sol] | [Binary Search][search-destroy-rev-binary-search] / [Looper][search-destroy-rev-looper] / [Min Jumps][search-destroy-rev-min-jumps] |
+| Morning Review | - | [🎟][am-rev-6-3-ticket] | - | - | - |
 
 [//]: # ( Paste in table above >> [📺][hash-table-lec] )
-[hash-table-lec]: #paste-YouTube-link-here
-[hash-table-slides]: https://docs.google.com/presentation/d/1y6ZqABDfxA6tNuAAhC-PoSHFaJPEK0HO-ys113o5CzY/edit?usp=sharing
+[hash-table-lec]: https://youtu.be/0DyguArqoDA
+[hash-table-slides]: https://docs.google.com/presentation/d/1oftM5A6NQPbCYkgruEVBQYgdxxPQA9iWtv5vXTFUGvk/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][hash-table-demo] )
 [hash-table-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [📺][algorithmic-prob-lec] )
-[algorithmic-prob-lec]: #paste-YouTube-link-here
-[algorithmic-prob-slides]: https://docs.google.com/presentation/d/1-JH0S0ZdYgaLWtofxyAfGvm9vHrDzIHD-r0-CGJjrEA/edit?usp=sharing
+[algorithmic-prob-lec]: https://youtu.be/JakffnEFOd8
+[algorithmic-prob-slides]: https://docs.google.com/presentation/d/1DUxkLXiMM_pynyxdy0TSVqL6TDwxjQOaQTun4NkM_GA/edit?usp=sharing
 [//]: # ( Paste in table above >> [🧑‍💻][algorithmic-prob-demo] )
 [algorithmic-prob-demo]: #link-demo-here
 
 [//]: # ( Paste in table above >> [👾][search-destroy-sol] )
-[search-destroy-sol]: ###
+[search-destroy-sol]: 01-junior-phase/36-hash-tables/search-and-destroy-solution
+[//]: # ( Paste in table above >> [📺][search-destroy-rev-binary-search] )
+[search-destroy-rev-binary-search]: https://www.youtube.com/watch?v=1mtCbgI2JCI
+[//]: # ( Paste in table above >> [📺][search-destroy-rev-looper] )
+[search-destroy-rev-looper]: https://www.youtube.com/watch?v=-NJFXtd_No4
+[//]: # ( Paste in table above >> [📺][search-destroy-rev-min-jumps] )
+[search-destroy-rev-min-jumps]: https://www.youtube.com/watch?v=pUgBz-HV20U
+
 
 [//]: # ( Paste in table above >> [📺][am-rev-6-3] )
 [am-rev-6-3]: #paste-YouTube-link-here
