@@ -1,19 +1,29 @@
-'use strict';
+"use strict";
 
-const binarySearch = (array, target, left = 0, right = array.length) => {
-	let toCheck = Math.floor((left + right) / 2 );
-	if(right < left){
-		return false
-	} 
-	if(array[toCheck] === target){
-		return true	
-	} else if(array[toCheck] > target){
-		right = toCheck - 1
-		return binarySearch(array, target, left, right);
-	} else {
-		left = toCheck + 1
-		return binarySearch(array, target, left, right);
-	}
+// [-14, -3, -1, 0, 24, 49, 60], 24
+const binarySearch = (
+  array,
+  target,
+  leftIndex = 0,
+  rightIndex = array.length
+) => {
+  let midpointIndex = Math.floor((leftIndex + rightIndex) / 2);
+
+  if (rightIndex < leftIndex) {
+    return false;
+  }
+
+  if (array[midpointIndex] === target) {
+    return true;
+  } else if (array[midpointIndex] > target) {
+    rightIndex = midpointIndex - 1;
+    return binarySearch(array, target, leftIndex, rightIndex);
+  } else {
+    leftIndex = midpointIndex + 1;
+    return binarySearch(array, target, leftIndex, rightIndex);
+  }
 };
 
-module.exports = binarySearch
+console.log(binarySearch([-14, -3, -1, 0, 24, 49, 60], 1000));
+
+module.exports = binarySearch;
