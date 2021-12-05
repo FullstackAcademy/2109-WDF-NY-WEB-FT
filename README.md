@@ -2226,12 +2226,12 @@ ___
 | Topic | Lecture | Slides | 1 | 2 | 3 | 4 |
 | ----- | ------- | ------ | - | - | - | - |
 | Intro to Problem Solving & The Big O | - | - | - | - | - | - |
-| Data Structures I: Stacks, Queues, Linked Lists | - | - | - | - | - | - |
+<!-- | Data Structures I: Stacks, Queues, Linked Lists | - | - | - | - | - | - |
 | Data Structures II: Trees, Graphs | - | - | - | - | - | - |
 | System Design I: Object Oriented Design | - | - | - | - | - | - |
 | System Design II: Architecture | - | - | - | - | - | - |
 | Recursion & Dynamic Programming | - | - | - | - | - | - |
-| Web & Miscellaneous | - | - | - | - | - | - |
+| Web & Miscellaneous | - | - | - | - | - | - | -->
 
 [//]: # ( Intro to Problem Solving & The Big O )
 [//]: # ( Paste in table above >> [📺][reacto-intro-lec] )
@@ -2315,10 +2315,10 @@ ___
 | ----- | ------ | ------- |
 | Intro to Grace Shopper & </br> How to Work Together | - | - |
 | Grace Shopper Tiers | - | - |
-| Grace Shopper Presentation | - | - |
+<!-- | Grace Shopper Presentation | - | - |
 | **Stackathon** |  | |
 | **Capstone** |  |  |
-| Demo Day Brief & </br> Presentation | - | - |
+| Demo Day Brief & </br> Presentation | - | - | -->
 
 [//]: # ( Paste above >> [📺][gs-intro-lec] </br> [📺][work-together-lec] )
 [gs-intro-lec]: #paste-YouTube-link-here
