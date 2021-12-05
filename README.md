@@ -2190,7 +2190,7 @@ ___
 [//]: # ( Paste above >> [📺][survival-guide-lec] )
 [survival-guide-lec]: #paste-YouTube-link-here
 [//]: # ( Paste above >> [🖼️][survival-guide-slides] )
-[survival-guide-slides]: https://docs.google.com/presentation/d/1Ip0nHpa6Q-tRhDEpnjVf_Fx5Vp1Ts8kDKLwPtgN8xbY/edit?usp=sharing
+[survival-guide-slides]: https://docs.google.com/presentation/d/1k6JInSq9tXJEMT37BKd2rFTo9XiRK3MHJkm74lnw8Qs/edit?usp=sharing
 
 [//]: # ( Paste above >> [📺][github-orgs-lec] )
 [github-orgs-lec]: #paste-YouTube-link-here
@@ -2225,7 +2225,7 @@ ___
 
 | Topic | Lecture | Slides | 1 | 2 | 3 | 4 |
 | ----- | ------- | ------ | - | - | - | - |
-| Intro to Problem Solving & The Big O | - | - | - | - | - | - |
+| Intro to Problem Solving & The Big O | - | [🖼️][reacto-intro-slides] | - | - | - | - |
 <!-- | Data Structures I: Stacks, Queues, Linked Lists | - | - | - | - | - | - |
 | Data Structures II: Trees, Graphs | - | - | - | - | - | - |
 | System Design I: Object Oriented Design | - | - | - | - | - | - |
@@ -2237,7 +2237,7 @@ ___
 [//]: # ( Paste in table above >> [📺][reacto-intro-lec] )
 [reacto-intro-lec]: #paste-YouTube-link-here
 [//]: # ( Paste in table above >> [🖼️][reacto-intro-slides] )
-[reacto-intro-slides]: https://docs.google.com/presentation/d/1enl6MFqF7W02_W-lA6aD-64QyF0IhNAd7UMgSiZ7Wn0/edit?usp=sharing
+[reacto-intro-slides]: https://docs.google.com/presentation/d/1jKv5gjdLg9H2ElBa4tagAUirJvfZGp-VmR8Wg-XxtnQ/edit?usp=sharing
 [//]: # ( Paste in table above #1 >> [📖 ][reacto-palindrome] )
 [reacto-palindrome]: #link-gist-here
 [//]: # ( Paste in table above #2 >> [📖 ][reacto-str-search] )
@@ -2313,8 +2313,10 @@ ___
 
 | Topic | Lecture | Slides/Documentation |
 | ----- | ------ | ------- |
-| Intro to Grace Shopper & </br> How to Work Together | - | - |
-| Grace Shopper Tiers | - | - |
+| **Grace Shopper** |  |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Intro | - | [🖼️][gs-intro-slides] |
+| &nbsp;&nbsp;&nbsp;&nbsp;Tiers |  | [🛒][gs-tiers] |
+| &nbsp;&nbsp;&nbsp;&nbsp;How to Work Together | - | [🖼️][work-together-slides] |
 <!-- | Grace Shopper Presentation | - | - |
 | **Stackathon** |  | |
 | **Capstone** |  |  |
@@ -2325,7 +2327,7 @@ ___
 [work-together-lec]: #paste-YouTube-link-here
 
 [//]: # ( Paste above >> [🖼️][gs-intro-slides] </br> [🖼️][work-together-slides] )
-[gs-intro-slides]: https://docs.google.com/presentation/d/1qF62tFmCGy89_2xDtCfZG2FCVByTowqWV2cqms4WadI/edit?usp=sharinggrace-shopper-intro-min.pdf
+[gs-intro-slides]: https://docs.google.com/presentation/d/1k6JInSq9tXJEMT37BKd2rFTo9XiRK3MHJkm74lnw8Qs/edit?usp=sharing
 [work-together-slides]: https://docs.google.com/presentation/d/1LAoBg3-NCFfZ5Gaapujb8LFhdAs584wJ1T2GIfY3LFo/edit?usp=sharing
 
 [//]: # ( Paste above >> [🖼️][gs-intro-slides-gh] </br> [🖼️][work-together-slides-gh] )
@@ -2333,7 +2335,7 @@ ___
 [work-together-slides-gh]: https://docs.google.com/presentation/d/1BYA7LuCR7h2L4AsKrvVOEkrBGEaPe0N50begH5tku5Y/edit?usp=sharing
 
 [//]: # ( Paste above >> [🛒][gs-tiers] )
-[gs-tiers]: #add-to-drive-and-link-here
+[gs-tiers]: 03-senior-phase/tiers.md
 
 [//]: # ( Paste above >> [📖][gs-presentation] )
 [gs-presentation]: https://gist.github.com/b17z/8fafb2c2fa485c08e859d24934076f54
