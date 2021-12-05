@@ -101,6 +101,8 @@ ___
 
 ## 🐣 **Junior Phase**
 
+<details><summary>Click to view</summary>
+
 ### ✔️ **Checkpoints**
 
 | Topic | Link | Due by | Solution | Walkthrough |
@@ -208,7 +210,6 @@ ___
 [//]: # ( Paste in table above >> [👾][fitness-tracker-4-sol] )
 [fitness-tracker-4-sol]: #tba
 
-</details>
 
 ___
 
@@ -1579,7 +1580,6 @@ ___
 
 </details>
 
-</details>
 
 ___
 
@@ -1709,7 +1709,6 @@ https://excalidraw.com/#json=5745940631650304,RdU4Ym5uPCM3tvrFKnY7oA
 
 </details>
 
-</details>
 
 ___
 
@@ -1836,7 +1835,6 @@ ___
 
 </details>
 
-</details>
 
 ___
 
@@ -1942,7 +1940,7 @@ ___
 
 ### **Week 11: Data Structures, Algorithms, Advanced Content**
 
-<!-- <details><summary>Click to view</summary> -->
+<details><summary>Click to view</summary>
 
 #### Day 1: JWT Authentication
 
@@ -2179,8 +2177,6 @@ ___
 
 ___
 
-<!--
-
 
 ## 🦅 **Senior Phase**
 
@@ -2388,4 +2384,3 @@ ___
 [big-data-intro]: https://www.youtube.com/watch?v=ymAaPsT8u7k
 
 </details>
--->
