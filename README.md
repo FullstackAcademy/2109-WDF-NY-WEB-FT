@@ -2323,6 +2323,7 @@ ___
 | **Grace Shopper** |  |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Intro | - | [🖼️][gs-intro-slides] |
 | &nbsp;&nbsp;&nbsp;&nbsp;Tiers |  | [🛒][gs-tiers] |
+| &nbsp;&nbsp;&nbsp;&nbsp;Teams |  | [📖][gs-teams] |
 | &nbsp;&nbsp;&nbsp;&nbsp;How to Work Together | - | [🖼️][work-together-slides] |
 <!-- | Grace Shopper Presentation | - | - |
 | **Stackathon** |  | |
@@ -2343,6 +2344,9 @@ ___
 
 [//]: # ( Paste above >> [🛒][gs-tiers] )
 [gs-tiers]: 03-senior-phase/tiers.md
+
+[//]: # ( Paste above >> [📖][gs-teams] )
+[gs-teams]: 03-senior-phase/teams.md
 
 [//]: # ( Paste above >> [📖][gs-presentation] )
 [gs-presentation]: https://gist.github.com/b17z/8fafb2c2fa485c08e859d24934076f54
