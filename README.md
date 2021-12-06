@@ -2233,7 +2233,7 @@ ___
 
 | Topic | Lecture | Slides | 1 | 2 | 3 | 4 |
 | ----- | ------- | ------ | - | - | - | - |
-| Intro to Problem Solving & The Big O | - | [🖼️][reacto-intro-slides] | - | - | - | - |
+| Intro to Problem Solving & The Big O | [📺][reacto-intro-lec] | [🖼️][reacto-intro-slides] | - | - | - | - |
 <!-- | Data Structures I: Stacks, Queues, Linked Lists | - | - | - | - | - | - |
 | Data Structures II: Trees, Graphs | - | - | - | - | - | - |
 | System Design I: Object Oriented Design | - | - | - | - | - | - |
@@ -2243,7 +2243,7 @@ ___
 
 [//]: # ( Intro to Problem Solving & The Big O )
 [//]: # ( Paste in table above >> [📺][reacto-intro-lec] )
-[reacto-intro-lec]: #paste-YouTube-link-here
+[reacto-intro-lec]: https://youtu.be/sQtakCSXwxM
 [//]: # ( Paste in table above >> [🖼️][reacto-intro-slides] )
 [reacto-intro-slides]: https://docs.google.com/presentation/d/1jKv5gjdLg9H2ElBa4tagAUirJvfZGp-VmR8Wg-XxtnQ/edit?usp=sharing
 [//]: # ( Paste in table above #1 >> [📖 ][reacto-palindrome] )
