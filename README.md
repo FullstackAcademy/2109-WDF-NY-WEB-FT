@@ -2185,7 +2185,10 @@ ___
 | Topic | Lecture | Slides/Guides |
 | ----- | ------- | ------ |
 | Senior Phase Survival Guide | - | [🖼️][survival-guide-slides] |
-| Getting Started with Github Organizations | - | [📖][github-orgs-doc] </br> [📺][github-orgs-vid] |
+| **Git** |  |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Workflow |  | [📖][git-workflow] |
+| &nbsp;&nbsp;&nbsp;&nbsp;Github Orgs | [📺][github-orgs-vid] | [📖][github-orgs-doc] |
+| &nbsp;&nbsp;&nbsp;&nbsp;Github Project Board |  | [📖][github-project-board] |
 
 [//]: # ( Paste above >> [📺][survival-guide-lec] )
 [survival-guide-lec]: #paste-YouTube-link-here
@@ -2197,6 +2200,10 @@ ___
 [//]: # ( Paste above >> [📖][github-orgs-doc] </br> [📺][github-orgs-vid])
 [github-orgs-doc]: https://docs.google.com/document/d/1rj9_yk6tXdJuH6aQ5P8gGhXAi1JblCU_4OoegU9h5Os/edit?usp=sharing
 [github-orgs-vid]: https://youtu.be/f1OjNabRxAM
+[//]: # ( Paste above >> [📖][git-workflow] )
+[git-workflow]: 03-senior-phase/git-workflow.md
+[//]: # ( Paste above >> [📖][github-project-board] )
+[github-project-board]: https://docs.google.com/document/d/1vzGh3CIGFgWS-UhY8eun1iUEhBbPxFsYX_YFNNI2PNQ/edit
 
 **<details><summary>Extra resources:</summary>**
 
