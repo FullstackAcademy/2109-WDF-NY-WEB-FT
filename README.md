@@ -2184,14 +2184,14 @@ ___
 
 | Topic | Lecture | Slides/Guides |
 | ----- | ------- | ------ |
-| Senior Phase Survival Guide | - | [🖼️][survival-guide-slides] |
+| Senior Phase Survival Guide | [📺][survival-guide-lec] | [🖼️][survival-guide-slides] |
 | **Git** | [📺][github-orgs-lec] |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Workflow |  | [📖][git-workflow] |
 | &nbsp;&nbsp;&nbsp;&nbsp;Github Orgs | [📺][github-orgs-vid]| [📖][github-orgs-doc] |
 | &nbsp;&nbsp;&nbsp;&nbsp;Github Project Board |  | [📖][github-project-board] |
 
 [//]: # ( Paste above >> [📺][survival-guide-lec] )
-[survival-guide-lec]: #paste-YouTube-link-here
+[survival-guide-lec]: https://youtu.be/9LbxQWQueMw
 [//]: # ( Paste above >> [🖼️][survival-guide-slides] )
 [survival-guide-slides]: https://docs.google.com/presentation/d/1k6JInSq9tXJEMT37BKd2rFTo9XiRK3MHJkm74lnw8Qs/edit?usp=sharing
 
@@ -2322,7 +2322,7 @@ ___
 | Topic | Lecture | Slides/Documentation |
 | ----- | ------ | ------- |
 | **Grace Shopper** |  |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Intro | - | [🖼️][gs-intro-slides] |
+| &nbsp;&nbsp;&nbsp;&nbsp;Intro | [📺][gs-intro-lec] | [🖼️][gs-intro-slides] |
 | &nbsp;&nbsp;&nbsp;&nbsp;Tiers |  | [🛒][gs-tiers] |
 | &nbsp;&nbsp;&nbsp;&nbsp;Teams |  | [📖][gs-teams] |
 | &nbsp;&nbsp;&nbsp;&nbsp;How to Work Together | - | [🖼️][work-together-slides] |
@@ -2332,7 +2332,7 @@ ___
 | Demo Day Brief & </br> Presentation | - | - | -->
 
 [//]: # ( Paste above >> [📺][gs-intro-lec] </br> [📺][work-together-lec] )
-[gs-intro-lec]: #paste-YouTube-link-here
+[gs-intro-lec]: https://youtu.be/WbaAuueCAt4
 [work-together-lec]: #paste-YouTube-link-here
 
 [//]: # ( Paste above >> [🖼️][gs-intro-slides] </br> [🖼️][work-together-slides] )
