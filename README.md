@@ -2326,9 +2326,9 @@ ___
 | &nbsp;&nbsp;&nbsp;&nbsp;Tiers |  | [🛒][gs-tiers] |
 | &nbsp;&nbsp;&nbsp;&nbsp;Teams |  | [📖][gs-teams] |
 | &nbsp;&nbsp;&nbsp;&nbsp;How to Work Together | - | [🖼️][work-together-slides] |
-<!-- | Grace Shopper Presentation | - | - |
-| **Stackathon** |  | |
-| **Capstone** |  |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Presentations | [📺][gs-cohort-presentations] | - |
+| **Stackathon** | [📺][stackathon-lec] | [🖼️][stackathon-slides] |
+<!-- | **Capstone** |  |  |
 | Demo Day Brief & </br> Presentation | - | - | -->
 
 [//]: # ( Paste above >> [📺][gs-intro-lec] </br> [📺][work-together-lec] )
@@ -2352,10 +2352,13 @@ ___
 [//]: # ( Paste above >> [📖][gs-presentation] )
 [gs-presentation]: https://gist.github.com/b17z/8fafb2c2fa485c08e859d24934076f54
 
+[//]: # ( Paste above >> [📺][gs-cohort-presentations] )
+[gs-cohort-presentations]: https://youtu.be/Z1I7tnw3QZk
+
 [//]: # ( Paste above >> [📺][stackathon-lec] )
-[stackathon-lec]: #paste-YouTube-link-here
+[stackathon-lec]: https://youtu.be/ta1RJuqKNkw
 [//]: # ( Paste above >> [🖼️][stackathon-slides] )
-[stackathon-slides]: #add-to-drive-and-link-here
+[stackathon-slides]: https://docs.google.com/presentation/d/1Ul_dR0DrZ-PDieCAHaFiMgoXeUAGEYU4fv_H5y0o4qc/edit?usp=sharing
 
 [//]: # ( Paste above >> [📺][capstone-lec] )
 [capstone-lec]: #paste-YouTube-link-here
