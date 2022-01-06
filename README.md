@@ -2234,9 +2234,9 @@ ___
 | Topic | Lecture | Slides | 1 | 2 | 3 | 4 |
 | ----- | ------- | ------ | - | - | - | - |
 | Intro to Problem Solving & The Big O | [📺][reacto-intro-lec] | [🖼️][reacto-intro-slides] | - | - | - | - |
-<!-- | Data Structures I: Stacks, Queues, Linked Lists | - | - | - | - | - | - |
-| Data Structures II: Trees, Graphs | - | - | - | - | - | - |
-| System Design I: Object Oriented Design | - | - | - | - | - | - |
+| Data Structures I: Stacks, Queues, Linked Lists | - | - | - | - | - | - |
+| Data Structures II: Trees, Graphs | - | [🖼️][reacto-ds-2-slides] | - | - | - | - |
+<!--| System Design I: Object Oriented Design | - | - | - | - | - | - |
 | System Design II: Architecture | - | - | - | - | - | - |
 | Recursion & Dynamic Programming | - | - | - | - | - | - |
 | Web & Miscellaneous | - | - | - | - | - | - | -->
@@ -2273,7 +2273,7 @@ ___
 [//]: # ( Paste in table above >> [📺][reacto-ds-2-lec] )
 [reacto-ds-2-lec]: #paste-YouTube-link-or-here
 [//]: # ( Paste in table above >> [🖼️][reacto-ds-2-slides] )
-[reacto-ds-2-slides]: https://docs.google.com/presentation/d/1tFloPuBix5sZA1goJ4SAmM_Wac50P4ecgPQWi9oa8CM/edit?usp=sharing
+[reacto-ds-2-slides]: https://docs.google.com/presentation/d/1jnEoevZtTMm65cW_ryWahPhvgjYgzOD3LC8MbBUhc2A/edit?usp=sharing
 [//]: # ( Paste in table above #1 >> [📖 ][reacto-bfs-trees] )
 [reacto-bfs-trees]: #link-gist-here
 [//]: # ( Paste in table above #2 >> [📖 ][reacto-sodoku-check] )
