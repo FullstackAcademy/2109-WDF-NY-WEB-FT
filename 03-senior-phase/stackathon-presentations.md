@@ -6,7 +6,7 @@
 
 **Viewing Party!**
 
-* You will pre-record a video demo presenting your Stackathon and upload it to YouTube (much like with AWP) by Monday 08/16 10:30AM EST.
+* You will pre-record a video demo presenting your Stackathon and upload it to YouTube (much like with AWP) by Monday 01/10 10:00AM EST.
 * You will be split into groups of 5-6 students and staff member, where each of you will present your pre-recorded video in a pre-assigned Zoom breakout room.
 * Check which breakout room you will be presenting in [here](./slots.md)
 * Discussion between presentations is encouraged. :)
