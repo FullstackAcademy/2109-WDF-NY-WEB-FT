@@ -13,8 +13,8 @@
 1. Juan Mateo
 2. Mili Conde
 3. Angel Hernandez
-4. Tremaine O Garro
-5. Joel Bascombe
+4. ~~Tremaine O Garro~~
+5. ~~Joel Bascombe~~
 6. Christina Delancy
 
 ## Room 2
@@ -26,7 +26,7 @@
 ### Order
 
 1. Jose Lema
-2. Carlos Lerma
+2. ~~Carlos Lerma~~
 3. Regine Blanchard
 4. Malcolm Mack
 5. Janelly Cedeno Aquino
