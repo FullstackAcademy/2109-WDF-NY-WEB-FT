@@ -15,7 +15,7 @@
 
 **Slack Channel:** [#fsa-2104-capstone-team-01](https://fullstackacademy.slack.com/archives/C02T64FRAP7)
 
-**Default Idea:** [Realtime Sprite Editor](./default-ideas/01-arts-collaborative-doodler.md)
+**Default Idea:** [Collaborative Doodler](./default-ideas/01-arts-collaborative-doodler.md)
 
 ## 2
 
@@ -32,7 +32,7 @@
 
 **Slack Channel:** [#fsa-2104-capstone-team-02](https://fullstackacademy.slack.com/archives/C02TMM75KQ9)
 
-**Default Idea:** [Trip Planner](./default-ideas/02-dataviz-financial-planner.md)
+**Default Idea:** [Financial Planner](./default-ideas/02-dataviz-financial-planner.md)
 
 ## 3
 
@@ -48,7 +48,7 @@
 
 **Slack Channel:** [#fsa-2104-capstone-team-03](https://fullstackacademy.slack.com/archives/C02SUDG3M1D)
 
-**Default Idea:** [Financial Planner](./default-ideas/03-gaming-card-game.md)
+**Default Idea:** [Card Game](./default-ideas/03-gaming-card-game.md)
 
 ## 4
 
@@ -65,7 +65,7 @@
 
 **Slack Channel:** [#fsa-2104-capstone-team-04](https://fullstackacademy.slack.com/archives/C02T938402X)
 
-**Default Idea:** [Pictionary](./default-ideas/04-mobile-job-platform.md)
+**Default Idea:** [Mobile Job Platform](./default-ideas/04-mobile-job-platform.md)
 
 ## 5
 
@@ -81,4 +81,4 @@
 
 **Slack Channel:** [#fsa-2104-capstone-team-05](https://fullstackacademy.slack.com/archives/C02SUDGBX0X)
 
-**Default Idea:** [Bill Splitter](./default-ideas/05-ml-postico.md)
+**Default Idea:** [Postico Clone](./default-ideas/05-ml-postico.md)
