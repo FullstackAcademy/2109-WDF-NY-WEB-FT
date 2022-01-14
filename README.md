@@ -2235,9 +2235,9 @@ ___
 | ----- | ------- | ------ | - | - | - | - |
 | Intro to Problem Solving & The Big O | [📺][reacto-intro-lec] | [🖼️][reacto-intro-slides] | - | - | - | - |
 | Data Structures I: Stacks, Queues, Linked Lists | - | - | - | - | - | - |
-| Data Structures II: Trees, Graphs | - | [🖼️][reacto-ds-2-slides] | - | - | - | - |
-<!--| System Design I: Object Oriented Design | - | - | - | - | - | - |
-| System Design II: Architecture | - | - | - | - | - | - |
+| Data Structures II: Trees, Graphs | [📺][reacto-ds-2-lec] | [🖼️][reacto-ds-2-slides] | - | - | - | - |
+| System Design I: Object Oriented Design | [📺][reacto-sys-des-1-lec] | [🖼️][reacto-sys-des-1-slides] | - | - | - | - |
+<!--| System Design II: Architecture | - | - | - | - | - | - |
 | Recursion & Dynamic Programming | - | - | - | - | - | - |
 | Web & Miscellaneous | - | - | - | - | - | - | -->
 
@@ -2271,7 +2271,7 @@ ___
 
 [//]: # ( Data Structures II: Trees, Graphs )
 [//]: # ( Paste in table above >> [📺][reacto-ds-2-lec] )
-[reacto-ds-2-lec]: #paste-YouTube-link-or-here
+[reacto-ds-2-lec]: https://youtu.be/vEVLfypOei8
 [//]: # ( Paste in table above >> [🖼️][reacto-ds-2-slides] )
 [reacto-ds-2-slides]: https://docs.google.com/presentation/d/1jnEoevZtTMm65cW_ryWahPhvgjYgzOD3LC8MbBUhc2A/edit?usp=sharing
 [//]: # ( Paste in table above #1 >> [📖 ][reacto-bfs-trees] )
@@ -2285,9 +2285,9 @@ ___
 
 [//]: # ( System Design I: Object Oriented Design )
 [//]: # ( Paste in table above >> [📺][reacto-sys-des-1-lec] )
-[reacto-sys-des-1-lec]: #paste-YouTube-link-or-here
+[reacto-sys-des-1-lec]: https://youtu.be/SVdeswfozq4
 [//]: # ( Paste in table above >> [🖼️][reacto-sys-des-1-slides] )
-[reacto-sys-des-1-slides]: https://docs.google.com/presentation/d/1vUmALu9MTwmrXI-x0peFxVhTd46vs7-uFHme2e5RUhI/edit?usp=sharing
+[reacto-sys-des-1-slides]: https://docs.google.com/presentation/d/1qCzloo0gNBwEUDE7yAqlhGseGVdM-a3upotWrysx0oY/edit?usp=sharing
 [//]: # ( Paste in table above #1 >> [📖 ][reacto-transit-tracker] )
 [reacto-transit-tracker]: #link-gist-here
 
