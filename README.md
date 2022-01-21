@@ -2237,8 +2237,8 @@ ___
 | Data Structures I: Stacks, Queues, Linked Lists | - | - | - | - | - | - |
 | Data Structures II: Trees, Graphs | [📺][reacto-ds-2-lec] | [🖼️][reacto-ds-2-slides] | - | - | - | - |
 | System Design I: Object Oriented Design | [📺][reacto-sys-des-1-lec] | [🖼️][reacto-sys-des-1-slides] | - | - | - | - |
-<!--| System Design II: Architecture | - | - | - | - | - | - |
-| Recursion & Dynamic Programming | - | - | - | - | - | - |
+| System Design II: Architecture | [📺][reacto-sys-des-2-lec] | [🖼️][reacto-sys-des-2-slides] | - | - | - | - |
+<!--| Recursion & Dynamic Programming | - | - | - | - | - | - |
 | Web & Miscellaneous | - | - | - | - | - | - | -->
 
 [//]: # ( Intro to Problem Solving & The Big O )
@@ -2293,9 +2293,9 @@ ___
 
 [//]: # ( System Design II: Architecture )
 [//]: # ( Paste in table above >> [📺][reacto-sys-des-2-lec] )
-[reacto-sys-des-2-lec]: #paste-YouTube-link-or-here
+[reacto-sys-des-2-lec]: https://youtu.be/6xYlaQDNkLo
 [//]: # ( Paste in table above >> [🖼️][reacto-sys-des-2-slides] )
-[reacto-sys-des-2-slides]: https://docs.google.com/presentation/d/1ubjRY7lfihMQpwrXtA7X0wzYlVYc5rVDMuVf9KgXbQI/edit?usp=sharing
+[reacto-sys-des-2-slides]: https://docs.google.com/presentation/d/1GilsViGF2lKMF59z8kNEgKOfuE22ccrkJ3EnSDnScUo/edit?usp=sharing
 [//]: # ( Paste in table above #1 >> [📖 ][reacto-fandango-1] )
 [reacto-fandango-1]: #link-gist-here
 [//]: # ( Paste in table above #2 >> [📖 ][reacto-fandango-2] )
