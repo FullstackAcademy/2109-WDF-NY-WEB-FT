@@ -2330,7 +2330,7 @@ ___
 | **Stackathon** | [📺][stackathon-lec] | [🖼️][stackathon-slides] [📺][stackathon-videos] |
 | **Capstone** |  |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Intro | [📺][capstone-lec] | [🖼️][capstone-slides] |
-<!--| Demo Day Brief & </br> Presentation | - | - | -->
+| &nbsp;&nbsp;&nbsp;&nbsp;Demo Day Brief | [📺][demo-day-lec] | [🖼️][demo-day-brief] |
 
 [//]: # ( Paste above >> [📺][gs-intro-lec] </br> [📺][work-together-lec] )
 [gs-intro-lec]: https://youtu.be/WbaAuueCAt4
@@ -2368,9 +2368,9 @@ ___
 [capstone-slides]: https://docs.google.com/presentation/d/1UCbDERghENxzFg4TekesgnqT-J2zV1whSrc7UMMdd0Q/edit?usp=sharing
 
 [//]: # ( Paste above >> [📺][demo-day-lec] )
-[demo-day-lec]: #paste-YouTube-link-here
+[demo-day-lec]: https://youtu.be/_L9wqpANwVA
 [//]: # ( Paste above >> [🖼️][demo-day-brief] </br> [🖼️][capstone-presentations] )
-[demo-day-brief]: https://docs.google.com/presentation/d/1pWg6pNPWVnbUbLilu9R3LK1z70y-VnPKg0RRo10Xmfk/edit?usp=sharing
+[demo-day-brief]: https://docs.google.com/presentation/d/1m2A41lxydsdlFjEfb66SJwtQVAr_2Q1nPs8bBrTRowA/edit?usp=sharing
 [capstone-presentations]: https://docs.google.com/presentation/d/17koBD09kmfEGSpBDzgbNgovBzgPDCImb6GgkhU1ONV4/edit?usp=sharing
 
 ### **Extra Resources**
